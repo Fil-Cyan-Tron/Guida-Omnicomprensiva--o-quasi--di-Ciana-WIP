@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  10 MAY 2023 17:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  10 MAY 2023 17:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1859,7 +1859,7 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 93.
 [26
 
 
-] (./data/NPC/Mythrenwald.tex
+] (./data/Eovras/Mythrenwald.tex
 Capitolo 20.
 contour: Using 32 copies for `Capitolo\ 20:' on input line 1.
 contour: Using 32 copies for `Foresta' on input line 1.
@@ -1996,7 +1996,7 @@ Package rerunfilecheck Info: File `Guida.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  34681 strings out of 478287
- 674713 string characters out of 5849290
+ 674728 string characters out of 5849290
  1412849 words of memory out of 5000000
  51516 multiletter control sequences out of 15000+600000
  576251 words of font info for 354 fonts, out of 8000000 for 9000
