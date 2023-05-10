@@ -1,0 +1,99 @@
+\documentclass[letterpaper,twocolumn,openany,nodeprecatedcode]{dndbook}
+
+% Use babel or polyglossia to automatically redefine macros for terms
+% Armor Class, Level, etc...
+% Default output is in English; captions are located in lib/dndstrings.sty.
+% If no captions exist for a language, English will be used.
+%1. To load a language with babel:
+%	\usepackage[<lang>]{babel}
+%2. To load a language with polyglossia:
+%	\usepackage{polyglossia}
+%	\setdefaultlanguage{<lang>}
+\usepackage[italian]{babel}
+%\usepackage[italian]{babel}
+% For further options (multilanguage documents, hypenations, language environments...)
+% please refer to babel/polyglossia's documentation.
+
+\usepackage[utf8]{inputenc}
+\usepackage[singlelinecheck=false]{caption}
+\usepackage{kantlipsum}
+\usepackage{listings}
+\usepackage{shortvrb}
+\usepackage{stfloats}
+\usepackage{hyperref}
+
+\captionsetup[table]{labelformat=empty,font={sf,sc,bf,},skip=0pt}
+
+\MakeShortVerb{|}
+
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+  breaklines=true,
+}
+
+\title{Compendio (Semi)Omnicomprensivo di Ciana\\
+    \large {\textit{Alcuni potranno morire, ma è un sacrificio che sono pronto a fare.}}
+    }
+\author{Ciana, ovviamente}
+\date{}
+
+\begin{document}
+
+\frontmatter
+
+\maketitle
+
+\tableofcontents
+
+\mainmatter%
+
+\part{Ipotesi necessarie}
+
+\input{data/Ipotesi/Introduzione.tex}
+
+\input{data/Ipotesi/Regole.tex}
+
+\part{Opzioni per i personaggi}
+
+\input{data/Personaggi/Razze.tex}
+
+\input{data/Personaggi/Artefice.tex}
+
+\input{data/Personaggi/Barbaro.tex}
+
+\input{data/Personaggi/Bardo.tex}
+
+\input{data/Personaggi/Chierico.tex}
+
+\input{data/Personaggi/Druido.tex}
+
+\input{data/Personaggi/Guerriero.tex}
+
+\input{data/Personaggi/Ladro.tex}
+
+\input{data/Personaggi/Mago.tex}
+
+\input{data/Personaggi/Monaco.tex}
+
+\input{data/Personaggi/Paladino.tex}
+
+\input{data/Personaggi/Ranger.tex}
+
+\input{data/Personaggi/Stregone.tex}
+
+\input{data/Personaggi/Warlock.tex}
+
+\input{data/Personaggi/Talenti.tex}
+
+\input{data/Personaggi/Incantesimi.tex}
+
+\input{data/Personaggi/Oggetti.tex}
+
+\part{Il Mondo di Eovras}
+
+\input{data/NPC/Mythrenwald.tex}
+
+\part{Nemici e Pericoli}
+
+\end{document}

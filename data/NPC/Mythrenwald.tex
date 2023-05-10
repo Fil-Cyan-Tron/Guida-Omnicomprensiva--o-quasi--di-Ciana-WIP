@@ -1,0 +1,88 @@
+\chapter{Foresta di Mythrenwald}
+
+\section{Luoghi}
+
+\section{Abitanti}
+
+\subsection{Halimath Selevarum}
+
+\subsubsection{Il cieco con gli occhi aperti}
+
+Nessuno conosce davvero la storia di come il grande Guardiano di Mythrenwald abbia perso la vista, ma tutti coloro che ne abbiano mai sentito parlare sanno bene che non è saggio assumere che Halimath Selevarum non sia altro che un monaco cieco e indifeso. \\ La sua sconfinata saggezza è frutto dell'esperienza di quasi nove secoli, la sua è una storia di redenzione e di introspezione... ma non è detto che sia così propenso a raccontarvela.
+
+\subsubsection{Un passato oscuro}
+
+Sono in pochi coloro che sanno che in realtà Halimath è giunto a Eovras quando ormai era già un guerriero esperto. \\ Una notte d'estate fu trovato in una radura, nudo e privo di sensi, il suo corpo pieno di bruciature e cicatrici, ma con un sorriso sereno in volto. Quando i druidi di Mythrenwald riuscirono a fargli riprendere i sensi, si trovarono davanti un elfo completamente in pace con sè stesso. Non parlò mai a nessuno del suo passato.
+
+\begin{DndMonster}[float*=b,width=\textwidth + 8pt]{Halimath Selevarum}
+    \begin{multicols}{2}
+      \DndMonsterType{Elfo dei boschi, buono neutrale}
+  
+      % If you want to use commas in the key values, enclose the values in braces.
+      \DndMonsterBasics[
+          armor-class = {20},
+          hit-points  = {\DndDice{40d8 + 200}},
+          speed       = {19.5 m},
+        ]
+  
+      \DndMonsterAbilityScores[
+          str = 12,
+          dex = 20,
+          con = 20,
+          int = 20,
+          wis = 20,
+          cha = 16,
+        ]
+  
+      \DndMonsterDetails[
+          saving-throws = {Str +13, Dex +17, Con +5, Int +17, Wis +17, Cha +5},
+          skills = {Animal Handling +17, Arcana +17, Athletics +13, Insight +17, Perception +17, Sleight of Hand +17, Stealth +17},
+          %damage-vulnerabilities = {cold},
+          %damage-resistances = {bludgeoning, piercing, and slashing from nonmagical attacks},
+          %damage-immunities = {poison},
+          condition-immunities = {Avvelenato,},
+          senses = {Vista cieca 36 m, vista delle auree 72 m. Percezione Passiva 27},
+          languages = {Comune, Elfico, Silvano, Gnomesco, Druidico, Primordiale, Draconico},
+          challenge = 1,
+        ]
+      % Traits
+
+      \DndMonsterAction{Tratti di classe}
+      Halimath è un Monaco dell'Ombra Redenta di 20° livello e un Druido del Circolo delle Stelle di 20° livello. Possiede tutti i tratti garantitigli da queste due classi.
+
+      \DndMonsterAction{Incantesimi}
+      Halimath è un druido di 20° livello. Conosce tutti gli incantesimi da druido. Recupera i suoi slot dopo ogni riposo lungo.
+      \begin{DndTable}[header=Slot per livello]{XXXXXXXXX}
+        1° & 2° & 3° & 4° & 5° & 6° & 7° & 8° & 9°\\
+        8  & 6  & 6  & 4  & 3  & 2  & 2  & 1  & 1 \\
+      \end{DndTable}
+  
+      \DndMonsterSection{Azioni}
+      \DndMonsterAction{Multiattacco}
+      Halimath compie tre attacchi da mischia.
+  
+      %Default values are shown commented out
+      \DndMonsterAttack[
+        name=Pugni,
+        distance=melee, % valid options are in the set {both,melee,ranged},
+        %type=weapon, %valid options are in the set {weapon,spell}
+        mod=+17,
+        %reach=1.5,
+        %range=20/60,
+        %targets=bersaglio singolo,
+        dmg=\DndDice{1d10+5},
+        dmg-type=forza,
+        %plus-dmg=,
+        %plus-dmg-type=,
+        %or-dmg=,
+        %or-dmg-when=,
+        %extra=,
+      ]
+  
+      % Legendary Actions
+      \DndMonsterSection{Punti ki}
+      Halimath possiede 32 punti ki che può usare per i poteri di un Monaco dell'Ombra Redenta di 20° livello.
+    \end{multicols}
+\end{DndMonster}
+
+\subsection{I Druidi di Mythrenwald}
