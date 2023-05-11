@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  11 MAY 2023 12:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  11 MAY 2023 16:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1036,75 +1036,75 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 12.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <12> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 24.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 20.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 24.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 20.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 32.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <10> not available
-(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 32.
+(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <17.28> not available
-(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 32.
+(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 34.
+(Font)              scaled to size 9.0pt on input line 44.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <9> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 41.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 51.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 41.
+(Font)              scaled to size 9.0pt on input line 51.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pbk.fd)
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 []\T1/GilliusADFNoTwo-LF/m/n/9 Animal Hand-ling +17, Ar-ca-na +17, Athle-tics +13, In-sight
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 []\T1/GilliusADFNoTwo-LF/m/n/9 Vista cie-ca 36 m, vi-sta del-le au-ree 72 m. Per-ce-zio-ne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 []\T1/GilliusADFNoTwo-LF/m/n/9 Comune, El-fi-co, Sil-va-no, Gno-me-sco, Drui-di-co,
  []
 
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/sl' in size <9> not available
-(Font)              Font shape `T1/GilliusADFNoTwo-LF/m/it' tried instead on input line 65.
+(Font)              Font shape `T1/GilliusADFNoTwo-LF/m/it' tried instead on input line 75.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 65.
+(Font)              scaled to size 9.0pt on input line 75.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/sl' in size <9> not available
-(Font)              Font shape `T1/GilliusADFNoTwo-LF/b/it' tried instead on input line 65.
+(Font)              Font shape `T1/GilliusADFNoTwo-LF/b/it' tried instead on input line 75.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/it' will be
-(Font)              scaled to size 9.0pt on input line 65.
-LaTeX Font Info:    Trying to load font information for TS1+GilliusADFNoTwo-LF on input line 66.
+(Font)              scaled to size 9.0pt on input line 75.
+LaTeX Font Info:    Trying to load font information for TS1+GilliusADFNoTwo-LF on input line 76.
 (/usr/share/texlive/texmf-dist/tex/latex/gillius/TS1GilliusADFNoTwo-LF.fd
 File: TS1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for TS1/GilliusADFNoTwo-LF.
 )
 LaTeX Font Info:    Font shape `TS1/GilliusADFNoTwo-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 66.
+(Font)              scaled to size 9.0pt on input line 76.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `GilliusADFNoTwo-LF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--67
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
 \T1/GilliusADFNoTwo-LF/b/it/9 Tratti di clas-se. \T1/GilliusADFNoTwo-LF/m/n/9 Ha-li-math è un Mo-na-co del-l'Om-bra Re-den-ta
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--67
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
 \T1/GilliusADFNoTwo-LF/m/n/9 di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo e un Drui-do del Cir-co-lo del-le Stel-le di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--70
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 \T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Ha-li-math è un drui-do di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo. Co-no-sce tut-ti
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--70
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 \T1/GilliusADFNoTwo-LF/m/n/9 gli in-can-te-si-mi da drui-do. Re-cu-pe-ra i suoi slot do-po ogni ri-po-so
  []
 
-LaTeX Font Info:    Trying to load font information for T1+jkpss on input line 70.
+LaTeX Font Info:    Trying to load font information for T1+jkpss on input line 80.
 (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/t1jkpss.fd
 File: t1jkpss.fd 2007/07/16 Fontinst v1.928 font definitions for T1/jkpss.
 )
@@ -1126,46 +1126,67 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 \T1/GilliusADFNoTwo-LF/b/it/9 Pugni. \T1/GilliusADFNoTwo-LF/m/it/9 At-tac-co con Ar-ma da Mi-schia: \T1/GilliusADFNoTwo-LF/m/n/9 +17 per col-pi-re, por-ta-ta 5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
 \T1/GilliusADFNoTwo-LF/m/n/9 Halimath pos-sie-de 32 pun-ti ki che può usa-re per i po-te-ri di un
  []
-
-)
-
-Package caption Warning: Unused \captionsetup[table] on input line 25.
-See the caption package documentation for explanation.
 
 <img/paper.jpg, id=19, 2559.5625pt x 3312.375pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 39.
+Package pdftex.def Info: img/paper.jpg  used on input line 111.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 39.
+Package pdftex.def Info: img/paper.jpg  used on input line 111.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 39.
+Package pdftex.def Info: img/paper.jpg  used on input line 111.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <5> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 111.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <7> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 39.
-LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <7> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 39.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 111.
 <img/footerscroll.pdf, id=20, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 39.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 111.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
  <./img/paper.jpg> <./img/footerscroll.pdf>]
+LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <10> not available
+(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 119.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 135.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 135.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 135.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 135.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [2]
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <10> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 135.
+)
+
+Package caption Warning: Unused \captionsetup[table] on input line 25.
+See the caption package documentation for explanation.
+
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 39.
@@ -1182,23 +1203,25 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 39.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [2] (./temp.aux)
+[3
+
+] (./temp.aux)
 Package rerunfilecheck Info: File `temp.out' has not changed.
-(rerunfilecheck)             Checksum: 8F6E5CDAF22D78F71B368EF8C229BA68;335.
+(rerunfilecheck)             Checksum: 8753290DEC5A9E60CD0C06DFE28FEE39;335.
  ) 
 Here is how much of TeX's memory you used:
- 33813 strings out of 478287
- 660482 string characters out of 5849290
- 1421846 words of memory out of 5000000
- 51085 multiletter control sequences out of 15000+600000
- 553261 words of font info for 217 fonts, out of 8000000 for 9000
+ 33898 strings out of 478287
+ 661450 string characters out of 5849290
+ 1424456 words of memory out of 5000000
+ 51097 multiletter control sequences out of 15000+600000
+ 561483 words of font info for 254 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 119i,17n,122p,1060b,1128s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}</usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on temp.pdf (2 pages, 358982 bytes).
+ 119i,17n,122p,1060b,1242s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}</usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
+Output written on temp.pdf (3 pages, 378539 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 102959 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
+ 113199 words of extra memory for PDF output out of 128383 (max. 10000000)
 

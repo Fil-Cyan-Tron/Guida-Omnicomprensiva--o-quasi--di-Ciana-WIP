@@ -163,5 +163,7 @@
 \contentsline {subsubsection}{Il cieco con gli occhi aperti}{27}{subsubsection*.138}%
 \contentsline {subsubsection}{Un passato oscuro}{27}{subsubsection*.139}%
 \contentsline {subsection}{I Druidi di Mythrenwald}{27}{subsection*.141}%
+\contentsline {subsubsection}{I principi del Circolo}{27}{subsubsection*.142}%
+\contentsline {paragraph}{Protezione della Foresta}{27}{paragraph*.143}%
 \contentsline {part}{\numberline {4}Nemici e Pericoli}{29}{part.4}%
 \contentsfinish 

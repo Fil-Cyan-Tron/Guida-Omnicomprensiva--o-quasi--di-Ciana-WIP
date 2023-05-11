@@ -65,12 +65,14 @@
     \end{tikzpicture}
   }
 
-\fancyfoot[CE, CO]{%
-\DndFontFooter \leftmark
-    \begin{tikzpicture}[remember~picture,overlay]
-        \node[inner~sep=0pt,anchor=center,xshift=0cm,yshift=0.7cm] at (current~page.south) {This~is~unofficial~Fan~Content~permitted~under~the Fan~Content~Policy.~Not~approved/endorsed~by~Wizards.~of~the~materials~used};
-        \node[inner~sep=0pt,anchor=center,xshift=0cm,yshift=0.4cm] at (current~page.south) {are~property~of~Wizards~of~the~Coast.~©Wizards~of~the~Coast~LLC.};
-\end{tikzpicture}
+  \fancyfoot[CE, CO]{%
+\tiny \vspace{0.5cm}
+This~is~unofficial~Fan~Content~permitted~under~the~Fan~Content~Policy.~Not~approved/endorsed~by~Wizards.Portions~of~the~materials~used\\
+are~property~of~Wizards~of~the~Coast.~©Wizards~of~the~Coast~LLC.
+  %\begin{tikzpicture}[remember~picture,overlay]
+  %  \node[inner~sep=0pt,anchor=center,xshift=0cm,yshift=0.7cm] at (current~page.south) {};
+  %  \node[inner~sep=0pt,anchor=center,xshift=0cm,yshift=0.4cm] at (current~page.south) {};
+  %\end{tikzpicture}
 }
 
 \fancypagestyle {plain} {}
