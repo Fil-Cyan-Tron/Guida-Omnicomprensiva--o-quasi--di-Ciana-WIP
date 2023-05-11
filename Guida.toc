@@ -109,7 +109,7 @@
 \contentsline {subsection}{Sacrificio assoluto}{17}{subsection*.93}%
 \contentsline {chapter}{\numberline {13}Paladino}{18}{chapter.13}%
 \contentsline {section}{Privilegi di Classe Opzionali}{18}{section*.94}%
-\contentsline {section}{Giuramento di Verità}{18}{section*.95}%
+\contentsline {section}{Giuramento di Veramente Vera Verità}{18}{section*.95}%
 \contentsline {chapter}{\numberline {14}Ranger}{19}{chapter.14}%
 \contentsline {section}{Privilegi di Classe Opzionali}{19}{section*.96}%
 \contentsline {chapter}{\numberline {15}Stregone}{20}{chapter.15}%
