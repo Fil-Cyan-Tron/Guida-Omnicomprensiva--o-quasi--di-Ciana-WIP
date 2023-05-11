@@ -157,10 +157,11 @@
 \contentsline {chapter}{\numberline {20}Foresta di Mythrenwald}{27}{chapter.20}%
 \contentsline {section}{Luoghi}{27}{section*.133}%
 \contentsline {subsection}{Il Grande Albero di Mythrenbaum}{27}{subsection*.134}%
-\contentsline {section}{Abitanti}{27}{section*.135}%
-\contentsline {subsection}{Halimath Selevarum}{27}{subsection*.136}%
-\contentsline {subsubsection}{Il cieco con gli occhi aperti}{27}{subsubsection*.137}%
-\contentsline {subsubsection}{Un passato oscuro}{27}{subsubsection*.138}%
-\contentsline {subsection}{I Druidi di Mythrenwald}{27}{subsection*.140}%
+\contentsline {subsection}{I villaggi di Mythrenwald}{27}{subsection*.135}%
+\contentsline {section}{Abitanti}{27}{section*.136}%
+\contentsline {subsection}{Halimath Selevarum}{27}{subsection*.137}%
+\contentsline {subsubsection}{Il cieco con gli occhi aperti}{27}{subsubsection*.138}%
+\contentsline {subsubsection}{Un passato oscuro}{27}{subsubsection*.139}%
+\contentsline {subsection}{I Druidi di Mythrenwald}{27}{subsection*.141}%
 \contentsline {part}{\numberline {4}Nemici e Pericoli}{29}{part.4}%
 \contentsfinish 
