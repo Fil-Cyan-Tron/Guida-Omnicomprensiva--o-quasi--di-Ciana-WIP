@@ -154,33 +154,44 @@
 \contentsline {section}{STOCCO DI SARZEE}{25}{section*.131}%
 \contentsline {section}{Prigione Fluida di PATRONO DI SIMONE}{25}{section*.132}%
 \contentsline {part}{\numberline {3}Il Mondo di Eovras}{26}{part.3}%
-\contentsline {chapter}{\numberline {20}Foresta di Mythrenwald}{27}{chapter.20}%
-\contentsline {section}{Luoghi}{27}{section*.133}%
-\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{27}{subsection*.134}%
-\contentsline {subsubsection}{Dentro al tronco dell'Albero}{27}{subsubsection*.135}%
-\contentsline {subsubsection}{Sulla chioma}{27}{subsubsection*.136}%
-\contentsline {subsection}{Il borgo di Mythrenberg}{27}{subsection*.137}%
-\contentsline {subsubsection}{La sede del Circolo}{27}{subsubsection*.138}%
-\contentsline {subsubsection}{La biblioteca della corteccia}{27}{subsubsection*.139}%
-\contentsline {subsubsection}{La falegnameria di Y'Keah}{27}{subsubsection*.140}%
-\contentsline {subsection}{I villaggi di Mythrenwald}{27}{subsection*.141}%
-\contentsline {section}{Abitanti}{27}{section*.142}%
-\contentsline {subsection}{Halimath Selevarum}{27}{subsection*.143}%
-\contentsline {subsubsection}{Il cieco con gli occhi aperti}{27}{subsubsection*.144}%
-\contentsline {subsubsection}{Un passato oscuro}{28}{subsubsection*.145}%
-\contentsline {subsection}{I Druidi di Mythrenwald}{28}{subsection*.147}%
-\contentsline {subsubsection}{I principi del Circolo}{28}{subsubsection*.148}%
-\contentsline {paragraph}{Protezione della Foresta}{28}{paragraph*.149}%
-\contentsline {paragraph}{Protezione della vita}{28}{paragraph*.150}%
-\contentsline {paragraph}{Rispetto della morte}{28}{paragraph*.151}%
-\contentsline {paragraph}{Studio della corteccia e del cielo}{28}{paragraph*.152}%
-\contentsline {paragraph}{Accoglienza e ospitalità}{28}{paragraph*.153}%
-\contentsline {subsection}{La struttura del Circolo}{29}{subsection*.154}%
-\contentsline {paragraph}{Il Grande Guardiano}{29}{paragraph*.155}%
-\contentsline {paragraph}{Kur il bibliotecario}{29}{paragraph*.156}%
-\contentsline {paragraph}{Il consiglio degli anziani}{29}{paragraph*.157}%
-\contentsline {paragraph}{L'Assemblea}{29}{paragraph*.158}%
-\contentsline {paragraph}{L'ordine dei viaggiatori}{29}{paragraph*.159}%
-\contentsline {subsubsection}{Y'Keah il carpentiere}{29}{subsubsection*.160}%
-\contentsline {part}{\numberline {4}Nemici e Pericoli}{30}{part.4}%
+\contentsline {chapter}{\numberline {20}La Magia e gli Dei}{27}{chapter.20}%
+\contentsline {section}{La Magia a Eovras}{27}{section*.133}%
+\contentsline {paragraph}{Gli studi dei Maghi}{27}{paragraph*.134}%
+\contentsline {paragraph}{Il talento degli Stregoni}{27}{paragraph*.135}%
+\contentsline {paragraph}{L'ispirazione divina dei Chierici}{27}{paragraph*.136}%
+\contentsline {paragraph}{L'intuizione lirica dei Druidi}{27}{paragraph*.137}%
+\contentsline {paragraph}{Il playback degli Warlock}{27}{paragraph*.138}%
+\contentsline {paragraph}{I Bardi ve li spiegate da soli}{27}{paragraph*.139}%
+\contentsline {section}{Il pantheon di Eovras}{27}{section*.140}%
+\contentsline {subsection}{Gli dei benigni}{27}{subsection*.141}%
+\contentsline {subsection}{Gli dei maligni}{27}{subsection*.142}%
+\contentsline {chapter}{\numberline {21}Foresta di Mythrenwald}{28}{chapter.21}%
+\contentsline {section}{Luoghi}{28}{section*.143}%
+\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{28}{subsection*.144}%
+\contentsline {subsubsection}{Dentro al tronco dell'Albero}{28}{subsubsection*.145}%
+\contentsline {subsubsection}{Sulla chioma}{28}{subsubsection*.146}%
+\contentsline {subsection}{Il borgo di Mythrenberg}{28}{subsection*.147}%
+\contentsline {subsubsection}{La sede del Circolo}{28}{subsubsection*.148}%
+\contentsline {subsubsection}{La biblioteca della corteccia}{28}{subsubsection*.149}%
+\contentsline {subsubsection}{La falegnameria di Y'Keah}{28}{subsubsection*.150}%
+\contentsline {subsection}{I villaggi di Mythrenwald}{28}{subsection*.151}%
+\contentsline {section}{Abitanti}{28}{section*.152}%
+\contentsline {subsection}{Halimath Selevarum}{28}{subsection*.153}%
+\contentsline {subsubsection}{Il cieco con gli occhi aperti}{28}{subsubsection*.154}%
+\contentsline {subsubsection}{Un passato oscuro}{29}{subsubsection*.155}%
+\contentsline {subsection}{I Druidi di Mythrenwald}{29}{subsection*.157}%
+\contentsline {subsubsection}{I principi del Circolo}{29}{subsubsection*.158}%
+\contentsline {paragraph}{Protezione della Foresta}{29}{paragraph*.159}%
+\contentsline {paragraph}{Protezione della vita}{29}{paragraph*.160}%
+\contentsline {paragraph}{Rispetto della morte}{29}{paragraph*.161}%
+\contentsline {paragraph}{Studio della corteccia e del cielo}{29}{paragraph*.162}%
+\contentsline {paragraph}{Accoglienza e ospitalità}{29}{paragraph*.163}%
+\contentsline {subsection}{La struttura del Circolo}{30}{subsection*.164}%
+\contentsline {paragraph}{Il Grande Guardiano}{30}{paragraph*.165}%
+\contentsline {paragraph}{Kur il bibliotecario}{30}{paragraph*.166}%
+\contentsline {paragraph}{Il consiglio degli anziani}{30}{paragraph*.167}%
+\contentsline {paragraph}{L'Assemblea}{30}{paragraph*.168}%
+\contentsline {paragraph}{L'ordine dei viaggiatori}{30}{paragraph*.169}%
+\contentsline {subsubsection}{Y'Keah il carpentiere}{30}{subsubsection*.170}%
+\contentsline {part}{\numberline {4}Nemici e Pericoli}{31}{part.4}%
 \contentsfinish 
