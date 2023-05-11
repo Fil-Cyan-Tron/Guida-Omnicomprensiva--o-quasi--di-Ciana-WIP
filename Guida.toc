@@ -157,13 +157,30 @@
 \contentsline {chapter}{\numberline {20}Foresta di Mythrenwald}{27}{chapter.20}%
 \contentsline {section}{Luoghi}{27}{section*.133}%
 \contentsline {subsection}{Il Grande Albero di Mythrenbaum}{27}{subsection*.134}%
-\contentsline {subsection}{I villaggi di Mythrenwald}{27}{subsection*.135}%
-\contentsline {section}{Abitanti}{27}{section*.136}%
-\contentsline {subsection}{Halimath Selevarum}{27}{subsection*.137}%
-\contentsline {subsubsection}{Il cieco con gli occhi aperti}{27}{subsubsection*.138}%
-\contentsline {subsubsection}{Un passato oscuro}{27}{subsubsection*.139}%
-\contentsline {subsection}{I Druidi di Mythrenwald}{27}{subsection*.141}%
-\contentsline {subsubsection}{I principi del Circolo}{27}{subsubsection*.142}%
-\contentsline {paragraph}{Protezione della Foresta}{27}{paragraph*.143}%
-\contentsline {part}{\numberline {4}Nemici e Pericoli}{29}{part.4}%
+\contentsline {subsubsection}{Dentro al tronco dell'Albero}{27}{subsubsection*.135}%
+\contentsline {subsubsection}{Sulla chioma}{27}{subsubsection*.136}%
+\contentsline {subsection}{Il borgo di Mythrenberg}{27}{subsection*.137}%
+\contentsline {subsubsection}{La sede del Circolo}{27}{subsubsection*.138}%
+\contentsline {subsubsection}{La biblioteca della corteccia}{27}{subsubsection*.139}%
+\contentsline {subsubsection}{La falegnameria di Y'Keah}{27}{subsubsection*.140}%
+\contentsline {subsection}{I villaggi di Mythrenwald}{27}{subsection*.141}%
+\contentsline {section}{Abitanti}{27}{section*.142}%
+\contentsline {subsection}{Halimath Selevarum}{27}{subsection*.143}%
+\contentsline {subsubsection}{Il cieco con gli occhi aperti}{27}{subsubsection*.144}%
+\contentsline {subsubsection}{Un passato oscuro}{28}{subsubsection*.145}%
+\contentsline {subsection}{I Druidi di Mythrenwald}{28}{subsection*.147}%
+\contentsline {subsubsection}{I principi del Circolo}{28}{subsubsection*.148}%
+\contentsline {paragraph}{Protezione della Foresta}{28}{paragraph*.149}%
+\contentsline {paragraph}{Protezione della vita}{28}{paragraph*.150}%
+\contentsline {paragraph}{Rispetto della morte}{28}{paragraph*.151}%
+\contentsline {paragraph}{Studio della corteccia e del cielo}{28}{paragraph*.152}%
+\contentsline {paragraph}{Accoglienza e ospitalità}{28}{paragraph*.153}%
+\contentsline {subsection}{La struttura del Circolo}{29}{subsection*.154}%
+\contentsline {paragraph}{Il Grande Guardiano}{29}{paragraph*.155}%
+\contentsline {paragraph}{Kur il bibliotecario}{29}{paragraph*.156}%
+\contentsline {paragraph}{Il consiglio degli anziani}{29}{paragraph*.157}%
+\contentsline {paragraph}{L'Assemblea}{29}{paragraph*.158}%
+\contentsline {paragraph}{L'ordine dei viaggiatori}{29}{paragraph*.159}%
+\contentsline {subsubsection}{Y'Keah il carpentiere}{29}{subsubsection*.160}%
+\contentsline {part}{\numberline {4}Nemici e Pericoli}{30}{part.4}%
 \contentsfinish 
