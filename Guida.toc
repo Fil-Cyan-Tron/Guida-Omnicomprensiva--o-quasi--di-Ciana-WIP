@@ -115,6 +115,9 @@
 \contentsline {chapter}{\numberline {15}Stregone}{20}{}%
 \contentsline {section}{Privilegi di Classe Opzionali}{20}{}%
 \contentsline {section}{Dinastia di Analisti}{20}{}%
+\contentsline {section}{Cavaliere della Trama}{20}{}%
+\contentsline {subsection}{La Spada di Trama}{20}{}%
+\contentsline {subsection}{Cavaliere della Trama}{20}{}%
 \contentsline {chapter}{\numberline {16}Warlock}{21}{}%
 \contentsline {section}{Privilegi di Classe Opzionali}{21}{}%
 \contentsline {subsection}{Supplica Occulta: Deflagrazione aleatoria}{21}{}%
@@ -193,5 +196,8 @@
 \contentsline {paragraph}{L'Assemblea}{30}{}%
 \contentsline {paragraph}{L'ordine dei viaggiatori}{30}{}%
 \contentsline {subsubsection}{Y'Keah il carpentiere}{30}{}%
-\contentsline {part}{\numberline {4}Nemici e Pericoli}{31}{}%
+\contentsline {chapter}{\numberline {22}La città volante dei Forgiati: Konepolis}{31}{}%
+\contentsline {section}{Luoghi}{31}{}%
+\contentsline {section}{Abitanti}{31}{}%
+\contentsline {part}{\numberline {4}Nemici e Pericoli}{32}{}%
 \contentsfinish 
