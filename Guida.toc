@@ -118,86 +118,95 @@
 \contentsline {section}{Cavaliere della Trama}{20}{}%
 \contentsline {subsection}{La Spada di Trama}{20}{}%
 \contentsline {subsection}{Cavaliere della Trama}{20}{}%
-\contentsline {chapter}{\numberline {16}Warlock}{21}{}%
-\contentsline {section}{Privilegi di Classe Opzionali}{21}{}%
-\contentsline {subsection}{Supplica Occulta: Deflagrazione aleatoria}{21}{}%
-\contentsline {section}{Lo Spazio Proiettivo}{21}{}%
-\contentsline {subsection}{Lista degli incantesimi ampliata}{21}{}%
-\contentsline {subsection}{}{21}{}%
-\contentsline {subsection}{Omogeneizzazione}{21}{}%
-\contentsline {subsection}{Proiezione}{21}{}%
-\contentsline {subsection}{Chiusura Proiettiva di Bézout}{21}{}%
-\contentsline {section}{Il Signore dell'Assurdo}{21}{}%
+\contentsline {subsection}{Percorso della Trama}{20}{}%
+\contentsline {paragraph}{Percorso del Grifone}{20}{}%
+\contentsline {paragraph}{Percorso della Testuggine}{20}{}%
+\contentsline {paragraph}{Percorso della Manticora}{20}{}%
+\contentsline {subsection}{Stile della Trama}{20}{}%
+\contentsline {paragraph}{Stile del Fiume}{20}{}%
+\contentsline {paragraph}{Stile della Tempesta}{20}{}%
+\contentsline {paragraph}{Stile del Vulcano}{21}{}%
+\contentsline {subsection}{Tutt'uno con la Trama}{21}{}%
+\contentsline {chapter}{\numberline {16}Warlock}{22}{}%
+\contentsline {section}{Privilegi di Classe Opzionali}{22}{}%
+\contentsline {subsection}{Supplica Occulta: Deflagrazione aleatoria}{22}{}%
+\contentsline {section}{Lo Spazio Proiettivo}{22}{}%
 \contentsline {subsection}{Lista degli incantesimi ampliata}{22}{}%
-\contentsline {subsection}{Squarcio della fortuna}{22}{}%
-\contentsline {subsection}{Deflagrazione deflagrante}{22}{}%
-\contentsline {subsection}{(S)fortunato}{22}{}%
-\contentsline {subsection}{Divertimento Extraplanare}{22}{}%
-\contentsline {subsection}{Pandemonio}{22}{}%
-\contentsline {chapter}{\numberline {17}Talenti}{23}{}%
-\contentsline {subsection}{Negazione divina}{23}{}%
-\contentsline {paragraph}{Prerequisiti}{23}{}%
-\contentsline {paragraph}{Aumento dei punteggi di caratteristica}{23}{}%
-\contentsline {paragraph}{Competenze bonus}{23}{}%
-\contentsline {paragraph}{Parola del Potere: No}{23}{}%
-\contentsline {chapter}{\numberline {18}Incantesimi}{24}{}%
-\contentsline {section}{Lista degli incantesimi espansa}{24}{}%
-\contentsline {section}{Descrizione degli incantesimi}{24}{}%
-\contentsline {subsubsection}{Limita Magie}{24}{}%
-\contentsline {subsubsection}{Parola del Potere: No}{24}{}%
-\contentsline {subsubsection}{Punizione del Caos}{24}{}%
-\contentsline {subparagraph}{Ai livelli superiori}{24}{}%
-\contentsline {subsubsection}{Scarica Elementale}{24}{}%
-\contentsline {chapter}{\numberline {19}Oggetti magici}{25}{}%
-\contentsline {section}{Anello protettore di Sophos il Savio}{25}{}%
-\contentsline {subsection}{Potere passivo}{25}{}%
-\contentsline {subsection}{Potere Attivo}{25}{}%
-\contentsline {subsection}{Coscienza}{25}{}%
-\contentsline {subsection}{Corruzione mortale}{25}{}%
-\contentsline {section}{STOCCO DI SARZEE}{25}{}%
-\contentsline {section}{Prigione Fluida di PATRONO DI SIMONE}{25}{}%
-\contentsline {part}{\numberline {3}Il Mondo di Eovras}{26}{}%
-\contentsline {chapter}{\numberline {20}La Magia e gli Dei}{27}{}%
-\contentsline {section}{La Magia a Eovras}{27}{}%
-\contentsline {paragraph}{Gli studi dei Maghi}{27}{}%
-\contentsline {paragraph}{Il talento degli Stregoni}{27}{}%
-\contentsline {paragraph}{L'ispirazione divina dei Chierici}{27}{}%
-\contentsline {paragraph}{L'intuizione lirica dei Druidi}{27}{}%
-\contentsline {paragraph}{Il playback degli Warlock}{27}{}%
-\contentsline {paragraph}{I Bardi ve li spiegate da soli}{27}{}%
-\contentsline {section}{Il pantheon di Eovras}{27}{}%
-\contentsline {subsection}{Gli dei benigni}{27}{}%
-\contentsline {subsection}{Gli dei maligni}{27}{}%
-\contentsline {chapter}{\numberline {21}Foresta di Mythrenwald}{28}{}%
-\contentsline {section}{Luoghi}{28}{}%
-\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{28}{}%
-\contentsline {subsubsection}{Dentro al tronco dell'Albero}{28}{}%
-\contentsline {subsubsection}{Sulla chioma}{28}{}%
-\contentsline {subsection}{Il borgo di Mythrenberg}{28}{}%
-\contentsline {subsubsection}{La sede del Circolo}{28}{}%
-\contentsline {subsubsection}{La biblioteca della corteccia}{28}{}%
-\contentsline {subsubsection}{La falegnameria di Y'Keah}{28}{}%
-\contentsline {subsection}{I villaggi di Mythrenwald}{28}{}%
-\contentsline {section}{Abitanti}{28}{}%
-\contentsline {subsection}{Halimath Selevarum}{28}{}%
-\contentsline {subsubsection}{Il cieco con gli occhi aperti}{28}{}%
-\contentsline {subsubsection}{Un passato oscuro}{29}{}%
-\contentsline {subsection}{I Druidi di Mythrenwald}{29}{}%
-\contentsline {subsubsection}{I principi del Circolo}{29}{}%
-\contentsline {paragraph}{Protezione della Foresta}{29}{}%
-\contentsline {paragraph}{Protezione della vita}{29}{}%
-\contentsline {paragraph}{Rispetto della morte}{29}{}%
-\contentsline {paragraph}{Studio della corteccia e del cielo}{29}{}%
-\contentsline {paragraph}{Accoglienza e ospitalità}{29}{}%
-\contentsline {subsection}{La struttura del Circolo}{30}{}%
-\contentsline {paragraph}{Il Grande Guardiano}{30}{}%
-\contentsline {paragraph}{Kur il bibliotecario}{30}{}%
-\contentsline {paragraph}{Il consiglio degli anziani}{30}{}%
-\contentsline {paragraph}{L'Assemblea}{30}{}%
-\contentsline {paragraph}{L'ordine dei viaggiatori}{30}{}%
-\contentsline {subsubsection}{Y'Keah il carpentiere}{30}{}%
-\contentsline {chapter}{\numberline {22}La città volante dei Forgiati: Konepolis}{31}{}%
-\contentsline {section}{Luoghi}{31}{}%
-\contentsline {section}{Abitanti}{31}{}%
-\contentsline {part}{\numberline {4}Nemici e Pericoli}{32}{}%
+\contentsline {subsection}{}{22}{}%
+\contentsline {subsection}{Omogeneizzazione}{22}{}%
+\contentsline {subsection}{Proiezione}{22}{}%
+\contentsline {subsection}{Chiusura Proiettiva di Bézout}{22}{}%
+\contentsline {section}{Il Signore dell'Assurdo}{22}{}%
+\contentsline {subsection}{Lista degli incantesimi ampliata}{23}{}%
+\contentsline {subsection}{Squarcio della fortuna}{23}{}%
+\contentsline {subsection}{Deflagrazione deflagrante}{23}{}%
+\contentsline {subsection}{(S)fortunato}{23}{}%
+\contentsline {subsection}{Divertimento Extraplanare}{23}{}%
+\contentsline {subsection}{Pandemonio}{23}{}%
+\contentsline {chapter}{\numberline {17}Talenti}{24}{}%
+\contentsline {subsection}{Negazione divina}{24}{}%
+\contentsline {paragraph}{Prerequisiti}{24}{}%
+\contentsline {paragraph}{Aumento dei punteggi di caratteristica}{24}{}%
+\contentsline {paragraph}{Competenze bonus}{24}{}%
+\contentsline {paragraph}{Parola del Potere: No}{24}{}%
+\contentsline {chapter}{\numberline {18}Incantesimi}{25}{}%
+\contentsline {section}{Lista degli incantesimi espansa}{25}{}%
+\contentsline {section}{Descrizione degli incantesimi}{25}{}%
+\contentsline {subsubsection}{Limita Magie}{25}{}%
+\contentsline {subsubsection}{Parola del Potere: No}{25}{}%
+\contentsline {subsubsection}{Punizione del Caos}{25}{}%
+\contentsline {subparagraph}{Ai livelli superiori}{25}{}%
+\contentsline {subsubsection}{Scarica Elementale}{25}{}%
+\contentsline {chapter}{\numberline {19}Oggetti magici}{26}{}%
+\contentsline {section}{Anello protettore di Sophos il Savio}{26}{}%
+\contentsline {subsection}{Potere passivo}{26}{}%
+\contentsline {subsection}{Potere Attivo}{26}{}%
+\contentsline {subsection}{Coscienza}{26}{}%
+\contentsline {subsection}{Corruzione mortale}{26}{}%
+\contentsline {section}{STOCCO DI SARZEE}{26}{}%
+\contentsline {section}{Prigione Fluida di PATRONO DI SIMONE}{26}{}%
+\contentsline {part}{\numberline {3}Il Mondo di Eovras}{27}{}%
+\contentsline {chapter}{\numberline {20}La Magia e gli Dei}{28}{}%
+\contentsline {section}{La Magia a Eovras}{28}{}%
+\contentsline {paragraph}{Gli studi dei Maghi}{28}{}%
+\contentsline {paragraph}{Il talento degli Stregoni}{28}{}%
+\contentsline {paragraph}{L'ispirazione divina dei Chierici}{28}{}%
+\contentsline {paragraph}{L'intuizione lirica dei Druidi}{28}{}%
+\contentsline {paragraph}{Il playback degli Warlock}{28}{}%
+\contentsline {paragraph}{I Bardi ve li spiegate da soli}{28}{}%
+\contentsline {section}{Il pantheon di Eovras}{28}{}%
+\contentsline {subsection}{Gli dei benigni}{28}{}%
+\contentsline {subsection}{Gli dei maligni}{28}{}%
+\contentsline {chapter}{\numberline {21}Foresta di Mythrenwald}{29}{}%
+\contentsline {section}{Luoghi}{29}{}%
+\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{29}{}%
+\contentsline {subsubsection}{Dentro al tronco dell'Albero}{29}{}%
+\contentsline {subsubsection}{Sulla chioma}{29}{}%
+\contentsline {subsection}{Il borgo di Mythrenberg}{29}{}%
+\contentsline {subsubsection}{La sede del Circolo}{29}{}%
+\contentsline {subsubsection}{La biblioteca della corteccia}{29}{}%
+\contentsline {subsubsection}{La falegnameria di Y'Keah}{29}{}%
+\contentsline {subsection}{I villaggi di Mythrenwald}{29}{}%
+\contentsline {section}{Abitanti}{29}{}%
+\contentsline {subsection}{Halimath Selevarum}{29}{}%
+\contentsline {subsubsection}{Il cieco con gli occhi aperti}{29}{}%
+\contentsline {subsubsection}{Un passato oscuro}{30}{}%
+\contentsline {subsection}{I Druidi di Mythrenwald}{30}{}%
+\contentsline {subsubsection}{I principi del Circolo}{30}{}%
+\contentsline {paragraph}{Protezione della Foresta}{30}{}%
+\contentsline {paragraph}{Protezione della vita}{30}{}%
+\contentsline {paragraph}{Rispetto della morte}{30}{}%
+\contentsline {paragraph}{Studio della corteccia e del cielo}{30}{}%
+\contentsline {paragraph}{Accoglienza e ospitalità}{30}{}%
+\contentsline {subsection}{La struttura del Circolo}{31}{}%
+\contentsline {paragraph}{Il Grande Guardiano}{31}{}%
+\contentsline {paragraph}{Kur il bibliotecario}{31}{}%
+\contentsline {paragraph}{Il consiglio degli anziani}{31}{}%
+\contentsline {paragraph}{L'Assemblea}{31}{}%
+\contentsline {paragraph}{L'ordine dei viaggiatori}{31}{}%
+\contentsline {subsubsection}{Y'Keah il carpentiere}{31}{}%
+\contentsline {chapter}{\numberline {22}La città volante dei Forgiati: Konepolis}{32}{}%
+\contentsline {section}{Luoghi}{32}{}%
+\contentsline {section}{Abitanti}{32}{}%
+\contentsline {part}{\numberline {4}Nemici e Pericoli}{33}{}%
 \contentsfinish 
