@@ -156,64 +156,90 @@
 \contentsline {paragraph}{Parola del Potere: No}{25}{}%
 \contentsline {chapter}{\numberline {18}Incantesimi}{26}{}%
 \contentsline {section}{Lista degli incantesimi espansa}{26}{}%
+\contentsline {subsection}{Trucchetti}{26}{}%
+\contentsline {subsection}{Incantesimi}{26}{}%
+\contentsline {paragraph}{1° livello}{26}{}%
+\contentsline {paragraph}{2° livello}{26}{}%
+\contentsline {paragraph}{3° livello}{26}{}%
+\contentsline {paragraph}{4° livello}{26}{}%
+\contentsline {paragraph}{5° livello}{26}{}%
+\contentsline {paragraph}{6° livello}{26}{}%
+\contentsline {paragraph}{7° livello}{26}{}%
+\contentsline {paragraph}{8° livello}{26}{}%
+\contentsline {paragraph}{9° livello}{26}{}%
+\contentsline {paragraph}{10° livello}{26}{}%
+\contentsline {paragraph}{11° livello}{26}{}%
+\contentsline {paragraph}{12° livello}{26}{}%
 \contentsline {section}{Descrizione degli incantesimi}{26}{}%
 \contentsline {subsubsection}{Limita Magie}{26}{}%
 \contentsline {subsubsection}{Parola del Potere: No}{26}{}%
+\contentsline {subsubsection}{Più Profondo dell'Abisso, più Alto del Firmamento}{26}{}%
 \contentsline {subsubsection}{Punizione del Caos}{26}{}%
 \contentsline {subparagraph}{Ai livelli superiori}{26}{}%
 \contentsline {subsubsection}{Scarica Elementale}{26}{}%
-\contentsline {chapter}{\numberline {19}Oggetti magici}{27}{}%
-\contentsline {section}{Anello protettore di Sophos il Savio}{27}{}%
-\contentsline {subsection}{Potere passivo}{27}{}%
-\contentsline {subsection}{Potere Attivo}{27}{}%
-\contentsline {subsection}{Coscienza}{27}{}%
-\contentsline {subsection}{Corruzione mortale}{27}{}%
-\contentsline {section}{STOCCO DI SARZEE}{27}{}%
-\contentsline {section}{Prigione Fluida di PATRONO DI SIMONE}{27}{}%
-\contentsline {part}{\numberline {3}Il Mondo di Eovras}{28}{}%
-\contentsline {chapter}{\numberline {20}La Magia e gli Dei}{29}{}%
-\contentsline {section}{La Magia a Eovras}{29}{}%
-\contentsline {paragraph}{Gli studi dei Maghi}{29}{}%
-\contentsline {paragraph}{Il talento degli Stregoni}{29}{}%
-\contentsline {paragraph}{L'ispirazione divina dei Chierici}{29}{}%
-\contentsline {paragraph}{L'intuizione lirica dei Druidi}{29}{}%
-\contentsline {paragraph}{Il playback degli Warlock}{29}{}%
-\contentsline {paragraph}{I Bardi ve li spiegate da soli}{29}{}%
-\contentsline {section}{Il pantheon di Eovras}{29}{}%
-\contentsline {subsection}{Gli dei benigni}{29}{}%
-\contentsline {subsection}{Gli dei maligni}{29}{}%
-\contentsline {chapter}{\numberline {21}Foresta di Mythrenwald}{30}{}%
-\contentsline {section}{Luoghi}{30}{}%
-\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{30}{}%
-\contentsline {subsubsection}{Dentro al tronco dell'Albero}{30}{}%
-\contentsline {subsubsection}{Sulla chioma}{30}{}%
-\contentsline {subsection}{Il borgo di Mythrenberg}{30}{}%
-\contentsline {subsubsection}{La sede del Circolo}{30}{}%
-\contentsline {subsubsection}{La biblioteca della corteccia}{30}{}%
-\contentsline {subsubsection}{La falegnameria di Y'Keah}{30}{}%
-\contentsline {subsection}{I villaggi di Mythrenwald}{30}{}%
-\contentsline {section}{Abitanti}{30}{}%
-\contentsline {subsection}{Halimath Selevarum}{30}{}%
-\contentsline {subsubsection}{Il cieco con gli occhi aperti}{30}{}%
-\contentsline {subsubsection}{Un passato oscuro}{31}{}%
-\contentsline {subsection}{I Druidi di Mythrenwald}{31}{}%
-\contentsline {subsubsection}{I principi del Circolo}{31}{}%
-\contentsline {paragraph}{Protezione della Foresta}{31}{}%
-\contentsline {paragraph}{Protezione della vita}{31}{}%
-\contentsline {paragraph}{Rispetto della morte}{31}{}%
-\contentsline {paragraph}{Studio della corteccia e del cielo}{31}{}%
-\contentsline {paragraph}{Accoglienza e ospitalità}{31}{}%
-\contentsline {subsection}{La struttura del Circolo}{32}{}%
-\contentsline {paragraph}{Il Grande Guardiano}{32}{}%
-\contentsline {paragraph}{Kur il bibliotecario}{32}{}%
-\contentsline {paragraph}{Il consiglio degli anziani}{32}{}%
-\contentsline {paragraph}{L'Assemblea}{32}{}%
-\contentsline {paragraph}{L'ordine dei viaggiatori}{32}{}%
-\contentsline {subsubsection}{Y'Keah il carpentiere}{32}{}%
-\contentsline {subsection}{Fillianore Halamis}{32}{}%
-\contentsline {subsubsection}{}{32}{}%
-\contentsline {chapter}{\numberline {22}La città volante dei Forgiati: Konepolis}{33}{}%
-\contentsline {section}{Luoghi}{33}{}%
-\contentsline {section}{Abitanti}{33}{}%
-\contentsline {part}{\numberline {4}Nemici e Pericoli}{34}{}%
+\contentsline {chapter}{\numberline {19}Oggetti magici}{28}{}%
+\contentsline {section}{Anello protettore di Sophos il Savio}{28}{}%
+\contentsline {subsection}{Potere passivo}{28}{}%
+\contentsline {subsection}{Potere Attivo}{28}{}%
+\contentsline {subsection}{Coscienza}{28}{}%
+\contentsline {subsection}{Corruzione mortale}{28}{}%
+\contentsline {section}{STOCCO DI SARZEE}{28}{}%
+\contentsline {section}{Prigione Fluida di PATRONO DI SIMONE}{28}{}%
+\contentsline {part}{\numberline {3}Il Mondo di Eovras}{29}{}%
+\contentsline {chapter}{\numberline {20}La Magia e gli Dei}{30}{}%
+\contentsline {section}{La Magia a Eovras}{30}{}%
+\contentsline {paragraph}{Gli studi dei Maghi}{30}{}%
+\contentsline {paragraph}{Il talento degli Stregoni}{30}{}%
+\contentsline {paragraph}{L'ispirazione divina dei Chierici}{30}{}%
+\contentsline {paragraph}{L'intuizione lirica dei Druidi}{30}{}%
+\contentsline {paragraph}{Il playback degli Warlock}{30}{}%
+\contentsline {paragraph}{I Bardi ve li spiegate da soli}{30}{}%
+\contentsline {subsection}{Desiderio}{30}{}%
+\contentsline {section}{Il pantheon di Eovras}{30}{}%
+\contentsline {subsection}{Gli dei benigni}{30}{}%
+\contentsline {paragraph}{Legali}{30}{}%
+\contentsline {paragraph}{Neutrali}{30}{}%
+\contentsline {paragraph}{Caotici}{30}{}%
+\contentsline {subsection}{Gli dei neutrali}{30}{}%
+\contentsline {paragraph}{Legali}{30}{}%
+\contentsline {paragraph}{Neutrali}{30}{}%
+\contentsline {paragraph}{Caotici}{30}{}%
+\contentsline {subsection}{Gli dei maligni}{30}{}%
+\contentsline {paragraph}{Legali}{30}{}%
+\contentsline {paragraph}{Neutrali}{30}{}%
+\contentsline {paragraph}{Caotici}{30}{}%
+\contentsline {chapter}{\numberline {21}Foresta di Mythrenwald}{31}{}%
+\contentsline {section}{Luoghi}{31}{}%
+\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{31}{}%
+\contentsline {subsubsection}{Dentro al tronco dell'Albero}{31}{}%
+\contentsline {subsubsection}{Sulla chioma}{31}{}%
+\contentsline {subsection}{Il borgo di Mythrenberg}{31}{}%
+\contentsline {subsubsection}{La sede del Circolo}{31}{}%
+\contentsline {subsubsection}{La biblioteca della corteccia}{31}{}%
+\contentsline {subsubsection}{La falegnameria di Y'Keah}{31}{}%
+\contentsline {subsection}{I villaggi di Mythrenwald}{31}{}%
+\contentsline {section}{Abitanti}{31}{}%
+\contentsline {subsection}{Halimath Selevarum}{31}{}%
+\contentsline {subsubsection}{Il cieco con gli occhi aperti}{31}{}%
+\contentsline {subsubsection}{Un passato oscuro}{32}{}%
+\contentsline {subsection}{I Druidi di Mythrenwald}{32}{}%
+\contentsline {subsubsection}{I principi del Circolo}{32}{}%
+\contentsline {paragraph}{Protezione della Foresta}{32}{}%
+\contentsline {paragraph}{Protezione della vita}{32}{}%
+\contentsline {paragraph}{Rispetto della morte}{32}{}%
+\contentsline {paragraph}{Studio della corteccia e del cielo}{32}{}%
+\contentsline {paragraph}{Accoglienza e ospitalità}{32}{}%
+\contentsline {subsection}{La struttura del Circolo}{33}{}%
+\contentsline {paragraph}{Il Grande Guardiano}{33}{}%
+\contentsline {paragraph}{Kur il bibliotecario}{33}{}%
+\contentsline {paragraph}{Il consiglio degli anziani}{33}{}%
+\contentsline {paragraph}{L'Assemblea}{33}{}%
+\contentsline {paragraph}{L'ordine dei viaggiatori}{33}{}%
+\contentsline {subsubsection}{Y'Keah il carpentiere}{33}{}%
+\contentsline {subsection}{Fillianore Halamis}{33}{}%
+\contentsline {subsubsection}{}{33}{}%
+\contentsline {chapter}{\numberline {22}La città volante dei Forgiati: Konepolis}{34}{}%
+\contentsline {section}{Luoghi}{34}{}%
+\contentsline {section}{Abitanti}{34}{}%
+\contentsline {part}{\numberline {4}Nemici e Pericoli}{35}{}%
 \contentsfinish 
