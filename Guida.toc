@@ -137,7 +137,7 @@
 \contentsline {subsection}{Supplica Occulta: Deflagrazione aleatoria}{22}{}%
 \contentsline {section}{Lo Spazio Proiettivo}{22}{}%
 \contentsline {subsection}{Lista degli incantesimi ampliata}{22}{}%
-\contentsline {subsection}{}{22}{}%
+\contentsline {subsection}{Forma lineare associata}{22}{}%
 \contentsline {subsection}{Omogeneizzazione}{22}{}%
 \contentsline {subsection}{Proiezione}{23}{}%
 \contentsline {subsection}{Chiusura Proiettiva di Bézout}{23}{}%
@@ -196,18 +196,6 @@
 \contentsline {paragraph}{I Bardi ve li spiegate da soli}{30}{}%
 \contentsline {subsection}{Desiderio}{30}{}%
 \contentsline {section}{Il pantheon di Eovras}{30}{}%
-\contentsline {subsection}{Gli dei benigni}{30}{}%
-\contentsline {paragraph}{Legali}{30}{}%
-\contentsline {paragraph}{Neutrali}{30}{}%
-\contentsline {paragraph}{Caotici}{30}{}%
-\contentsline {subsection}{Gli dei neutrali}{30}{}%
-\contentsline {paragraph}{Legali}{30}{}%
-\contentsline {paragraph}{Neutrali}{30}{}%
-\contentsline {paragraph}{Caotici}{30}{}%
-\contentsline {subsection}{Gli dei maligni}{30}{}%
-\contentsline {paragraph}{Legali}{30}{}%
-\contentsline {paragraph}{Neutrali}{30}{}%
-\contentsline {paragraph}{Caotici}{30}{}%
 \contentsline {chapter}{\numberline {21}Foresta di Mythrenwald}{31}{}%
 \contentsline {section}{Luoghi}{31}{}%
 \contentsline {subsection}{Il Grande Albero di Mythrenbaum}{31}{}%
