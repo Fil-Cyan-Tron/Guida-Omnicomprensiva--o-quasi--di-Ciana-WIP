@@ -89,6 +89,7 @@
 \contentsline {section}{Privilegi di Classe Opzionali}{14}{}%
 \contentsline {chapter}{\numberline {11}Mago}{15}{}%
 \contentsline {section}{Privilegi di Classe Opzionali}{15}{}%
+\contentsline {subsection}{Controcanto della Lama}{15}{}%
 \contentsline {chapter}{\numberline {12}Monaco}{16}{}%
 \contentsline {section}{Privilegi di Classe Opzionali}{16}{}%
 \contentsline {subsection}{Riserva di ki aumentata}{16}{}%
@@ -129,84 +130,90 @@
 \contentsline {subsection}{Tutt'uno con la Trama}{21}{}%
 \contentsline {chapter}{\numberline {16}Warlock}{22}{}%
 \contentsline {section}{Privilegi di Classe Opzionali}{22}{}%
+\contentsline {subsection}{Supplica Occulta: Occhi Aperti}{22}{}%
+\contentsline {paragraph}{Dopo nessun aumento di livello}{22}{}%
+\contentsline {paragraph}{Dopo un aumento di livello}{22}{}%
+\contentsline {paragraph}{Dopo due aumenti di livello o al 20° livello}{22}{}%
 \contentsline {subsection}{Supplica Occulta: Deflagrazione aleatoria}{22}{}%
 \contentsline {section}{Lo Spazio Proiettivo}{22}{}%
 \contentsline {subsection}{Lista degli incantesimi ampliata}{22}{}%
 \contentsline {subsection}{}{22}{}%
 \contentsline {subsection}{Omogeneizzazione}{22}{}%
-\contentsline {subsection}{Proiezione}{22}{}%
-\contentsline {subsection}{Chiusura Proiettiva di Bézout}{22}{}%
-\contentsline {section}{Il Signore dell'Assurdo}{22}{}%
+\contentsline {subsection}{Proiezione}{23}{}%
+\contentsline {subsection}{Chiusura Proiettiva di Bézout}{23}{}%
+\contentsline {section}{Il Signore dell'Assurdo}{23}{}%
 \contentsline {subsection}{Lista degli incantesimi ampliata}{23}{}%
 \contentsline {subsection}{Squarcio della fortuna}{23}{}%
 \contentsline {subsection}{Deflagrazione deflagrante}{23}{}%
 \contentsline {subsection}{(S)fortunato}{23}{}%
-\contentsline {subsection}{Divertimento Extraplanare}{23}{}%
-\contentsline {subsection}{Pandemonio}{23}{}%
-\contentsline {chapter}{\numberline {17}Talenti}{24}{}%
-\contentsline {subsection}{Negazione divina}{24}{}%
-\contentsline {paragraph}{Prerequisiti}{24}{}%
-\contentsline {paragraph}{Aumento dei punteggi di caratteristica}{24}{}%
-\contentsline {paragraph}{Competenze bonus}{24}{}%
-\contentsline {paragraph}{Parola del Potere: No}{24}{}%
-\contentsline {chapter}{\numberline {18}Incantesimi}{25}{}%
-\contentsline {section}{Lista degli incantesimi espansa}{25}{}%
-\contentsline {section}{Descrizione degli incantesimi}{25}{}%
-\contentsline {subsubsection}{Limita Magie}{25}{}%
-\contentsline {subsubsection}{Parola del Potere: No}{25}{}%
-\contentsline {subsubsection}{Punizione del Caos}{25}{}%
-\contentsline {subparagraph}{Ai livelli superiori}{25}{}%
-\contentsline {subsubsection}{Scarica Elementale}{25}{}%
-\contentsline {chapter}{\numberline {19}Oggetti magici}{26}{}%
-\contentsline {section}{Anello protettore di Sophos il Savio}{26}{}%
-\contentsline {subsection}{Potere passivo}{26}{}%
-\contentsline {subsection}{Potere Attivo}{26}{}%
-\contentsline {subsection}{Coscienza}{26}{}%
-\contentsline {subsection}{Corruzione mortale}{26}{}%
-\contentsline {section}{STOCCO DI SARZEE}{26}{}%
-\contentsline {section}{Prigione Fluida di PATRONO DI SIMONE}{26}{}%
-\contentsline {part}{\numberline {3}Il Mondo di Eovras}{27}{}%
-\contentsline {chapter}{\numberline {20}La Magia e gli Dei}{28}{}%
-\contentsline {section}{La Magia a Eovras}{28}{}%
-\contentsline {paragraph}{Gli studi dei Maghi}{28}{}%
-\contentsline {paragraph}{Il talento degli Stregoni}{28}{}%
-\contentsline {paragraph}{L'ispirazione divina dei Chierici}{28}{}%
-\contentsline {paragraph}{L'intuizione lirica dei Druidi}{28}{}%
-\contentsline {paragraph}{Il playback degli Warlock}{28}{}%
-\contentsline {paragraph}{I Bardi ve li spiegate da soli}{28}{}%
-\contentsline {section}{Il pantheon di Eovras}{28}{}%
-\contentsline {subsection}{Gli dei benigni}{28}{}%
-\contentsline {subsection}{Gli dei maligni}{28}{}%
-\contentsline {chapter}{\numberline {21}Foresta di Mythrenwald}{29}{}%
-\contentsline {section}{Luoghi}{29}{}%
-\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{29}{}%
-\contentsline {subsubsection}{Dentro al tronco dell'Albero}{29}{}%
-\contentsline {subsubsection}{Sulla chioma}{29}{}%
-\contentsline {subsection}{Il borgo di Mythrenberg}{29}{}%
-\contentsline {subsubsection}{La sede del Circolo}{29}{}%
-\contentsline {subsubsection}{La biblioteca della corteccia}{29}{}%
-\contentsline {subsubsection}{La falegnameria di Y'Keah}{29}{}%
-\contentsline {subsection}{I villaggi di Mythrenwald}{29}{}%
-\contentsline {section}{Abitanti}{29}{}%
-\contentsline {subsection}{Halimath Selevarum}{29}{}%
-\contentsline {subsubsection}{Il cieco con gli occhi aperti}{29}{}%
-\contentsline {subsubsection}{Un passato oscuro}{30}{}%
-\contentsline {subsection}{I Druidi di Mythrenwald}{30}{}%
-\contentsline {subsubsection}{I principi del Circolo}{30}{}%
-\contentsline {paragraph}{Protezione della Foresta}{30}{}%
-\contentsline {paragraph}{Protezione della vita}{30}{}%
-\contentsline {paragraph}{Rispetto della morte}{30}{}%
-\contentsline {paragraph}{Studio della corteccia e del cielo}{30}{}%
-\contentsline {paragraph}{Accoglienza e ospitalità}{30}{}%
-\contentsline {subsection}{La struttura del Circolo}{31}{}%
-\contentsline {paragraph}{Il Grande Guardiano}{31}{}%
-\contentsline {paragraph}{Kur il bibliotecario}{31}{}%
-\contentsline {paragraph}{Il consiglio degli anziani}{31}{}%
-\contentsline {paragraph}{L'Assemblea}{31}{}%
-\contentsline {paragraph}{L'ordine dei viaggiatori}{31}{}%
-\contentsline {subsubsection}{Y'Keah il carpentiere}{31}{}%
-\contentsline {chapter}{\numberline {22}La città volante dei Forgiati: Konepolis}{32}{}%
-\contentsline {section}{Luoghi}{32}{}%
-\contentsline {section}{Abitanti}{32}{}%
-\contentsline {part}{\numberline {4}Nemici e Pericoli}{33}{}%
+\contentsline {subsection}{Divertimento Extraplanare}{24}{}%
+\contentsline {subsection}{Pandemonio}{24}{}%
+\contentsline {chapter}{\numberline {17}Talenti}{25}{}%
+\contentsline {subsection}{Negazione divina}{25}{}%
+\contentsline {paragraph}{Prerequisiti}{25}{}%
+\contentsline {paragraph}{Aumento dei punteggi di caratteristica}{25}{}%
+\contentsline {paragraph}{Competenze bonus}{25}{}%
+\contentsline {paragraph}{Parola del Potere: No}{25}{}%
+\contentsline {chapter}{\numberline {18}Incantesimi}{26}{}%
+\contentsline {section}{Lista degli incantesimi espansa}{26}{}%
+\contentsline {section}{Descrizione degli incantesimi}{26}{}%
+\contentsline {subsubsection}{Limita Magie}{26}{}%
+\contentsline {subsubsection}{Parola del Potere: No}{26}{}%
+\contentsline {subsubsection}{Punizione del Caos}{26}{}%
+\contentsline {subparagraph}{Ai livelli superiori}{26}{}%
+\contentsline {subsubsection}{Scarica Elementale}{26}{}%
+\contentsline {chapter}{\numberline {19}Oggetti magici}{27}{}%
+\contentsline {section}{Anello protettore di Sophos il Savio}{27}{}%
+\contentsline {subsection}{Potere passivo}{27}{}%
+\contentsline {subsection}{Potere Attivo}{27}{}%
+\contentsline {subsection}{Coscienza}{27}{}%
+\contentsline {subsection}{Corruzione mortale}{27}{}%
+\contentsline {section}{STOCCO DI SARZEE}{27}{}%
+\contentsline {section}{Prigione Fluida di PATRONO DI SIMONE}{27}{}%
+\contentsline {part}{\numberline {3}Il Mondo di Eovras}{28}{}%
+\contentsline {chapter}{\numberline {20}La Magia e gli Dei}{29}{}%
+\contentsline {section}{La Magia a Eovras}{29}{}%
+\contentsline {paragraph}{Gli studi dei Maghi}{29}{}%
+\contentsline {paragraph}{Il talento degli Stregoni}{29}{}%
+\contentsline {paragraph}{L'ispirazione divina dei Chierici}{29}{}%
+\contentsline {paragraph}{L'intuizione lirica dei Druidi}{29}{}%
+\contentsline {paragraph}{Il playback degli Warlock}{29}{}%
+\contentsline {paragraph}{I Bardi ve li spiegate da soli}{29}{}%
+\contentsline {section}{Il pantheon di Eovras}{29}{}%
+\contentsline {subsection}{Gli dei benigni}{29}{}%
+\contentsline {subsection}{Gli dei maligni}{29}{}%
+\contentsline {chapter}{\numberline {21}Foresta di Mythrenwald}{30}{}%
+\contentsline {section}{Luoghi}{30}{}%
+\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{30}{}%
+\contentsline {subsubsection}{Dentro al tronco dell'Albero}{30}{}%
+\contentsline {subsubsection}{Sulla chioma}{30}{}%
+\contentsline {subsection}{Il borgo di Mythrenberg}{30}{}%
+\contentsline {subsubsection}{La sede del Circolo}{30}{}%
+\contentsline {subsubsection}{La biblioteca della corteccia}{30}{}%
+\contentsline {subsubsection}{La falegnameria di Y'Keah}{30}{}%
+\contentsline {subsection}{I villaggi di Mythrenwald}{30}{}%
+\contentsline {section}{Abitanti}{30}{}%
+\contentsline {subsection}{Halimath Selevarum}{30}{}%
+\contentsline {subsubsection}{Il cieco con gli occhi aperti}{30}{}%
+\contentsline {subsubsection}{Un passato oscuro}{31}{}%
+\contentsline {subsection}{I Druidi di Mythrenwald}{31}{}%
+\contentsline {subsubsection}{I principi del Circolo}{31}{}%
+\contentsline {paragraph}{Protezione della Foresta}{31}{}%
+\contentsline {paragraph}{Protezione della vita}{31}{}%
+\contentsline {paragraph}{Rispetto della morte}{31}{}%
+\contentsline {paragraph}{Studio della corteccia e del cielo}{31}{}%
+\contentsline {paragraph}{Accoglienza e ospitalità}{31}{}%
+\contentsline {subsection}{La struttura del Circolo}{32}{}%
+\contentsline {paragraph}{Il Grande Guardiano}{32}{}%
+\contentsline {paragraph}{Kur il bibliotecario}{32}{}%
+\contentsline {paragraph}{Il consiglio degli anziani}{32}{}%
+\contentsline {paragraph}{L'Assemblea}{32}{}%
+\contentsline {paragraph}{L'ordine dei viaggiatori}{32}{}%
+\contentsline {subsubsection}{Y'Keah il carpentiere}{32}{}%
+\contentsline {subsection}{Fillianore Halamis}{32}{}%
+\contentsline {subsubsection}{}{32}{}%
+\contentsline {chapter}{\numberline {22}La città volante dei Forgiati: Konepolis}{33}{}%
+\contentsline {section}{Luoghi}{33}{}%
+\contentsline {section}{Abitanti}{33}{}%
+\contentsline {part}{\numberline {4}Nemici e Pericoli}{34}{}%
 \contentsfinish 
