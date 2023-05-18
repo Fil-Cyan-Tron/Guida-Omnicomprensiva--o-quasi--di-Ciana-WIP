@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  17 MAY 2023 23:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  18 MAY 2023 12:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -449,13 +449,14 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 \pgffor@iter=\dimen188
 \pgffor@skip=\dimen189
 \pgffor@stack=\toks38
+\are/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen188
+\pgffor@skip=\dimen189
+\pgffor@stack=\toks38
 \pgffor@toks=\toks39
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
-.code.tex
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@plot@mark@count=\count291
 \pgfplotmarksize=\dimen190
@@ -476,32 +477,26 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikznumberofchildren=\count293
 \tikznumberofcurrentchild=\count294
 \tikz@fig@count=\count295
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfmatrixcurrentrow=\count296
 \pgfmatrixcurrentcolumn=\count297
 \pgf@matrix@numberofcolumns=\count298
 )
 \tikz@expandcount=\count299
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarytopaths.code.tex
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 \tcb@waterbox=\box76
-
-(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+ (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.0.2'
 )) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
 Library (tcolorbox): 'tcbxparse.code.tex' version '5.0.2'
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2022-01-12 L3 Experimental document command parser
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count300
@@ -516,8 +511,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen261
 \Gm@layoutvoffset=\dimen262
 \Gm@dimlist=\toks40
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
 \MT@toks=\toks41
 \MT@count=\count303
@@ -528,20 +522,16 @@ LaTeX Info: Redefining \textls on input line 1173.
 \MT@outer@kern=\dimen263
 LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
 \MT@listname@count=\count304
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
-
 LaTeX Info: Redefining \lsstyle on input line 897.
 LaTeX Info: Redefining \lslig on input line 897.
 \MT@outer@space=\skip60
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2021/12/15 v3.1 ragged2e Package
 \CenteringLeftskip=\skip61
 \RaggedLeftLeftskip=\skip62
@@ -557,8 +547,7 @@ Package: ragged2e 2021/12/15 v3.1 ragged2e Package
 \RaggedLeftParindent=\skip72
 \RaggedRightParindent=\skip73
 \JustifyingParindent=\skip74
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip75
@@ -597,8 +586,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforetabskip=\skip106
 \cfttabindent=\skip107
 \cfttabnumwidth=\skip108
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box78
 \beforetitleunit=\skip109
@@ -609,17 +597,14 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidth=\dimen266
 \titlewidthlast=\dimen267
 \titlewidthfirst=\dimen268
-)
-(/usr/share/texlive/texmf-dist/tex/latex/ms/multitoc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/ms/multitoc.sty
 Package: multitoc 1999/06/08 v2.01 MultiToc Package (MS)
-
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \c@tracingmulticols=\count307
 
 
-Package multicol Warning: May not work with the twocolumn option on input line 
-142.
+Package multicol Warning: May not work with the twocolumn option on input line 142.
 
 \mult@box=\box79
 \multicol@leftmargin=\dimen269
@@ -691,13 +676,10 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )) (./lib/compat.sty) (./lib/dndutility.sty
 \l__dnd_space_box=\box124
 \l__dnd_space_dim=\dimen278
-) (./lib/dndcolors.sty) (./lib/dndfonts.sty
-(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
+) (./lib/dndcolors.sty) (./lib/dndfonts.sty (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
-
-(/usr/share/texlive/texmf-dist/tex/generic/minifp/minifp.sty
-Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
--based programing language.
+ (/usr/share/texlive/texmf-dist/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
 \MFP@loopctr=\count317
 )
 \c@DefaultLines=\count318
@@ -728,14 +710,11 @@ Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
 \Llist@everypar=\toks43
 
 Loading lettrine.cfg
-(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg))
-(/usr/share/texlive/texmf-dist/tex/latex/cfr-initials/Royal.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg)) (/usr/share/texlive/texmf-dist/tex/latex/cfr-initials/Royal.sty
 Package: Royal 2007/11/24 v1.01 Royal CFR
-
-(/usr/share/texlive/texmf-dist/tex/latex/initials/RoyalIn.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/initials/RoyalIn.fd
 File: RoyalIn.fd 2003/04/02 Font definition file for U/RoyalIn
-))
-(/usr/share/texlive/texmf-dist/tex/latex/contour/contour.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/contour/contour.sty
 Package: contour 2004/11/18 v2.14 Print contoured text (HH, MH)
 \con@length=\skip113
 
@@ -746,43 +725,31 @@ File: contour.cfg 2004/11/18 v2.14 Print contoured text (HH, MH)
 contour: Using driver file `pdftex.cnt'.
 (/usr/share/texlive/texmf-dist/tex/latex/contour/pdftex.cnt
 File: pdftex.cnt 2004/11/18 v2.14 Print contoured text (HH, MH)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/bookman.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/bookman.sty
 Package: bookman 2020/03/25 PSNFSS-v9.3 (SPQR) 
-)
-(/usr/share/texlive/texmf-dist/tex/latex/gillius/gillius2.sty
-Package: gillius2 2013/11/03 (Bob Tennent) Supports Gillius No.2 fonts for all 
-LaTeX engines.
-
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/gillius/gillius2.sty
+Package: gillius2 2013/11/03 (Bob Tennent) Supports Gillius No.2 fonts for all LaTeX engines.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
-
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks44
 \XKV@tempa@toks=\toks45
 )
 \XKV@depth=\count322
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for OT1+pbk on input line 1
-12.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pbk.fd
+LaTeX Font Info:    Trying to load font information for OT1+pbk on input line 112.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pbk.fd
 File: ot1pbk.fd 2001/06/04 font definitions for OT1/pbk.
 )
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <10> not available
 (Font)              Font shape `OT1/pbk/l/n' tried instead on input line 112.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -794,25 +761,18 @@ LaTeX Info: Redefining \ulcshape on input line 41.
 LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/kpfonts/kpfonts.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/kpfonts.sty
 Package: kpfonts  2010/08/20 v3.31
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+pbk on input line 11
-2.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pbk.fd
+LaTeX Font Info:    Trying to load font information for T1+pbk on input line 112.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pbk.fd
 File: t1pbk.fd 2001/06/04 font definitions for T1/pbk.
 )
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 112.
-))
-(./lib/dndstrings.sty) (./lib/dndcomment.sty) (./lib/dndheader.sty
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
-rs
+)) (./lib/dndstrings.sty) (./lib/dndcomment.sty) (./lib/dndheader.sty (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip114
 \f@nch@O@elh=\skip115
 \f@nch@O@erh=\skip116
@@ -822,47 +782,38 @@ rs
 \f@nch@O@erf=\skip120
 \f@nch@O@olf=\skip121
 \f@nch@O@orf=\skip122
-))
-(./lib/dndmonster.sty
+)) (./lib/dndmonster.sty
 \enitdp@__dnd_monster_attributes=\count323
 \enitdp@DndMonsterSpells=\count324
 \enitdp@DndMonsterLegendaryActions=\count325
 ) (./lib/dndreadaloud.sty) (./lib/dndsections.sty
 \c@DndAreaCounter=\count326
 \c@DndSubAreaCounter=\count327
-)
-(./lib/dndsidebar.sty) (./lib/dndtable.sty
+) (./lib/dndsidebar.sty) (./lib/dndtable.sty
 \l__dnd_table_width_dim=\dimen298
-)) (./lib/dndtoc.sty
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
+)) (./lib/dndtoc.sty (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2021/07/05 v2.14 TOC entries
 \ttl@leftsep=\dimen299
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+))) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2022/01/26 3.70 The Babel package
 \babel@savecnt=\count328
 \U@D=\dimen300
 \l@unhyphenated=\language87
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read4
 \bbl@dirlevel=\count329
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
 Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
 \it@lettering=\count330
 \it@doublequoteactive=\count331
 \it@ISOcompliance=\count332
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks46
 \inpenc@posthook=\toks47
-)
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \captionmargin=\dimen301
 \captionmargin@=\dimen302
@@ -875,8 +826,7 @@ Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count333
 \c@continuedfloat=\count334
-)
-(/usr/share/texlive/texmf-dist/tex/latex/kantlipsum/kantlipsum.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/kantlipsum/kantlipsum.sty
 Package: kantlipsum 2019/07/23 v0.8 Generate text in Kantian style
 \l__kgl_start_int=\count335
 \l__kgl_end_int=\count336
@@ -884,8 +834,7 @@ Package: kantlipsum 2019/07/23 v0.8 Generate text in Kantian style
 Package kantlipsum Info: The package provides paragraphs 1 to 164. Values
 (kantlipsum)             outside this range will be ignored.
 
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count337
 \lst@gtempboxa=\box127
 \lst@token=\toks48
@@ -898,112 +847,97 @@ Package kantlipsum Info: The package provides paragraphs 1 to 164. Values
 \lst@newlines=\count341
 \lst@lineno=\count342
 \lst@maxwidth=\dimen311
-
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count343
 \lst@skipnumbers=\count344
 \lst@framebox=\box128
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/shortvrb.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/base/shortvrb.sty
 Package: shortvrb 2021/10/04 v2.1n Standard LaTeX documentation package (FMi)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
-Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
-ings
+) (/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip settings
 \@dblbotnum=\count345
 \c@dblbotnumber=\count346
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks49
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-Package shortvrb Info: Made  a short reference for \verb on input line 27.
-
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+Package shortvrb Info: Made  a short reference for \verb on input line 28.
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
 File: lstlang2.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
 File: lstlang3.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
 File: lstlang2.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
 File: lstlang3.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
 File: lstlang2.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
 File: lstlang3.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-)
-(./lib/languages/italian.sty) (./lib/languages/japanese.sty)
-(./lib/languages/ngerman.sty) (./lib/languages/russian.sty)
-(./lib/languages/spanish.sty) (./lib/languages/french.sty) (./Guida.aux)
+) (./lib/languages/italian.sty) (./lib/languages/japanese.sty) (./lib/languages/ngerman.sty) (./lib/languages/russian.sty) (./lib/languages/spanish.sty) (./lib/languages/french.sty) (./Guida.aux)
 \openout1 = `Guida.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count347
 \scratchdimen=\dimen312
 \scratchbox=\box129
 \nofMPsegments=\count348
 \nofMParguments=\count349
-\everyMPshowfont=\toks49
+\everyMPshowfont=\toks50
 \MPscratchCnt=\count350
 \MPscratchDim=\dimen313
 \MPnumerator=\count351
 \makeMPintoPDFobject=\count352
-\everyMPtoPDFconversion=\toks50
+\everyMPtoPDFconversion=\toks51
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\symgns@font=\mathgroup4
+\symgns@font=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/pbk/m/n --> TS1/pbk/b/n on input line 42.
-Package gensymb Info: Math companion symbols declared on input line 42.
-LaTeX Info: Redefining \degree on input line 42.
-LaTeX Info: Redefining \celsius on input line 42.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 42.
-LaTeX Info: Redefining \ohm on input line 42.
-Package gensymb Info: Using \textohm for \ohm on input line 42.
-Package gensymb Info: Using \textmu for \micro on input line 42.
+(Font)                  TS1/pbk/m/n --> TS1/pbk/b/n on input line 43.
+Package gensymb Info: Math companion symbols declared on input line 43.
+LaTeX Info: Redefining \degree on input line 43.
+LaTeX Info: Redefining \celsius on input line 43.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 43.
+LaTeX Info: Redefining \ohm on input line 43.
+Package gensymb Info: Using \textohm for \ohm on input line 43.
+Package gensymb Info: Using \textmu for \micro on input line 43.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1039,18 +973,18 @@ Package gensymb Info: Using \textmu for \micro on input line 42.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 42.
-Package microtype Info: Applying patch `item' on input line 42.
-Package microtype Info: Applying patch `toc' on input line 42.
-Package microtype Info: Applying patch `eqnum' on input line 42.
-Package microtype Info: Applying patch `footnote' on input line 42.
+LaTeX Info: Redefining \microtypecontext on input line 43.
+Package microtype Info: Applying patch `item' on input line 43.
+Package microtype Info: Applying patch `toc' on input line 43.
+Package microtype Info: Applying patch `eqnum' on input line 43.
+Package microtype Info: Applying patch `footnote' on input line 43.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 42.
+LaTeX Info: Redefining \showhyphens on input line 43.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1060,56 +994,59 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 \c@mv@tabular=\count353
 \c@mv@boldtabular=\count354
-LaTeX Info: Redefining \it@ocap on input line 42.
-LaTeX Info: Redefining \it@ccap on input line 42.
+LaTeX Info: Redefining \it@ocap on input line 43.
+LaTeX Info: Redefining \it@ccap on input line 43.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count355
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 46.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <12> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 46.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 46.
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 47.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 46.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 46.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 46.
-LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 4
-6.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pbk.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 47.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pbk.fd
 File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <12> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 46.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 47.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pbk' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 46.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 46.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 47.
 <img/paper.jpg, id=4, 2559.5625pt x 3312.375pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 46.
+Package pdftex.def Info: img/paper.jpg  used on input line 47.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 46.
+Package pdftex.def Info: img/paper.jpg  used on input line 47.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 46.
+Package pdftex.def Info: img/paper.jpg  used on input line 47.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
  [1
 
@@ -1118,12 +1055,11 @@ Package pdftex.def Info: img/paper.jpg  used on input line 46.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/paper.jpg>]
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 48.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 48.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 49.
 
-contour: Using 32 copies for `Indice\ttl@gmk{\@mkboth{\MakeUppercase {Indice}}{
-\MakeUppercase {Indice}}}' on input line 48.
+contour: Using 32 copies for `Indice\ttl@gmk{\@mkboth{\MakeUppercase {Indice}}{\MakeUppercase {Indice}}}' on input line 49.
 (./Guida.toc
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 4.
@@ -1142,72 +1078,72 @@ Overfull \hbox (0.57983pt too wide) detected at line 56
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 59
+Overfull \hbox (0.57983pt too wide) detected at line 60
  \T1/pbk/l/sc/12 11
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 61
+Overfull \hbox (0.57983pt too wide) detected at line 62
  \T1/pbk/l/sc/12 12
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 63
+Overfull \hbox (0.57983pt too wide) detected at line 64
  \T1/pbk/l/sc/12 13
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 66
+Overfull \hbox (0.57983pt too wide) detected at line 67
  \T1/pbk/l/sc/12 14
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 84
+Overfull \hbox (0.57983pt too wide) detected at line 85
  \T1/pbk/l/sc/12 16
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 87
+Overfull \hbox (0.57983pt too wide) detected at line 94
  \T1/pbk/l/sc/12 17
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 89
+Overfull \hbox (0.57983pt too wide) detected at line 96
  \T1/pbk/l/sc/12 18
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 104
+Overfull \hbox (0.57983pt too wide) detected at line 118
  \T1/pbk/l/sc/12 20
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 124
+Overfull \hbox (0.57983pt too wide) detected at line 139
  \T1/pbk/l/sc/12 23
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 130
+Overfull \hbox (0.57983pt too wide) detected at line 145
  \T1/pbk/l/sc/12 24
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 154
+Overfull \hbox (0.57983pt too wide) detected at line 170
  \T1/pbk/l/sc/12 27
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 164
+Overfull \hbox (0.57983pt too wide) detected at line 180
  \T1/pbk/l/sc/12 28
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 194
+Overfull \hbox (0.57983pt too wide) detected at line 210
  \T1/pbk/l/sc/12 31
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 []|\T1/pbk/l/sc/12 (+20) Ch. 20: La cit-tà vo-lan-te dei 
  []
 
@@ -1217,50 +1153,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--194
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 48.
+Package pdftex.def Info: img/paper.jpg  used on input line 49.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 48.
+Package pdftex.def Info: img/paper.jpg  used on input line 49.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 48.
+Package pdftex.def Info: img/paper.jpg  used on input line 49.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <7> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 48.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
 <img/footerscroll.pdf, id=12, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 48.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <5> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 48.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <5> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 49.
  [2
 
 
 
  <./img/footerscroll.pdf>]
-contour: Using 32 copies for `Parte\ 1' on input line 52.
-contour: Using 32 copies for `Ipotesi' on input line 52.
-contour: Using 32 copies for `necessarie' on input line 52.
+contour: Using 32 copies for `Parte\ 1' on input line 53.
+contour: Using 32 copies for `Ipotesi' on input line 53.
+contour: Using 32 copies for `necessarie' on input line 53.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 52.
+Package pdftex.def Info: img/paper.jpg  used on input line 53.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 52.
+Package pdftex.def Info: img/paper.jpg  used on input line 53.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 52.
+Package pdftex.def Info: img/paper.jpg  used on input line 53.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 52.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 53.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [1
 
@@ -1351,41 +1287,41 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 )
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 58.
+Package pdftex.def Info: img/paper.jpg  used on input line 59.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 58.
+Package pdftex.def Info: img/paper.jpg  used on input line 59.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 58.
+Package pdftex.def Info: img/paper.jpg  used on input line 59.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 58.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 59.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [4]
-contour: Using 32 copies for `Parte\ 2' on input line 58.
-contour: Using 32 copies for `Opzioni' on input line 58.
-contour: Using 32 copies for `per' on input line 58.
-contour: Using 32 copies for `i' on input line 58.
-contour: Using 32 copies for `personaggi' on input line 58.
+contour: Using 32 copies for `Parte\ 2' on input line 59.
+contour: Using 32 copies for `Opzioni' on input line 59.
+contour: Using 32 copies for `per' on input line 59.
+contour: Using 32 copies for `i' on input line 59.
+contour: Using 32 copies for `personaggi' on input line 59.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 58.
+Package pdftex.def Info: img/paper.jpg  used on input line 59.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 58.
+Package pdftex.def Info: img/paper.jpg  used on input line 59.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 58.
+Package pdftex.def Info: img/paper.jpg  used on input line 59.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 58.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 59.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [5
 
@@ -1467,11 +1403,9 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 Capitolo 6.
 contour: Using 32 copies for `Capitolo\ 6:' on input line 1.
 contour: Using 32 copies for `Chierico' on input line 1.
-LaTeX Font Info:    Trying to load font information for T1+GilliusADFNoTwo-LF o
-n input line 8.
+LaTeX Font Info:    Trying to load font information for T1+GilliusADFNoTwo-LF on input line 8.
 (/usr/share/texlive/texmf-dist/tex/latex/gillius/T1GilliusADFNoTwo-LF.fd
-File: T1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for T1/Gil
-liusADFNoTwo-LF.
+File: T1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for T1/GilliusADFNoTwo-LF.
 )
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 8.
@@ -1487,9 +1421,7 @@ LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <9> not available
 (Font)              Font shape `T1/pbk/l/it' tried instead on input line 8.
 
 Missing character: There is no ; in font nullfont!
-(/usr/share/texlive/texmf-dist/tex/latex/kpfonts/t1jkpss.fd)
-(/usr/share/texlive/texmf-dist/tex/latex/gillius/TS1GilliusADFNoTwo-LF.fd))
-(./data/Personaggi/Druido.tex
+(/usr/share/texlive/texmf-dist/tex/latex/kpfonts/t1jkpss.fd) (/usr/share/texlive/texmf-dist/tex/latex/gillius/TS1GilliusADFNoTwo-LF.fd)) (./data/Personaggi/Druido.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -1703,7 +1635,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [16
 
-
 ]
 Capitolo 13.
 contour: Using 32 copies for `Capitolo\ 13:' on input line 1.
@@ -1734,26 +1665,32 @@ contour: Using 32 copies for `Capitolo\ 14:' on input line 1.
 contour: Using 32 copies for `Stregone' on input line 1.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.05644pt (L);
+(lettrine.sty)             reported on input line 27.
+LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <7> not available
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 27.
 Missing character: There is no ; in font nullfont!
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 40.90071pt (A);
-(lettrine.sty)             reported on input line 25.
+(lettrine.sty)             reported on input line 57.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 48.
+Package pdftex.def Info: img/paper.jpg  used on input line 61.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 48.
+Package pdftex.def Info: img/paper.jpg  used on input line 61.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 48.
+Package pdftex.def Info: img/paper.jpg  used on input line 61.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 48.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 61.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [18
 
@@ -1774,39 +1711,33 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [19
-
-]
+ [19]
 Capitolo 15.
 contour: Using 32 copies for `Capitolo\ 15:' on input line 1.
 contour: Using 32 copies for `Warlock' on input line 1.
 Missing character: There is no ; in font nullfont!
 LaTeX Font Info:    Font shape `TS1/pbk/m/it' in size <10> not available
-(Font)              Font shape `TS1/pbk/l/it' tried instead on input line 11.
-
-Underfull \vbox (badness 4699) has occurred while \output is active []
-
-
+(Font)              Font shape `TS1/pbk/l/it' tried instead on input line 13.
 Missing character: There is no ; in font nullfont!
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.41977pt (G);
-(lettrine.sty)             reported on input line 29.
+(lettrine.sty)             reported on input line 31.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 49.
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 49.
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 49.
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 52.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [20
 
@@ -1814,28 +1745,27 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 40.53738pt (N);
-(lettrine.sty)             reported on input line 60.
+(lettrine.sty)             reported on input line 62.
 
-Underfull \vbox (badness 4454) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 95.
+Package pdftex.def Info: img/paper.jpg  used on input line 97.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 95.
+Package pdftex.def Info: img/paper.jpg  used on input line 97.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 95.
+Package pdftex.def Info: img/paper.jpg  used on input line 97.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 95.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 97.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [21])
-(./data/Personaggi/Talenti.tex
+ [21]) (./data/Personaggi/Talenti.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -1907,43 +1837,43 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 68.
 ])
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 94.
+Package pdftex.def Info: img/paper.jpg  used on input line 95.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 94.
+Package pdftex.def Info: img/paper.jpg  used on input line 95.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 94.
+Package pdftex.def Info: img/paper.jpg  used on input line 95.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 94.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 95.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [25
 
 ]
-contour: Using 32 copies for `Parte\ 3' on input line 94.
-contour: Using 32 copies for `Il' on input line 94.
-contour: Using 32 copies for `Mondo' on input line 94.
-contour: Using 32 copies for `di' on input line 94.
-contour: Using 32 copies for `Eovras' on input line 94.
+contour: Using 32 copies for `Parte\ 3' on input line 95.
+contour: Using 32 copies for `Il' on input line 95.
+contour: Using 32 copies for `Mondo' on input line 95.
+contour: Using 32 copies for `di' on input line 95.
+contour: Using 32 copies for `Eovras' on input line 95.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 94.
+Package pdftex.def Info: img/paper.jpg  used on input line 95.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 94.
+Package pdftex.def Info: img/paper.jpg  used on input line 95.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 94.
+Package pdftex.def Info: img/paper.jpg  used on input line 95.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 94.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 95.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [26
 
@@ -2027,64 +1957,50 @@ LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/n' will be
 (Font)              scaled to size 9.0pt on input line 59.
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]\T1/GilliusADFNoTwo-LF/m/n/9 Addestrare Ani-ma-li +17, Ar-ca-no +17, Atle-ti-
-ca +13,
+[]\T1/GilliusADFNoTwo-LF/m/n/9 Addestrare Ani-ma-li +17, Ar-ca-no +17, Atle-ti-ca +13,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\T1/GilliusADFNoTwo-LF/m/n/9 In-tui-zio-ne +17, Per-ce-zio-ne +17, Ra-pi-di-tà 
-di Ma-no +17, Fur-ti-vi-tà
+\T1/GilliusADFNoTwo-LF/m/n/9 In-tui-zio-ne +17, Per-ce-zio-ne +17, Ra-pi-di-tà di Ma-no +17, Fur-ti-vi-tà
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]\T1/GilliusADFNoTwo-LF/m/n/9 Vista cie-ca 36 m, vi-sta del-le au-ree 72 m. Pe
-r-ce-zio-ne
+[]\T1/GilliusADFNoTwo-LF/m/n/9 Vista cie-ca 36 m, vi-sta del-le au-ree 72 m. Per-ce-zio-ne
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]\T1/GilliusADFNoTwo-LF/m/n/9 Comune, El-fi-co, Sil-va-no, Gno-me-sco, Drui-di
--co,
+[]\T1/GilliusADFNoTwo-LF/m/n/9 Comune, El-fi-co, Sil-va-no, Gno-me-sco, Drui-di-co,
  []
 
-LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/sl' in size <9> not ava
-ilable
-(Font)              Font shape `T1/GilliusADFNoTwo-LF/m/it' tried instead on in
-put line 83.
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/sl' in size <9> not available
+(Font)              Font shape `T1/GilliusADFNoTwo-LF/m/it' tried instead on input line 83.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 83.
-LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/sl' in size <9> not ava
-ilable
-(Font)              Font shape `T1/GilliusADFNoTwo-LF/b/it' tried instead on in
-put line 83.
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/sl' in size <9> not available
+(Font)              Font shape `T1/GilliusADFNoTwo-LF/b/it' tried instead on input line 83.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/it' will be
 (Font)              scaled to size 9.0pt on input line 83.
 
 Underfull \hbox (badness 10000) in paragraph at lines 83--85
-\T1/GilliusADFNoTwo-LF/b/it/9 Tratti di clas-se. \T1/GilliusADFNoTwo-LF/m/n/9 H
-a-li-math è un Mo-na-co del-l'Om-bra Re-den-ta
+\T1/GilliusADFNoTwo-LF/b/it/9 Tratti di clas-se. \T1/GilliusADFNoTwo-LF/m/n/9 Ha-li-math è un Mo-na-co del-l'Om-bra Re-den-ta
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 83--85
-\T1/GilliusADFNoTwo-LF/m/n/9 di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusAD
-FNoTwo-LF/m/n/9 li-vel-lo e un Drui-do del Cir-co-lo del-le Stel-le di 20\TS1/G
-illiusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo.
+\T1/GilliusADFNoTwo-LF/m/n/9 di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo e un Drui-do del Cir-co-lo del-le Stel-le di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 86--88
-\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Ha-li-m
-ath è un drui-do di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/
-n/9 li-vel-lo. Co-no-sce tut-ti
+\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Ha-li-math è un drui-do di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo. Co-no-sce tut-ti
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 86--88
-\T1/GilliusADFNoTwo-LF/m/n/9 gli in-can-te-si-mi da drui-do. Re-cu-pe-ra i suoi
- slot do-po ogni ri-po-so
+\T1/GilliusADFNoTwo-LF/m/n/9 gli in-can-te-si-mi da drui-do. Re-cu-pe-ra i suoi slot do-po ogni ri-po-so
  []
 
 Package microtype Info: Character `029' is missing
@@ -2101,123 +2017,92 @@ Package microtype Info: Character `029' is missing
 (microtype)             Ignoring protrusion settings for this character.
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--114
-\T1/GilliusADFNoTwo-LF/b/it/9 Pugni. \T1/GilliusADFNoTwo-LF/m/it/9 At-tac-co co
-n Ar-ma da Mi-schia: \T1/GilliusADFNoTwo-LF/m/n/9 +17 per col-pi-re, por-ta-ta 
-5
+\T1/GilliusADFNoTwo-LF/b/it/9 Pugni. \T1/GilliusADFNoTwo-LF/m/it/9 At-tac-co con Ar-ma da Mi-schia: \T1/GilliusADFNoTwo-LF/m/n/9 +17 per col-pi-re, por-ta-ta 5
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--118
-\T1/GilliusADFNoTwo-LF/m/n/9 Halimath pos-sie-de 32 pun-ti ki che può usa-re pe
-r i po-te-ri di un
+\T1/GilliusADFNoTwo-LF/m/n/9 Halimath pos-sie-de 32 pun-ti ki che può usa-re per i po-te-ri di un
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 170--173
-\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi in-na-ti. \T1/GilliusADFNoTwo-LF/m/n/
-9 Fil-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
+\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi in-na-ti. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 175--176
-[]\T1/GilliusADFNoTwo-LF/m/it/9 Invisibilità\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/
-GilliusADFNoTwo-LF/m/it/9 Le-vi-ta-zio-ne\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gil
-liusADFNoTwo-LF/m/it/9 In-ti-mo-ri-re In-fer-na-le\T1/GilliusADFNoTwo-LF/m/n/9 
-,
+[]\T1/GilliusADFNoTwo-LF/m/it/9 Invisibilità\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Le-vi-ta-zio-ne\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 In-ti-mo-ri-re In-fer-na-le\T1/GilliusADFNoTwo-LF/m/n/9 ,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 180--183
-\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia
--no-re re-cu-pe-ra i suoi slot in-can-te-si-mo ogni
+\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re re-cu-pe-ra i suoi slot in-can-te-si-mo ogni
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 183--184
-[]\T1/GilliusADFNoTwo-LF/m/it/9 Deflagrazione Oc-cul-ta\T1/GilliusADFNoTwo-LF/m
-/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Gui-da\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/G
-illiusADFNoTwo-LF/m/it/9 In-ter-di-zio-ne
+[]\T1/GilliusADFNoTwo-LF/m/it/9 Deflagrazione Oc-cul-ta\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Gui-da\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 In-ter-di-zio-ne
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 183--184
-\T1/GilliusADFNoTwo-LF/m/it/9 al-le La-me\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gil
-liusADFNoTwo-LF/m/it/9 Ma-no Ma-gi-ca\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gillius
-ADFNoTwo-LF/m/it/9 Rin-toc-co dei Mor-ti\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gill
-iusADFNoTwo-LF/m/it/9 Ri-pa-ra-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFN
-oTwo-LF/m/it/9 Sal-va-re i
+\T1/GilliusADFNoTwo-LF/m/it/9 al-le La-me\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Ma-no Ma-gi-ca\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Rin-toc-co dei Mor-ti\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Ri-pa-ra-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Sal-va-re i
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 184--185
-[]\T1/GilliusADFNoTwo-LF/m/it/9 Armatura di Aga-thys\T1/GilliusADFNoTwo-LF/m/n/
-9 , \T1/GilliusADFNoTwo-LF/m/it/9 Char-me su Per-so-ne\T1/GilliusADFNoTwo-LF/m/
-n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Ser-vi-to-re
+[]\T1/GilliusADFNoTwo-LF/m/it/9 Armatura di Aga-thys\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Char-me su Per-so-ne\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Ser-vi-to-re
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 184--185
-\T1/GilliusADFNoTwo-LF/m/it/9 Inos-ser-va-to\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/
-GilliusADFNoTwo-LF/m/it/9 Fran-tu-ma-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gilli
-usADFNoTwo-LF/m/it/9 La-ma d'Om-bra\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusAD
-FNoTwo-LF/m/it/9 Con-tro-in-can-te-si-mo\T1/GilliusADFNoTwo-LF/m/n/9 ,
+\T1/GilliusADFNoTwo-LF/m/it/9 Inos-ser-va-to\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Fran-tu-ma-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 La-ma d'Om-bra\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Con-tro-in-can-te-si-mo\T1/GilliusADFNoTwo-LF/m/n/9 ,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 184--185
-\T1/GilliusADFNoTwo-LF/m/it/9 Ri-muo-vi Ma-le-di-zio-ne\T1/GilliusADFNoTwo-LF/m
-/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Vo-la-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1
-/GilliusADFNoTwo-LF/m/it/9 Esi-lio\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADF
-NoTwo-LF/m/it/9 Por-ta Di-men-sio-na-le\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gilli
-usADFNoTwo-LF/m/it/9 Ter-re-no
+\T1/GilliusADFNoTwo-LF/m/it/9 Ri-muo-vi Ma-le-di-zio-ne\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Vo-la-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Esi-lio\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Por-ta Di-men-sio-na-le\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Ter-re-no
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 187--190
-\T1/GilliusADFNoTwo-LF/b/it/9 Arcanum Mi-sti-co. \T1/GilliusADFNoTwo-LF/m/n/9 F
-il-lia-no-re re-cu-pe-ra i suoi uti-liz-zi del-l'Ar-ca-num
+\T1/GilliusADFNoTwo-LF/b/it/9 Arcanum Mi-sti-co. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re re-cu-pe-ra i suoi uti-liz-zi del-l'Ar-ca-num
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 196--198
-\T1/GilliusADFNoTwo-LF/b/it/9 Maestro del-l'Oc-cul-to. \T1/GilliusADFNoTwo-LF/m
-/n/9 Una vol-ta per ri-po-so lun-go, Fil-lia-no-re può
+\T1/GilliusADFNoTwo-LF/b/it/9 Maestro del-l'Oc-cul-to. \T1/GilliusADFNoTwo-LF/m/n/9 Una vol-ta per ri-po-so lun-go, Fil-lia-no-re può
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 199--201
-\T1/GilliusADFNoTwo-LF/b/it/9 Poteri del Si-gno-re del-l'As-sur-do. \T1/Gillius
-ADFNoTwo-LF/m/n/9 Il pa-tro-no di Fil-lia-no-re è il
+\T1/GilliusADFNoTwo-LF/b/it/9 Poteri del Si-gno-re del-l'As-sur-do. \T1/GilliusADFNoTwo-LF/m/n/9 Il pa-tro-no di Fil-lia-no-re è il
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 199--201
-\T1/GilliusADFNoTwo-LF/m/n/9 Si-gno-re del-l'As-sur-do, quin-di pos-sie-de tut-
-ti i po-te-ri che ne
+\T1/GilliusADFNoTwo-LF/m/n/9 Si-gno-re del-l'As-sur-do, quin-di pos-sie-de tut-ti i po-te-ri che ne
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 202--204
-\T1/GilliusADFNoTwo-LF/b/it/9 Deflagrazione Alea-to-ria. \T1/GilliusADFNoTwo-LF
-/m/n/9 6 vol-te per ri-po-so bre-ve, quan-do
+\T1/GilliusADFNoTwo-LF/b/it/9 Deflagrazione Alea-to-ria. \T1/GilliusADFNoTwo-LF/m/n/9 6 vol-te per ri-po-so bre-ve, quan-do
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 202--204
-\T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re col-pi-sce un ber-sa-glio con il tru
-c-chet-to De-fla-gra-zio-ne
+\T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re col-pi-sce un ber-sa-glio con il truc-chet-to De-fla-gra-zio-ne
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 202--204
-\T1/GilliusADFNoTwo-LF/m/n/9 Oc-cul-ta, co-me azio-ne bo-nus può im-por-re al b
-er-sa-glio di ti-ra-re
+\T1/GilliusADFNoTwo-LF/m/n/9 Oc-cul-ta, co-me azio-ne bo-nus può im-por-re al ber-sa-glio di ti-ra-re
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 202--204
-\T1/GilliusADFNoTwo-LF/m/n/9 dal-la ta-bel-la del-la Ma-gia Sel-vag-gia un nu-m
-e-ro di vol-te pa-ri al
+\T1/GilliusADFNoTwo-LF/m/n/9 dal-la ta-bel-la del-la Ma-gia Sel-vag-gia un nu-me-ro di vol-te pa-ri al
  []
 
 
@@ -2239,8 +2124,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 211.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [29])
-(./data/Eovras/Konepolis.tex
+ [29]) (./data/Eovras/Konepolis.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2274,85 +2158,66 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 )
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 102.
+Package pdftex.def Info: img/paper.jpg  used on input line 103.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 102.
+Package pdftex.def Info: img/paper.jpg  used on input line 103.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 102.
+Package pdftex.def Info: img/paper.jpg  used on input line 103.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 102.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [31
 
 
 ]
-contour: Using 32 copies for `Parte\ 4' on input line 102.
-contour: Using 32 copies for `Nemici' on input line 102.
-contour: Using 32 copies for `e' on input line 102.
-contour: Using 32 copies for `Pericoli' on input line 102.
+contour: Using 32 copies for `Parte\ 4' on input line 103.
+contour: Using 32 copies for `Nemici' on input line 103.
+contour: Using 32 copies for `e' on input line 103.
+contour: Using 32 copies for `Pericoli' on input line 103.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 102.
+Package pdftex.def Info: img/paper.jpg  used on input line 103.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 102.
+Package pdftex.def Info: img/paper.jpg  used on input line 103.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 102.
+Package pdftex.def Info: img/paper.jpg  used on input line 103.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 102.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [32
 
 
 ]
 
-Package caption Warning: Unused \captionsetup[table] on input line 25.
+Package caption Warning: Unused \captionsetup[table] on input line 26.
 See the caption package documentation for explanation.
 
 (./Guida.aux) ) 
 Here is how much of TeX's memory you used:
- 28033 strings out of 478287
- 570694 string characters out of 5849290
- 1314143 words of memory out of 5000000
- 45136 multiletter control sequences out of 15000+600000
- 579008 words of font info for 370 fonts, out of 8000000 for 9000
+ 28216 strings out of 478287
+ 573891 string characters out of 5849290
+ 1314620 words of memory out of 5000000
+ 45282 multiletter control sequences out of 15000+600000
+ 584067 words of font info for 398 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 119i,18n,122p,1387b,1115s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr
-/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/te
-xlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}</usr/share/texlive/tex
-mf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/kpfonts/jkpssbn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfont
-s/jkpssbsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkps
-smsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (34 pages, 589031 bytes).
+ 119i,18n,122p,1465b,1115s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}</usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
+Output written on Guida.pdf (34 pages, 614625 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 140 compressed objects within 2 object streams
+ 232 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 134679 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 137751 words of extra memory for PDF output out of 154059 (max. 10000000)
 

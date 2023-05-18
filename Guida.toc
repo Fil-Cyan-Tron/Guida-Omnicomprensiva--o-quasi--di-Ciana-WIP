@@ -56,6 +56,7 @@
 \contentsline {chapter}{\numberline {7}Druido}{10}{}%
 \contentsline {section}{Privilegi di Classe Opzionali}{10}{}%
 \contentsline {section}{Circolo Sperimentale}{10}{}%
+\contentsline {subsection}{Un caffè buonissimo, qualcosa di bello da mangiare}{10}{}%
 \contentsline {chapter}{\numberline {8}Guerriero}{11}{}%
 \contentsline {section}{Privilegi di Classe Opzionali}{11}{}%
 \contentsline {chapter}{\numberline {9}Ladro}{12}{}%
@@ -84,30 +85,44 @@
 \contentsline {chapter}{\numberline {12}Paladino}{16}{}%
 \contentsline {section}{Privilegi di Classe Opzionali}{16}{}%
 \contentsline {section}{Giuramento di Veramente Vera Verità}{16}{}%
+\contentsline {subsection}{Incanalare Divinità}{16}{}%
+\contentsline {paragraph}{Circuiti Infallibili}{16}{}%
+\contentsline {paragraph}{Inferenza Logica}{16}{}%
+\contentsline {subsection}{Esecuzione Deterministica}{16}{}%
+\contentsline {subsection}{Assioma Protettivo}{16}{}%
+\contentsline {subsection}{Teorema di Correttezza}{16}{}%
 \contentsline {chapter}{\numberline {13}Ranger}{17}{}%
 \contentsline {section}{Privilegi di Classe Opzionali}{17}{}%
 \contentsline {chapter}{\numberline {14}Stregone}{18}{}%
 \contentsline {section}{Privilegi di Classe Opzionali}{18}{}%
+\contentsline {subsection}{Riserva di punti stregoneria aumentata}{18}{}%
+\contentsline {subsection}{Opzioni di metamagia}{18}{}%
 \contentsline {section}{Dinastia di Analisti}{18}{}%
+\contentsline {subsection}{Teorema prezzemolino}{18}{}%
+\contentsline {subsection}{Connesso per poligonali}{18}{}%
+\contentsline {subsection}{Funzione Inversa}{18}{}%
+\contentsline {subsection}{Superfici Complesse}{18}{}%
+\contentsline {subsection}{Limite all'Infinito}{18}{}%
 \contentsline {section}{Cavaliere della Trama}{18}{}%
 \contentsline {subsection}{La Spada di Trama}{18}{}%
-\contentsline {subsection}{Cavaliere della Trama}{18}{}%
-\contentsline {subsection}{Percorso della Trama}{18}{}%
-\contentsline {paragraph}{Percorso del Grifone}{18}{}%
-\contentsline {paragraph}{Percorso della Testuggine}{18}{}%
-\contentsline {paragraph}{Percorso della Manticora}{18}{}%
-\contentsline {subsection}{Stile della Trama}{18}{}%
-\contentsline {paragraph}{Stile del Fiume}{18}{}%
-\contentsline {paragraph}{Stile della Tempesta}{18}{}%
+\contentsline {subsection}{Cavaliere della Trama}{19}{}%
+\contentsline {subsection}{Percorso della Trama}{19}{}%
+\contentsline {paragraph}{Percorso del Grifone}{19}{}%
+\contentsline {paragraph}{Percorso della Testuggine}{19}{}%
+\contentsline {paragraph}{Percorso della Manticora}{19}{}%
+\contentsline {subsection}{Stile della Trama}{19}{}%
+\contentsline {paragraph}{Stile del Fiume}{19}{}%
+\contentsline {paragraph}{Stile della Tempesta}{19}{}%
 \contentsline {paragraph}{Stile del Vulcano}{19}{}%
 \contentsline {subsection}{Tutt'uno con la Trama}{19}{}%
 \contentsline {chapter}{\numberline {15}Warlock}{20}{}%
 \contentsline {section}{Privilegi di Classe Opzionali}{20}{}%
-\contentsline {subsection}{Supplica Occulta: Occhi Aperti}{20}{}%
+\contentsline {subsection}{Suppliche Occulte}{20}{}%
+\contentsline {subsubsection}{Occhi Aperti}{20}{}%
 \contentsline {paragraph}{Dopo nessun aumento di livello}{20}{}%
 \contentsline {paragraph}{Dopo un aumento di livello}{20}{}%
 \contentsline {paragraph}{Dopo due aumenti di livello o al 20° livello}{20}{}%
-\contentsline {subsection}{Supplica Occulta: Deflagrazione aleatoria}{20}{}%
+\contentsline {subsubsection}{Deflagrazione Aleatoria}{20}{}%
 \contentsline {section}{Lo Spazio Proiettivo}{20}{}%
 \contentsline {subsection}{Lista degli incantesimi ampliata}{20}{}%
 \contentsline {subsection}{Forma lineare associata}{20}{}%
@@ -150,6 +165,7 @@
 \contentsline {subsubsection}{Punizione del Caos}{24}{}%
 \contentsline {subparagraph}{Ai livelli superiori}{24}{}%
 \contentsline {subsubsection}{Scarica Elementale}{24}{}%
+\contentsline {subsubsection}{Verità Assoluta}{25}{}%
 \contentsline {part}{\numberline {3}Il Mondo di Eovras}{26}{}%
 \contentsline {chapter}{\numberline {18}La Magia e gli Dei}{27}{}%
 \contentsline {section}{La Magia a Eovras}{27}{}%
