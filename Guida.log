@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  19 MAY 2023 10:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  19 MAY 2023 11:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1224,7 +1224,7 @@ Overfull \hbox (0.57983pt too wide) detected at line 180
 
 
 Overfull \hbox (0.57983pt too wide) detected at line 210
- \T1/pbk/l/sc/12 31
+ \T1/pbk/l/sc/12 32
  []
 
 
@@ -1757,33 +1757,34 @@ Missing character: There is no ; in font nullfont!
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.05644pt (L);
-(lettrine.sty)             reported on input line 27.
+(lettrine.sty)             reported on input line 31.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <7> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 27.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 31.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 52.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[18
+
+]
 Missing character: There is no ; in font nullfont!
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 40.90071pt (A);
-(lettrine.sty)             reported on input line 57.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 61.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 61.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 61.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 61.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[18
-
-]) (./data/Personaggi/Warlock.tex
+(lettrine.sty)             reported on input line 61.
+) (./data/Personaggi/Warlock.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -1801,6 +1802,25 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [19]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 1.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 1.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 1.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [20
+
+]
 Capitolo 15.
 contour: Using 32 copies for `Capitolo\ 15:' on input line 1.
 contour: Using 32 copies for `Warlock' on input line 1.
@@ -1828,7 +1848,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 52.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[20
+[21
 
 ]
 Package lettrine.sty Info: Targeted height = 41.41992pt
@@ -1854,7 +1874,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 97.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [21])
+ [22])
 (./data/Personaggi/Talenti.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -1872,7 +1892,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [22
+ [23
 
 ]
 Capitolo 16.
@@ -1895,7 +1915,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [23
+ [24
 
 
 ]
@@ -1922,7 +1942,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 68.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[24
+[25
 
 ])
 File: img/paper.jpg Graphic file (type jpg)
@@ -1941,7 +1961,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 95.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [25
+ [26
 
 ]
 contour: Using 32 copies for `Parte\ 3' on input line 95.
@@ -1965,7 +1985,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 95.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[26
+[27
 
 
 ] (./data/Eovras/Magia.tex
@@ -2002,7 +2022,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [27
+ [28
 
 
 ]
@@ -2032,7 +2052,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 44.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[28
+[29
 
 ]
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <10> not available
@@ -2139,6 +2159,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--173
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 170--173
+\T1/GilliusADFNoTwo-LF/m/n/9 gra-zie al-le sup-pli-che oc-cul-te che pos-sie-de
+ e al-la sua raz-za. La
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 175--176
 []\T1/GilliusADFNoTwo-LF/m/it/9 Invisibilità\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/
 GilliusADFNoTwo-LF/m/it/9 Le-vi-ta-zio-ne\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gil
@@ -2150,6 +2176,12 @@ liusADFNoTwo-LF/m/it/9 In-ti-mo-ri-re In-fer-na-le\T1/GilliusADFNoTwo-LF/m/n/9
 Underfull \hbox (badness 10000) in paragraph at lines 180--183
 \T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia
 -no-re re-cu-pe-ra i suoi slot in-can-te-si-mo ogni
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--183
+\T1/GilliusADFNoTwo-LF/m/n/9 ri-po-so bre-ve. La CD del ti-ro sal-vez-za con-tr
+o que-sti in-can-te-si-mi
  []
 
 
@@ -2172,15 +2204,16 @@ oTwo-LF/m/it/9 Sal-va-re i
 Underfull \hbox (badness 10000) in paragraph at lines 184--185
 []\T1/GilliusADFNoTwo-LF/m/it/9 Armatura di Aga-thys\T1/GilliusADFNoTwo-LF/m/n/
 9 , \T1/GilliusADFNoTwo-LF/m/it/9 Char-me su Per-so-ne\T1/GilliusADFNoTwo-LF/m/
-n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Ser-vi-to-re
+n/9 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
-\T1/GilliusADFNoTwo-LF/m/it/9 Inos-ser-va-to\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/
-GilliusADFNoTwo-LF/m/it/9 Fran-tu-ma-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gilli
-usADFNoTwo-LF/m/it/9 La-ma d'Om-bra\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusAD
-FNoTwo-LF/m/it/9 Con-tro-in-can-te-si-mo\T1/GilliusADFNoTwo-LF/m/n/9 ,
+Overfull \hbox (18.089pt too wide) in paragraph at lines 184--185
+\T1/GilliusADFNoTwo-LF/m/it/9 Ser-vi-to-re Inos-ser-va-to\T1/GilliusADFNoTwo-LF
+/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Fran-tu-ma-re\T1/GilliusADFNoTwo-LF/m/n/
+9 , \T1/GilliusADFNoTwo-LF/m/it/9 La-ma d'Om-bra\T1/GilliusADFNoTwo-LF/m/n/9 , 
+\T1/GilliusADFNoTwo-LF/m/it/9 Con-tro-in-can-te-si-mo\T1/GilliusADFNoTwo-LF/m/n
+/9 ,
  []
 
 
@@ -2195,7 +2228,19 @@ usADFNoTwo-LF/m/it/9 Ter-re-no
 
 Underfull \hbox (badness 10000) in paragraph at lines 187--190
 \T1/GilliusADFNoTwo-LF/b/it/9 Arcanum Mi-sti-co. \T1/GilliusADFNoTwo-LF/m/n/9 F
-il-lia-no-re re-cu-pe-ra i suoi uti-liz-zi del-l'Ar-ca-num
+il-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--190
+\T1/GilliusADFNoTwo-LF/m/n/9 co-me Ar-ca-num Mi-sti-co. Fil-lia-no-re re-cu-pe-
+ra i suoi uti-liz-zi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--190
+\T1/GilliusADFNoTwo-LF/m/n/9 del-l'Ar-ca-num Mi-sti-co ogni ri-po-so lun-go. La
+ CD del ti-ro sal-vez-za
  []
 
 
@@ -2259,8 +2304,25 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 211.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [29])
-(./data/Eovras/Konepolis.tex
+ [30]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 230.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 230.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 230.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 230.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+
+[31]) (./data/Eovras/Konepolis.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2277,7 +2339,9 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [30]
+ [32
+
+]
 Capitolo 20.
 contour: Using 32 copies for `Capitolo\ 20:' on input line 1.
 contour: Using 32 copies for `La' on input line 1.
@@ -2308,7 +2372,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [31
+ [33
 
 
 ]
@@ -2332,7 +2396,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[32
+[34
 
 
 ]
@@ -2340,42 +2404,46 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 Package caption Warning: Unused \captionsetup[table] on input line 26.
 See the caption package documentation for explanation.
 
-(./Guida.aux) ) 
+(./Guida.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 28214 strings out of 478287
- 573689 string characters out of 5849290
+ 28250 strings out of 478287
+ 574493 string characters out of 5849290
  1314620 words of memory out of 5000000
- 45281 multiletter control sequences out of 15000+600000
+ 45317 multiletter control sequences out of 15000+600000
  584067 words of font info for 398 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 119i,18n,122p,1406b,1115s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr
-/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/te
-xlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}</usr/share/texlive/tex
-mf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpss
-bn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texli
+ 119i,18n,122p,1387b,1115s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
+e/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/gillius/gls_efuo7w.enc}</usr/share/texlive/texmf-dist/fonts
+/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbn8a.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (34 pages, 614640 bytes).
+/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/u
+bkli8a.pfb>
+Output written on Guida.pdf (36 pages, 619091 bytes).
 PDF statistics:
- 232 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
+ 238 PDF objects out of 1000 (max. 8388607)
+ 153 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  137751 words of extra memory for PDF output out of 154059 (max. 10000000)
 
