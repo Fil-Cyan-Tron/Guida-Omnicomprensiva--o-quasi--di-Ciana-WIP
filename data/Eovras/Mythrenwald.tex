@@ -140,7 +140,7 @@ La foresta di Mythrenwald, per quanto antica e potente, non è invincibile di fr
 
     % If you want to use commas in the key values, enclose the values in braces.
     \DndMonsterBasics[
-        armor-class = {16},
+        armor-class = {16 (Armatura Magica)},
         hit-points  = {\DndDice{20d8 + 100}},
         speed       = {9 m},
       ]
@@ -168,7 +168,7 @@ La foresta di Mythrenwald, per quanto antica e potente, non è invincibile di fr
     % Traits
 
     \DndMonsterAction{Incantesimi innati}
-    Fillianore può lanciare alcuni incantesimi grazie alle suppliche occulte che possiede e alla sua razza.
+    Fillianore può lanciare alcuni incantesimi grazie alle suppliche occulte che possiede e alla sua razza. La CD del tiro salvezza contro questi incantesimi è 19.
     \begin{DndMonsterSpells}
       \DndMonsterSpellLevel{Taumaturgia}
       \DndMonsterSpellLevel[1]{Armatura Magica, Camuffare Sè Stesso}
@@ -178,14 +178,14 @@ La foresta di Mythrenwald, per quanto antica e potente, non è invincibile di fr
 
 
     \DndMonsterAction{Incantesimi}
-    Fillianore recupera i suoi slot incantesimo ogni riposo breve.
+    Fillianore recupera i suoi slot incantesimo ogni riposo breve. La CD del tiro salvezza contro questi incantesimi è 19.
     \begin{DndMonsterSpells}
       \DndMonsterSpellLevel{Deflagrazione Occulta, Guida, Interdizione alle Lame, Mano Magica, Rintocco dei Morti, Riparare, Salvare i Morenti}
-      \DndMonsterSpellLevel[5][5]{Armatura di Agathys, Charme su Persone, Servitore Inosservato, Frantumare, Lama d'Ombra, Controincantesimo, Rimuovi Maledizione, Volare, Esilio, Porta Dimensionale, Terreno Illusorio, Contattare Altri Piani, Scrutare, Sogno}
+      \DndMonsterSpellLevel[5][5 slot]{Armatura di Agathys, Charme su Persone, Servitore Inosservato, Frantumare, Lama d'Ombra, Controincantesimo, Rimuovi Maledizione, Volare, Esilio, Porta Dimensionale, Terreno Illusorio, Contattare Altri Piani, Scrutare, Sogno}
     \end{DndMonsterSpells}
 
     \DndMonsterAction{Arcanum Mistico}
-    Fillianore recupera i suoi utilizzi dell'Arcanum Mistico ogni riposo lungo.
+    Fillianore può lanciare alcuni incantesimi come Arcanum Mistico. Fillianore recupera i suoi utilizzi dell'Arcanum Mistico ogni riposo lungo. La CD del tiro salvezza contro questi incantesimi è 19.
     \begin{DndMonsterSpells}
       \DndMonsterSpellLevel[6][2]{Gabbia dell'Anima}
       \DndMonsterSpellLevel[7][2]{Spostamento Planare}
