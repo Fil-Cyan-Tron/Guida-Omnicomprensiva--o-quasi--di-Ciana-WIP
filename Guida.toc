@@ -71,11 +71,11 @@
 \contentsline {section}{Privilegi di Classe Opzionali}{13}{}%
 \contentsline {subsection}{Introvabile persino per il DM}{13}{}%
 \contentsline {section}{Il Camminatore delle Ombre}{13}{}%
-\contentsline {subsection}{CD del tiro salvezza}{13}{}%
 \contentsline {subsection}{Adottato dall'Ombra}{13}{}%
 \contentsline {subsection}{Lampo nel Buio}{13}{}%
 \contentsline {subsection}{Passo nell'Ombra}{13}{}%
 \contentsline {subsection}{Cortina di Fumo!}{13}{}%
+\contentsline {paragraph}{CD del tiro salvezza}{13}{}%
 \contentsline {subsection}{Intoccabile come un'Ombra}{13}{}%
 \contentsline {subsection}{Nemmeno Omatara potrebbe trovarlo}{13}{}%
 \contentsline {chapter}{\numberline {10}Mago}{14}{}%
