@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  19 MAY 2023 11:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  22 MAY 2023 12:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1173,48 +1173,43 @@ Overfull \hbox (0.57983pt too wide) detected at line 62
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 64
+Overfull \hbox (0.57983pt too wide) detected at line 73
  \T1/pbk/l/sc/12 13
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 67
+Overfull \hbox (0.57983pt too wide) detected at line 76
  \T1/pbk/l/sc/12 14
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 85
+Overfull \hbox (0.57983pt too wide) detected at line 94
  \T1/pbk/l/sc/12 16
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 94
+Overfull \hbox (0.57983pt too wide) detected at line 103
  \T1/pbk/l/sc/12 17
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 96
+Overfull \hbox (0.57983pt too wide) detected at line 105
  \T1/pbk/l/sc/12 18
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 118
- \T1/pbk/l/sc/12 20
+Overfull \hbox (0.57983pt too wide) detected at line 128
+ \T1/pbk/l/sc/12 21
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 139
- \T1/pbk/l/sc/12 23
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 145
+Overfull \hbox (0.57983pt too wide) detected at line 149
  \T1/pbk/l/sc/12 24
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 170
- \T1/pbk/l/sc/12 27
+Overfull \hbox (0.57983pt too wide) detected at line 155
+ \T1/pbk/l/sc/12 25
  []
 
 
@@ -1223,12 +1218,17 @@ Overfull \hbox (0.57983pt too wide) detected at line 180
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 210
- \T1/pbk/l/sc/12 32
+Overfull \hbox (0.57983pt too wide) detected at line 190
+ \T1/pbk/l/sc/12 29
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--210
+Overfull \hbox (0.57983pt too wide) detected at line 221
+ \T1/pbk/l/sc/12 33
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
 []|\T1/pbk/l/sc/12 (+20) Ch. 20: La cit-tà vo-lan-te dei 
  []
 
@@ -1583,6 +1583,7 @@ Capitolo 9.
 contour: Using 32 copies for `Capitolo\ 9:' on input line 1.
 contour: Using 32 copies for `Ladro' on input line 1.
 Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
 ) (./data/Personaggi/Mago.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -1601,7 +1602,6 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [12
-
 
 ]
 Capitolo 10.
@@ -2404,43 +2404,39 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 Package caption Warning: Unused \captionsetup[table] on input line 26.
 See the caption package documentation for explanation.
 
-(./Guida.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(./Guida.aux) ) 
 Here is how much of TeX's memory you used:
- 28250 strings out of 478287
- 574493 string characters out of 5849290
+ 28241 strings out of 478287
+ 574155 string characters out of 5849290
  1314620 words of memory out of 5000000
- 45317 multiletter control sequences out of 15000+600000
- 584067 words of font info for 398 fonts, out of 8000000 for 9000
+ 45298 multiletter control sequences out of 15000+600000
+ 584826 words of font info for 405 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,18n,122p,1387b,1115s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
-e/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/texlive/texmf-d
-ist/fonts/enc/dvips/gillius/gls_efuo7w.enc}</usr/share/texlive/texmf-dist/fonts
-/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbn8a.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texli
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr
+/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/te
+xlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}</usr/share/texlive/tex
+mf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpss
+bn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/u
-bkli8a.pfb>
-Output written on Guida.pdf (36 pages, 619091 bytes).
+/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/bookman/ubkli8a.pfb>
+Output written on Guida.pdf (36 pages, 622781 bytes).
 PDF statistics:
  238 PDF objects out of 1000 (max. 8388607)
  153 compressed objects within 2 object streams
