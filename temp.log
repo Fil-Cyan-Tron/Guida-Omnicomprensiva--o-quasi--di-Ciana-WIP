@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  24 MAY 2023 17:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  24 MAY 2023 18:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1063,7 +1063,51 @@ LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <10> not available
 (Font)              Font shape `T1/pbk/l/it' tried instead on input line 32.
 LaTeX Font Info:    Font shape `TS1/pbk/b/sl' in size <10> not available
 (Font)              Font shape `TS1/pbk/db/sl' tried instead on input line 34.
- (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg) (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/t1jkpss.fd) (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/ts1jkpss.fd) (/usr/share/texlive/texmf-dist/tex/latex/gillius/TS1GilliusADFNoTwo-LF.fd)
+LaTeX Font Info:    Trying to load font information for T1+jkpss on input line 42.
+ (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/t1jkpss.fd
+File: t1jkpss.fd 2007/07/16 Fontinst v1.928 font definitions for T1/jkpss.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `jkpss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/jkpss/b/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/jkpss/b/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg) (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/ts1jkpss.fd) (/usr/share/texlive/texmf-dist/tex/latex/gillius/TS1GilliusADFNoTwo-LF.fd)
+Overfull \hbox (14.94005pt too wide) in paragraph at lines 62--62
+[]|\T1/jkpss/b/n/9 (-20) Livello
+ []
+
+
+Overfull \hbox (20.77887pt too wide) in paragraph at lines 62--62
+\T1/jkpss/b/n/9 (-20) Mo-na-co| 
+ []
+
+
+Overfull \hbox (29.9248pt too wide) in paragraph at lines 62--62
+[]|\T1/jkpss/b/n/9 (-20) Trucchetti
+ []
+
+
+Overfull \hbox (30.71016pt too wide) in paragraph at lines 62--62
+\T1/jkpss/b/n/9 (-20) co-no-sciu-ti| 
+ []
+
+
+Overfull \hbox (36.18556pt too wide) in paragraph at lines 62--62
+[]|\T1/jkpss/b/n/9 (-20) Incantesimi
+ []
+
+
+Overfull \hbox (26.56099pt too wide) in paragraph at lines 62--62
+\T1/jkpss/b/n/9 (-20) pre-pa-ra-ti| 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 <img/paper.jpg, id=19, 2559.5625pt x 3312.375pt>
@@ -1117,18 +1161,18 @@ Package rerunfilecheck Info: File `temp.out' has not changed.
 (rerunfilecheck)             Checksum: 8FC8B343F9224F37F8CD34DB4AE32E4E;449.
  ) 
 Here is how much of TeX's memory you used:
- 33865 strings out of 478287
- 660973 string characters out of 5849290
- 1421902 words of memory out of 5000000
- 51144 multiletter control sequences out of 15000+600000
- 524366 words of font info for 200 fonts, out of 8000000 for 9000
+ 33904 strings out of 478287
+ 661508 string characters out of 5849290
+ 1428902 words of memory out of 5000000
+ 51152 multiletter control sequences out of 15000+600000
+ 545485 words of font info for 222 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,17n,122p,1109b,1077s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on temp.pdf (2 pages, 323540 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
+Output written on temp.pdf (2 pages, 329210 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+ 97 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
  21 named destinations out of 1000 (max. 500000)
- 80943 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 93231 words of extra memory for PDF output out of 106986 (max. 10000000)
 
