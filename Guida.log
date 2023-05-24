@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  24 MAY 2023 14:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  24 MAY 2023 14:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -928,6 +928,131 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen312
+\Hy@linkcounter=\count347
+\Hy@pagecounter=\count348
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count349
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count350
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen313
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count351
+\Field@Width=\dimen314
+\Fld@charsize=\dimen315
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count352
+\c@Item=\count353
+\c@Hfootnote=\count354
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count355
+\c@bookmark@seq@number=\count356
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip123
+)
 Package shortvrb Info: Made  a short reference for \verb on input line 28.
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -979,19 +1104,23 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count347
-\scratchdimen=\dimen312
+\scratchcounter=\count357
+\scratchdimen=\dimen316
 \scratchbox=\box129
-\nofMPsegments=\count348
-\nofMParguments=\count349
+\nofMPsegments=\count358
+\nofMParguments=\count359
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count350
-\MPscratchDim=\dimen313
-\MPnumerator=\count351
-\makeMPintoPDFobject=\count352
+\MPscratchCnt=\count360
+\MPscratchDim=\dimen317
+\MPnumerator=\count361
+\makeMPintoPDFobject=\count362
 \everyMPtoPDFconversion=\toks51
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1067,25 +1196,47 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pbk' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-\c@mv@tabular=\count353
-\c@mv@boldtabular=\count354
+\c@mv@tabular=\count363
+\c@mv@boldtabular=\count364
 LaTeX Info: Redefining \it@ocap on input line 43.
 LaTeX Info: Redefining \it@ccap on input line 43.
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count355
+\c@lstlisting=\count365
+Package hyperref Info: Link coloring OFF on input line 43.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count366
+)
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
+
+(./Guida.out) (./Guida.out)
+\@outlinefile=\write4
+\openout4 = `Guida.out'.
+
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 47.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <12> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 47.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 47.
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 48.
+
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1094,7 +1245,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1104,33 +1255,33 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 4
-7.
+8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pbk.fd
 File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <12> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 47.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pbk' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 47.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 47.
-<img/paper.jpg, id=4, 2559.5625pt x 3312.375pt>
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
+<img/paper.jpg, id=244, 2559.5625pt x 3312.375pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 47.
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 47.
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 47.
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
  [1
 
@@ -1154,7 +1305,7 @@ LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 5.
 
 Overfull \hbox (27.36609pt too wide) in paragraph at lines 38--38
-[]|\T1/pbk/l/sc/14.4 (-20) Parte 2: Op-zio-ni per i personaggi|  
+[]|\T1/pbk/l/sc/14.4 (-20) Parte 2: []Op-zio-ni per i per-so-nag-gi[]|  
  []
 
 
@@ -1218,33 +1369,28 @@ Overfull \hbox (0.57983pt too wide) detected at line 163
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 187
- \T1/pbk/l/sc/12 28
+Overfull \hbox (0.57983pt too wide) detected at line 188
+ \T1/pbk/l/sc/12 29
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 196
+Overfull \hbox (0.57983pt too wide) detected at line 198
  \T1/pbk/l/sc/12 30
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 206
- \T1/pbk/l/sc/12 31
+Overfull \hbox (0.57983pt too wide) detected at line 229
+ \T1/pbk/l/sc/12 34
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 237
- \T1/pbk/l/sc/12 35
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 237--237
-[]|\T1/pbk/l/sc/12 (+20) Ch. 21: La cit-t‡ vo-lan-te dei 
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+[]|\T1/pbk/l/sc/12 (+20) Ch. 20: []La cit-t‡ vo-lan-te dei 
  []
 
 )
-\tf@toc=\write4
-\openout4 = `Guida.toc'.
+\tf@toc=\write5
+\openout5 = `Guida.toc'.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -1260,7 +1406,7 @@ Package pdftex.def Info: img/paper.jpg  used on input line 49.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <7> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
-<img/footerscroll.pdf, id=12, 596.2275pt x 42.15584pt>
+<img/footerscroll.pdf, id=370, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
@@ -1981,36 +2127,7 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 68.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [26
 
-]) (./data/Personaggi/Oggetti.tex
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 2.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 2.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 2.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 2.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [27
-
-]
-Capitolo 18.
-contour: Using 32 copies for `Capitolo\ 18:' on input line 2.
-contour: Using 32 copies for `Oggetti' on input line 2.
-contour: Using 32 copies for `magici' on input line 2.
-Package lettrine.sty Info: Targeted height = 41.41992pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 41.21213pt (D);
-(lettrine.sty)             reported on input line 8.
-Missing character: There is no ; in font nullfont!
-)
+])
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 95.
@@ -2027,7 +2144,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 95.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [28
+ [27
 
 ]
 contour: Using 32 copies for `Parte\ 3' on input line 95.
@@ -2051,12 +2168,12 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 95.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[29
+[28
 
 
 ] (./data/Eovras/Magia.tex
-Capitolo 19.
-contour: Using 32 copies for `Capitolo\ 19:' on input line 1.
+Capitolo 18.
+contour: Using 32 copies for `Capitolo\ 18:' on input line 1.
 contour: Using 32 copies for `La' on input line 1.
 contour: Using 32 copies for `Magia' on input line 1.
 contour: Using 32 copies for `e' on input line 1.
@@ -2088,12 +2205,12 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [30
+ [29
 
 
 ]
-Capitolo 20.
-contour: Using 32 copies for `Capitolo\ 20:' on input line 1.
+Capitolo 19.
+contour: Using 32 copies for `Capitolo\ 19:' on input line 1.
 contour: Using 32 copies for `Foresta' on input line 1.
 contour: Using 32 copies for `di' on input line 1.
 contour: Using 32 copies for `Mythrenwald' on input line 1.
@@ -2118,7 +2235,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 44.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[31
+[30
 
 ]
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <10> not available
@@ -2367,7 +2484,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 211.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [32]
+ [31]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 230.
@@ -2385,7 +2502,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 230.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 
-[33]) (./data/Eovras/Konepolis.tex
+[32]) (./data/Eovras/Konepolis.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2402,11 +2519,11 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [34
+ [33
 
 ]
-Capitolo 21.
-contour: Using 32 copies for `Capitolo\ 21:' on input line 1.
+Capitolo 20.
+contour: Using 32 copies for `Capitolo\ 20:' on input line 1.
 contour: Using 32 copies for `La' on input line 1.
 contour: Using 32 copies for `citt√†' on input line 1.
 contour: Using 32 copies for `volante' on input line 1.
@@ -2435,7 +2552,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [35
+ [34
 
 
 ]
@@ -2459,7 +2576,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[36
+[35
 
 
 ]
@@ -2467,42 +2584,45 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 Package caption Warning: Unused \captionsetup[table] on input line 26.
 See the caption package documentation for explanation.
 
-(./Guida.aux) ) 
+(./Guida.aux)
+Package rerunfilecheck Info: File `Guida.out' has not changed.
+(rerunfilecheck)             Checksum: F20472647406FDA14C521E6EC81E0DEA;8899.
+ ) 
 Here is how much of TeX's memory you used:
- 28291 strings out of 478287
- 575015 string characters out of 5849290
- 1314620 words of memory out of 5000000
- 45323 multiletter control sequences out of 15000+600000
- 600361 words of font info for 421 fonts, out of 8000000 for 9000
+ 35007 strings out of 478287
+ 679468 string characters out of 5849290
+ 1412922 words of memory out of 5000000
+ 51683 multiletter control sequences out of 15000+600000
+ 599729 words of font info for 416 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 119i,18n,122p,1387b,1115s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr
-/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/te
-xlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}</usr/share/texlive/tex
-mf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpss
-bn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texli
+ 119i,18n,122p,1387b,1128s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
+e/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/gillius/gls_efuo7w.enc}</usr/share/texlive/texmf-dist/fonts
+/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbn8a.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (38 pages, 638559 bytes).
+/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/u
+bkli8a.pfb>
+Output written on Guida.pdf (37 pages, 641889 bytes).
 PDF statistics:
- 247 PDF objects out of 1000 (max. 8388607)
- 160 compressed objects within 2 object streams
- 0 named destinations out of 1000 (max. 500000)
- 143895 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 875 PDF objects out of 1000 (max. 8388607)
+ 724 compressed objects within 8 object streams
+ 270 named destinations out of 1000 (max. 500000)
+ 144367 words of extra memory for PDF output out of 154059 (max. 10000000)
 
