@@ -36,198 +36,225 @@
 \contentsline {subsection}{Dadi esplosivi}{4}{subsection*.31}%
 \contentsline {subsection}{Automulticlasse}{4}{subsection*.32}%
 \contentsline {part}{\numberline {2}Opzioni per i personaggi}{6}{part.2}%
-\contentsline {chapter}{\numberline {3}Artefice}{7}{chapter.3}%
-\contentsline {section}{Privilegi di Classe Opzionali}{7}{section*.33}%
-\contentsline {chapter}{\numberline {4}Barbaro}{8}{chapter.4}%
-\contentsline {section}{Privilegi di Classe Opzionali}{8}{section*.34}%
-\contentsline {chapter}{\numberline {5}Bardo}{9}{chapter.5}%
-\contentsline {section}{Privilegi di Classe Opzionali}{9}{section*.35}%
-\contentsline {section}{Il Giocatore d'Azzardo}{9}{section*.36}%
-\contentsline {subsection}{Antinormalità}{9}{subsection*.37}%
-\contentsline {chapter}{\numberline {6}Chierico}{10}{chapter.6}%
-\contentsline {section}{Privilegi di Classe Opzionali}{10}{section*.38}%
-\contentsline {section}{Dominio di Integrità}{10}{section*.39}%
-\contentsline {subsection}{Incantesimi di dominio}{10}{subsection*.40}%
-\contentsline {subsection}{Competenze bonus}{10}{subsection*.41}%
-\contentsline {subsection}{Forza bruta}{10}{subsection*.42}%
-\contentsline {subsection}{Incanalare Divinità: Divisone con resto}{10}{subsection*.43}%
-\contentsline {subsection}{Incanalare Divinità: Permutazione}{10}{subsection*.44}%
-\contentsline {subsection}{Buon ordinamento}{10}{subsection*.45}%
-\contentsline {subsection}{Fattorizzazione unica}{10}{subsection*.46}%
-\contentsline {chapter}{\numberline {7}Druido}{11}{chapter.7}%
-\contentsline {section}{Privilegi di Classe Opzionali}{11}{section*.47}%
-\contentsline {section}{Circolo Sperimentale}{11}{section*.48}%
-\contentsline {subsection}{Un caffè buonissimo, qualcosa di bello da mangiare}{11}{subsection*.49}%
-\contentsline {chapter}{\numberline {8}Guerriero}{12}{chapter.8}%
-\contentsline {section}{Privilegi di Classe Opzionali}{12}{section*.50}%
-\contentsline {section}{Re dei Cavalieri}{12}{section*.51}%
-\contentsline {subsection}{Acciaio e Vento}{12}{subsection*.52}%
-\contentsline {paragraph}{CD del tiro salvezza}{12}{paragraph*.53}%
-\contentsline {subsection}{Parata impetuosa}{12}{subsection*.54}%
-\contentsline {subsection}{Aura regale}{12}{subsection*.55}%
-\contentsline {subsection}{Rocca della Tavola Rotonda}{12}{subsection*.56}%
-\contentsline {subsection}{Miracolo del Re}{12}{subsection*.57}%
-\contentsline {chapter}{\numberline {9}Ladro}{13}{chapter.9}%
-\contentsline {section}{Privilegi di Classe Opzionali}{13}{section*.58}%
-\contentsline {subsection}{Introvabile persino per il DM}{13}{subsection*.59}%
-\contentsline {section}{Il Camminatore delle Ombre}{13}{section*.60}%
-\contentsline {subsection}{Adottato dall'Ombra}{13}{subsection*.61}%
-\contentsline {subsection}{Lampo nel Buio}{13}{subsection*.62}%
-\contentsline {subsection}{Passo nell'Ombra}{13}{subsection*.63}%
-\contentsline {subsection}{Cortina di Fumo!}{13}{subsection*.64}%
-\contentsline {paragraph}{CD del tiro salvezza}{13}{paragraph*.65}%
-\contentsline {subsection}{Intoccabile come un'Ombra}{13}{subsection*.66}%
-\contentsline {subsection}{Nemmeno Omatara potrebbe trovarlo}{13}{subsection*.67}%
-\contentsline {chapter}{\numberline {10}Mago}{14}{chapter.10}%
-\contentsline {section}{Privilegi di Classe Opzionali}{14}{section*.68}%
-\contentsline {subsection}{Controcanto della Lama}{14}{subsection*.69}%
-\contentsline {chapter}{\numberline {11}Monaco}{15}{chapter.11}%
-\contentsline {section}{Privilegi di Classe Opzionali}{15}{section*.70}%
-\contentsline {subsection}{Riserva di ki aumentata}{15}{subsection*.71}%
-\contentsline {subsection}{Arti Marziali ampliate}{15}{subsection*.72}%
-\contentsline {section}{Via dell'Ombra Redenta}{15}{section*.73}%
-\contentsline {subsection}{Pentimento e Redenzione}{15}{subsection*.74}%
-\contentsline {subsection}{Magia del ki}{15}{subsection*.75}%
-\contentsline {paragraph}{Trucchetti}{15}{paragraph*.76}%
-\contentsline {paragraph}{Slot incantesimo}{15}{paragraph*.77}%
-\contentsline {paragraph}{Incantesimi conosciuti di 1° livello e superiore}{15}{paragraph*.78}%
-\contentsline {paragraph}{Caratteristica da incantatore}{15}{paragraph*.79}%
-\contentsline {paragraph}{CD del tiro salvezza degli incantesimi}{15}{paragraph*.80}%
-\contentsline {paragraph}{Modificatore di attacco dell'incantesimo}{15}{paragraph*.81}%
-\contentsline {subsection}{Aura viva}{16}{subsection*.82}%
-\contentsline {subsection}{Auree nell'oscurità}{16}{subsection*.83}%
-\contentsline {paragraph}{Consigli per il DM}{16}{paragraph*.84}%
-\contentsline {subsection}{Nulla si crea, nulla si distrugge, tutto si trasforma}{16}{subsection*.85}%
-\contentsline {subsection}{Sacrificio assoluto}{16}{subsection*.86}%
-\contentsline {chapter}{\numberline {12}Paladino}{17}{chapter.12}%
-\contentsline {section}{Privilegi di Classe Opzionali}{17}{section*.87}%
-\contentsline {section}{Giuramento di Veramente Vera Verità}{17}{section*.88}%
-\contentsline {subsection}{Incanalare Divinità}{17}{subsection*.89}%
-\contentsline {paragraph}{Circuiti Infallibili}{17}{paragraph*.90}%
-\contentsline {paragraph}{Inferenza Logica}{17}{paragraph*.91}%
-\contentsline {subsection}{Esecuzione Deterministica}{17}{subsection*.92}%
-\contentsline {subsection}{Assioma Protettivo}{17}{subsection*.93}%
-\contentsline {subsection}{Teorema di Correttezza}{17}{subsection*.94}%
-\contentsline {chapter}{\numberline {13}Ranger}{18}{chapter.13}%
-\contentsline {section}{Privilegi di Classe Opzionali}{18}{section*.95}%
-\contentsline {chapter}{\numberline {14}Stregone}{19}{chapter.14}%
-\contentsline {section}{Privilegi di Classe Opzionali}{19}{section*.96}%
-\contentsline {subsection}{Improvvisazione}{19}{subsection*.97}%
-\contentsline {subsection}{Riserva di punti stregoneria aumentata}{19}{subsection*.98}%
-\contentsline {subsection}{Opzioni di metamagia}{19}{subsection*.99}%
-\contentsline {section}{Dinastia di Analisti}{19}{section*.100}%
-\contentsline {subsection}{Teorema prezzemolino}{19}{subsection*.101}%
-\contentsline {subsection}{Connesso per poligonali}{19}{subsection*.102}%
-\contentsline {subsection}{Funzione Inversa}{19}{subsection*.103}%
-\contentsline {subsection}{Superfici Complesse}{19}{subsection*.104}%
-\contentsline {subsection}{Limite all'Infinito}{19}{subsection*.105}%
-\contentsline {section}{Cavaliere della Trama}{20}{section*.106}%
-\contentsline {subsection}{La Spada di Trama}{20}{subsection*.107}%
-\contentsline {subsection}{Cavaliere della Trama}{20}{subsection*.108}%
-\contentsline {subsection}{Percorso della Trama}{20}{subsection*.109}%
-\contentsline {paragraph}{Percorso del Grifone}{20}{paragraph*.110}%
-\contentsline {paragraph}{Percorso della Testuggine}{20}{paragraph*.111}%
-\contentsline {paragraph}{Percorso della Manticora}{20}{paragraph*.112}%
-\contentsline {subsection}{Stile della Trama}{20}{subsection*.113}%
-\contentsline {paragraph}{Stile del Fiume}{20}{paragraph*.114}%
-\contentsline {paragraph}{Stile della Tempesta}{20}{paragraph*.115}%
-\contentsline {paragraph}{Stile del Vulcano}{20}{paragraph*.116}%
-\contentsline {subsection}{Tutt'uno con la Trama}{20}{subsection*.117}%
-\contentsline {chapter}{\numberline {15}Warlock}{22}{chapter.15}%
-\contentsline {section}{Privilegi di Classe Opzionali}{22}{section*.118}%
-\contentsline {subsection}{Suppliche Occulte}{22}{subsection*.119}%
-\contentsline {subsubsection}{Occhi Aperti}{22}{subsubsection*.120}%
-\contentsline {paragraph}{Dopo nessun aumento di livello}{22}{paragraph*.121}%
-\contentsline {paragraph}{Dopo un aumento di livello}{22}{paragraph*.122}%
-\contentsline {paragraph}{Dopo due aumenti di livello o al 20° livello}{22}{paragraph*.123}%
-\contentsline {subsubsection}{Deflagrazione Aleatoria}{22}{subsubsection*.124}%
-\contentsline {section}{Lo Spazio Proiettivo}{22}{section*.125}%
-\contentsline {subsection}{Lista degli incantesimi ampliata}{22}{subsection*.126}%
-\contentsline {subsection}{Forma lineare associata}{22}{subsection*.127}%
-\contentsline {subsection}{Omogeneizzazione}{22}{subsection*.128}%
-\contentsline {subsection}{Proiezione}{23}{subsection*.129}%
-\contentsline {subsection}{Chiusura Proiettiva di Bézout}{23}{subsection*.130}%
-\contentsline {section}{Il Signore dell'Assurdo}{23}{section*.131}%
-\contentsline {subsection}{Lista degli incantesimi ampliata}{23}{subsection*.132}%
-\contentsline {subsection}{Squarcio della fortuna}{23}{subsection*.133}%
-\contentsline {subsection}{Deflagrazione deflagrante}{23}{subsection*.134}%
-\contentsline {subsection}{(S)fortunato}{23}{subsection*.135}%
-\contentsline {subsection}{Divertimento Extraplanare}{24}{subsection*.136}%
-\contentsline {subsection}{Pandemonio}{24}{subsection*.137}%
-\contentsline {chapter}{\numberline {16}Talenti}{25}{chapter.16}%
-\contentsline {subsection}{Negazione divina}{25}{subsection*.138}%
-\contentsline {paragraph}{Prerequisiti}{25}{paragraph*.139}%
-\contentsline {paragraph}{Aumento dei punteggi di caratteristica}{25}{paragraph*.140}%
-\contentsline {paragraph}{Competenze bonus}{25}{paragraph*.141}%
-\contentsline {paragraph}{Parola del Potere: No}{25}{paragraph*.142}%
-\contentsline {chapter}{\numberline {17}Incantesimi}{26}{chapter.17}%
-\contentsline {section}{Lista degli incantesimi espansa}{26}{section*.143}%
-\contentsline {subsection}{Trucchetti}{26}{subsection*.144}%
-\contentsline {subsection}{Incantesimi}{26}{subsection*.145}%
-\contentsline {paragraph}{1° livello}{26}{paragraph*.146}%
-\contentsline {paragraph}{2° livello}{26}{paragraph*.147}%
-\contentsline {paragraph}{3° livello}{26}{paragraph*.148}%
-\contentsline {paragraph}{4° livello}{26}{paragraph*.149}%
-\contentsline {paragraph}{5° livello}{26}{paragraph*.150}%
-\contentsline {paragraph}{6° livello}{26}{paragraph*.151}%
-\contentsline {paragraph}{7° livello}{26}{paragraph*.152}%
-\contentsline {paragraph}{8° livello}{26}{paragraph*.153}%
-\contentsline {paragraph}{9° livello}{26}{paragraph*.154}%
-\contentsline {paragraph}{10° livello}{26}{paragraph*.155}%
-\contentsline {paragraph}{11° livello}{26}{paragraph*.156}%
-\contentsline {paragraph}{12° livello}{26}{paragraph*.157}%
-\contentsline {section}{Descrizione degli incantesimi}{26}{section*.158}%
-\contentsline {subsubsection}{Limita Magie}{26}{subsubsection*.159}%
-\contentsline {subsubsection}{Parola del Potere: No}{26}{subsubsection*.160}%
-\contentsline {subsubsection}{Più Profondo dell'Abisso, più Alto del Firmamento}{26}{subsubsection*.161}%
-\contentsline {subsubsection}{Punizione del Caos}{26}{subsubsection*.162}%
-\contentsline {subparagraph}{Ai livelli superiori}{26}{subparagraph*.163}%
-\contentsline {subsubsection}{Scarica Elementale}{26}{subsubsection*.164}%
-\contentsline {subsubsection}{Verità Assoluta}{27}{subsubsection*.165}%
-\contentsline {part}{\numberline {3}Il Mondo di Eovras}{28}{part.3}%
-\contentsline {chapter}{\numberline {18}La Magia e gli Dei}{29}{chapter.18}%
-\contentsline {section}{La Magia a Eovras}{29}{section*.166}%
-\contentsline {paragraph}{Gli studi dei Maghi}{29}{paragraph*.167}%
-\contentsline {paragraph}{Il talento degli Stregoni}{29}{paragraph*.168}%
-\contentsline {paragraph}{L'ispirazione divina dei Chierici}{29}{paragraph*.169}%
-\contentsline {paragraph}{L'intuizione lirica dei Druidi}{29}{paragraph*.170}%
-\contentsline {paragraph}{Il playback degli Warlock}{29}{paragraph*.171}%
-\contentsline {paragraph}{I Bardi ve li spiegate da soli}{29}{paragraph*.172}%
-\contentsline {subsection}{Desiderio}{29}{subsection*.173}%
-\contentsline {section}{Il pantheon di Eovras}{29}{section*.174}%
-\contentsline {chapter}{\numberline {19}Foresta di Mythrenwald}{30}{chapter.19}%
-\contentsline {section}{Luoghi}{30}{section*.175}%
-\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{30}{subsection*.176}%
-\contentsline {subsubsection}{Dentro al tronco dell'Albero}{30}{subsubsection*.177}%
-\contentsline {subsubsection}{Sulla chioma}{30}{subsubsection*.178}%
-\contentsline {subsection}{Il borgo di Mythrenberg}{30}{subsection*.179}%
-\contentsline {subsubsection}{La sede del Circolo}{30}{subsubsection*.180}%
-\contentsline {subsubsection}{La biblioteca della corteccia}{30}{subsubsection*.181}%
-\contentsline {subsubsection}{La falegnameria di Y'Keah}{30}{subsubsection*.182}%
-\contentsline {subsection}{I villaggi di Mythrenwald}{30}{subsection*.183}%
-\contentsline {section}{Abitanti}{30}{section*.184}%
-\contentsline {subsection}{Halimath Selevarum}{30}{subsection*.185}%
-\contentsline {subsubsection}{Il cieco con gli occhi aperti}{30}{subsubsection*.186}%
-\contentsline {subsubsection}{Un passato oscuro}{31}{subsubsection*.187}%
-\contentsline {subsection}{I Druidi di Mythrenwald}{31}{subsection*.189}%
-\contentsline {subsubsection}{I principi del Circolo}{31}{subsubsection*.190}%
-\contentsline {paragraph}{Protezione della Foresta}{31}{paragraph*.191}%
-\contentsline {paragraph}{Protezione della vita}{31}{paragraph*.192}%
-\contentsline {paragraph}{Rispetto della morte}{31}{paragraph*.193}%
-\contentsline {paragraph}{Studio della corteccia e del cielo}{31}{paragraph*.194}%
-\contentsline {paragraph}{Accoglienza e ospitalità}{31}{paragraph*.195}%
-\contentsline {subsection}{La struttura del Circolo}{32}{subsection*.197}%
-\contentsline {paragraph}{Il Grande Guardiano}{32}{paragraph*.198}%
-\contentsline {paragraph}{Kur il bibliotecario}{32}{paragraph*.199}%
-\contentsline {paragraph}{Il consiglio degli anziani}{32}{paragraph*.200}%
-\contentsline {paragraph}{L'Assemblea}{32}{paragraph*.201}%
-\contentsline {paragraph}{L'ordine dei viaggiatori}{32}{paragraph*.202}%
-\contentsline {subsubsection}{Y'Keah il carpentiere}{32}{subsubsection*.203}%
-\contentsline {subsection}{Fillianore Halamis}{33}{subsection*.204}%
-\contentsline {subsubsection}{Figlia dell'Abisso}{33}{subsubsection*.205}%
-\contentsline {subsubsection}{L'incontro col Triangolo}{33}{subsubsection*.206}%
-\contentsline {chapter}{\numberline {20}La città volante dei Forgiati: Konepolis}{34}{chapter.20}%
-\contentsline {section}{Luoghi}{34}{section*.207}%
-\contentsline {section}{Abitanti}{34}{section*.208}%
-\contentsline {part}{\numberline {4}Nemici e Pericoli}{35}{part.4}%
+\contentsline {chapter}{\numberline {3}Razze}{7}{chapter.3}%
+\contentsline {section}{Divorati}{7}{section*.33}%
+\contentsline {subsection}{La trasformazione}{7}{subsection*.34}%
+\contentsline {subsection}{Una razza molto rara}{7}{subsection*.35}%
+\contentsline {subsection}{Un nuovo potere...}{7}{subsection*.36}%
+\contentsline {subsection}{...Ma a quale prezzo}{7}{subsection*.37}%
+\contentsline {subsection}{I nomi dei divorati}{7}{subsection*.38}%
+\contentsline {subsection}{Tratti dei divorati}{7}{subsection*.39}%
+\contentsline {paragraph}{Vista cieca}{7}{paragraph*.40}%
+\contentsline {paragraph}{Nutrimento magico}{7}{paragraph*.41}%
+\contentsline {paragraph}{Linguaggi}{8}{paragraph*.42}%
+\contentsline {paragraph}{Velocità}{8}{paragraph*.43}%
+\contentsline {paragraph}{Difesa senza armatura}{8}{paragraph*.44}%
+\contentsline {paragraph}{Incremento del Punteggi di Caratteristica}{8}{paragraph*.45}%
+\contentsline {subsection}{Divorati elementali}{8}{subsection*.46}%
+\contentsline {paragraph}{Resistenza elementale}{8}{paragraph*.47}%
+\contentsline {paragraph}{Timore reverenziale}{8}{paragraph*.48}%
+\contentsline {paragraph}{Velocità}{8}{paragraph*.49}%
+\contentsline {paragraph}{Affinità elementale}{8}{paragraph*.50}%
+\contentsline {paragraph}{Morte violenta}{8}{paragraph*.51}%
+\contentsline {subsection}{Divorati del Caos}{8}{subsection*.52}%
+\contentsline {paragraph}{Resistenza magica}{8}{paragraph*.53}%
+\contentsline {paragraph}{Velocità}{8}{paragraph*.54}%
+\contentsline {paragraph}{Aspetto del Caos}{8}{paragraph*.55}%
+\contentsline {paragraph}{Tutt'uno con la magia}{8}{paragraph*.56}%
+\contentsline {paragraph}{Incantesimi del Caos}{8}{paragraph*.57}%
+\contentsline {paragraph}{Buco Nero}{8}{paragraph*.58}%
+\contentsline {chapter}{\numberline {4}Artefice}{9}{chapter.4}%
+\contentsline {section}{Privilegi di Classe Opzionali}{9}{section*.59}%
+\contentsline {chapter}{\numberline {5}Barbaro}{10}{chapter.5}%
+\contentsline {section}{Privilegi di Classe Opzionali}{10}{section*.60}%
+\contentsline {chapter}{\numberline {6}Bardo}{11}{chapter.6}%
+\contentsline {section}{Privilegi di Classe Opzionali}{11}{section*.61}%
+\contentsline {section}{Il Giocatore d'Azzardo}{11}{section*.62}%
+\contentsline {subsection}{Antinormalità}{11}{subsection*.63}%
+\contentsline {chapter}{\numberline {7}Chierico}{12}{chapter.7}%
+\contentsline {section}{Privilegi di Classe Opzionali}{12}{section*.64}%
+\contentsline {section}{Dominio di Integrità}{12}{section*.65}%
+\contentsline {subsection}{Incantesimi di dominio}{12}{subsection*.66}%
+\contentsline {subsection}{Competenze bonus}{12}{subsection*.67}%
+\contentsline {subsection}{Forza bruta}{12}{subsection*.68}%
+\contentsline {subsection}{Incanalare Divinità: Divisone con resto}{12}{subsection*.69}%
+\contentsline {subsection}{Incanalare Divinità: Permutazione}{12}{subsection*.70}%
+\contentsline {subsection}{Buon ordinamento}{12}{subsection*.71}%
+\contentsline {subsection}{Fattorizzazione unica}{12}{subsection*.72}%
+\contentsline {chapter}{\numberline {8}Druido}{13}{chapter.8}%
+\contentsline {section}{Privilegi di Classe Opzionali}{13}{section*.73}%
+\contentsline {section}{Circolo Sperimentale}{13}{section*.74}%
+\contentsline {subsection}{Un caffè buonissimo, qualcosa di bello da mangiare}{13}{subsection*.75}%
+\contentsline {chapter}{\numberline {9}Guerriero}{14}{chapter.9}%
+\contentsline {section}{Privilegi di Classe Opzionali}{14}{section*.76}%
+\contentsline {section}{Re dei Cavalieri}{14}{section*.77}%
+\contentsline {subsection}{Acciaio e Vento}{14}{subsection*.78}%
+\contentsline {paragraph}{CD del tiro salvezza}{14}{paragraph*.79}%
+\contentsline {subsection}{Parata impetuosa}{14}{subsection*.80}%
+\contentsline {subsection}{Aura regale}{14}{subsection*.81}%
+\contentsline {subsection}{Rocca della Tavola Rotonda}{14}{subsection*.82}%
+\contentsline {subsection}{Miracolo del Re}{14}{subsection*.83}%
+\contentsline {chapter}{\numberline {10}Ladro}{15}{chapter.10}%
+\contentsline {section}{Privilegi di Classe Opzionali}{15}{section*.84}%
+\contentsline {subsection}{Introvabile persino per il DM}{15}{subsection*.85}%
+\contentsline {section}{Il Camminatore delle Ombre}{15}{section*.86}%
+\contentsline {subsection}{Adottato dall'Ombra}{15}{subsection*.87}%
+\contentsline {subsection}{Lampo nel Buio}{15}{subsection*.88}%
+\contentsline {subsection}{Passo nell'Ombra}{15}{subsection*.89}%
+\contentsline {subsection}{Cortina di Fumo!}{15}{subsection*.90}%
+\contentsline {paragraph}{CD del tiro salvezza}{15}{paragraph*.91}%
+\contentsline {subsection}{Intoccabile come un'Ombra}{15}{subsection*.92}%
+\contentsline {subsection}{Nemmeno Omatara potrebbe trovarlo}{15}{subsection*.93}%
+\contentsline {chapter}{\numberline {11}Mago}{16}{chapter.11}%
+\contentsline {section}{Privilegi di Classe Opzionali}{16}{section*.94}%
+\contentsline {subsection}{Controcanto della Lama}{16}{subsection*.95}%
+\contentsline {chapter}{\numberline {12}Monaco}{17}{chapter.12}%
+\contentsline {section}{Privilegi di Classe Opzionali}{17}{section*.96}%
+\contentsline {subsection}{Riserva di ki aumentata}{17}{subsection*.97}%
+\contentsline {subsection}{Arti Marziali ampliate}{17}{subsection*.98}%
+\contentsline {section}{Via dell'Ombra Redenta}{17}{section*.99}%
+\contentsline {subsection}{Pentimento e Redenzione}{17}{subsection*.100}%
+\contentsline {subsection}{Magia del ki}{17}{subsection*.101}%
+\contentsline {paragraph}{Trucchetti}{17}{paragraph*.102}%
+\contentsline {paragraph}{Slot incantesimo}{17}{paragraph*.103}%
+\contentsline {paragraph}{Incantesimi conosciuti di 1° livello e superiore}{17}{paragraph*.104}%
+\contentsline {paragraph}{Caratteristica da incantatore}{17}{paragraph*.105}%
+\contentsline {paragraph}{CD del tiro salvezza degli incantesimi}{17}{paragraph*.106}%
+\contentsline {paragraph}{Modificatore di attacco dell'incantesimo}{17}{paragraph*.107}%
+\contentsline {subsection}{Aura viva}{18}{subsection*.108}%
+\contentsline {subsection}{Auree nell'oscurità}{18}{subsection*.109}%
+\contentsline {paragraph}{Consigli per il DM}{18}{paragraph*.110}%
+\contentsline {subsection}{Nulla si crea, nulla si distrugge, tutto si trasforma}{18}{subsection*.111}%
+\contentsline {subsection}{Sacrificio assoluto}{18}{subsection*.112}%
+\contentsline {chapter}{\numberline {13}Paladino}{19}{chapter.13}%
+\contentsline {section}{Privilegi di Classe Opzionali}{19}{section*.113}%
+\contentsline {section}{Giuramento di Veramente Vera Verità}{19}{section*.114}%
+\contentsline {subsection}{Incanalare Divinità}{19}{subsection*.115}%
+\contentsline {paragraph}{Circuiti Infallibili}{19}{paragraph*.116}%
+\contentsline {paragraph}{Inferenza Logica}{19}{paragraph*.117}%
+\contentsline {subsection}{Esecuzione Deterministica}{19}{subsection*.118}%
+\contentsline {subsection}{Assioma Protettivo}{19}{subsection*.119}%
+\contentsline {subsection}{Teorema di Correttezza}{19}{subsection*.120}%
+\contentsline {chapter}{\numberline {14}Ranger}{20}{chapter.14}%
+\contentsline {section}{Privilegi di Classe Opzionali}{20}{section*.121}%
+\contentsline {chapter}{\numberline {15}Stregone}{21}{chapter.15}%
+\contentsline {section}{Privilegi di Classe Opzionali}{21}{section*.122}%
+\contentsline {subsection}{Improvvisazione}{21}{subsection*.123}%
+\contentsline {subsection}{Riserva di punti stregoneria aumentata}{21}{subsection*.124}%
+\contentsline {subsection}{Opzioni di metamagia}{21}{subsection*.125}%
+\contentsline {section}{Dinastia di Analisti}{21}{section*.126}%
+\contentsline {subsection}{Teorema prezzemolino}{21}{subsection*.127}%
+\contentsline {subsection}{Connesso per poligonali}{21}{subsection*.128}%
+\contentsline {subsection}{Funzione Inversa}{21}{subsection*.129}%
+\contentsline {subsection}{Superfici Complesse}{21}{subsection*.130}%
+\contentsline {subsection}{Limite all'Infinito}{21}{subsection*.131}%
+\contentsline {section}{Cavaliere della Trama}{22}{section*.132}%
+\contentsline {subsection}{La Spada di Trama}{22}{subsection*.133}%
+\contentsline {subsection}{Cavaliere della Trama}{22}{subsection*.134}%
+\contentsline {subsection}{Percorso della Trama}{22}{subsection*.135}%
+\contentsline {paragraph}{Percorso del Grifone}{22}{paragraph*.136}%
+\contentsline {paragraph}{Percorso della Testuggine}{22}{paragraph*.137}%
+\contentsline {paragraph}{Percorso della Manticora}{22}{paragraph*.138}%
+\contentsline {subsection}{Stile della Trama}{22}{subsection*.139}%
+\contentsline {paragraph}{Stile del Fiume}{22}{paragraph*.140}%
+\contentsline {paragraph}{Stile della Tempesta}{22}{paragraph*.141}%
+\contentsline {paragraph}{Stile del Vulcano}{22}{paragraph*.142}%
+\contentsline {subsection}{Tutt'uno con la Trama}{22}{subsection*.143}%
+\contentsline {chapter}{\numberline {16}Warlock}{24}{chapter.16}%
+\contentsline {section}{Privilegi di Classe Opzionali}{24}{section*.144}%
+\contentsline {subsection}{Suppliche Occulte}{24}{subsection*.145}%
+\contentsline {subsubsection}{Occhi Aperti}{24}{subsubsection*.146}%
+\contentsline {paragraph}{Dopo nessun aumento di livello}{24}{paragraph*.147}%
+\contentsline {paragraph}{Dopo un aumento di livello}{24}{paragraph*.148}%
+\contentsline {paragraph}{Dopo due aumenti di livello o al 20° livello}{24}{paragraph*.149}%
+\contentsline {subsubsection}{Deflagrazione Aleatoria}{24}{subsubsection*.150}%
+\contentsline {section}{Lo Spazio Proiettivo}{24}{section*.151}%
+\contentsline {subsection}{Lista degli incantesimi ampliata}{24}{subsection*.152}%
+\contentsline {subsection}{Forma lineare associata}{24}{subsection*.153}%
+\contentsline {subsection}{Omogeneizzazione}{24}{subsection*.154}%
+\contentsline {subsection}{Proiezione}{25}{subsection*.155}%
+\contentsline {subsection}{Chiusura Proiettiva di Bézout}{25}{subsection*.156}%
+\contentsline {section}{Il Signore dell'Assurdo}{25}{section*.157}%
+\contentsline {subsection}{Lista degli incantesimi ampliata}{25}{subsection*.158}%
+\contentsline {subsection}{Squarcio della fortuna}{25}{subsection*.159}%
+\contentsline {subsection}{Deflagrazione deflagrante}{25}{subsection*.160}%
+\contentsline {subsection}{(S)fortunato}{25}{subsection*.161}%
+\contentsline {subsection}{Divertimento Extraplanare}{26}{subsection*.162}%
+\contentsline {subsection}{Pandemonio}{26}{subsection*.163}%
+\contentsline {chapter}{\numberline {17}Talenti}{27}{chapter.17}%
+\contentsline {subsection}{Negazione divina}{27}{subsection*.164}%
+\contentsline {paragraph}{Prerequisiti}{27}{paragraph*.165}%
+\contentsline {paragraph}{Aumento dei punteggi di caratteristica}{27}{paragraph*.166}%
+\contentsline {paragraph}{Competenze bonus}{27}{paragraph*.167}%
+\contentsline {paragraph}{Parola del Potere: No}{27}{paragraph*.168}%
+\contentsline {chapter}{\numberline {18}Incantesimi}{28}{chapter.18}%
+\contentsline {section}{Lista degli incantesimi espansa}{28}{section*.169}%
+\contentsline {subsection}{Trucchetti}{28}{subsection*.170}%
+\contentsline {subsection}{Incantesimi}{28}{subsection*.171}%
+\contentsline {paragraph}{1° livello}{28}{paragraph*.172}%
+\contentsline {paragraph}{2° livello}{28}{paragraph*.173}%
+\contentsline {paragraph}{3° livello}{28}{paragraph*.174}%
+\contentsline {paragraph}{4° livello}{28}{paragraph*.175}%
+\contentsline {paragraph}{5° livello}{28}{paragraph*.176}%
+\contentsline {paragraph}{6° livello}{28}{paragraph*.177}%
+\contentsline {paragraph}{7° livello}{28}{paragraph*.178}%
+\contentsline {paragraph}{8° livello}{28}{paragraph*.179}%
+\contentsline {paragraph}{9° livello}{28}{paragraph*.180}%
+\contentsline {paragraph}{10° livello}{28}{paragraph*.181}%
+\contentsline {paragraph}{11° livello}{28}{paragraph*.182}%
+\contentsline {paragraph}{12° livello}{28}{paragraph*.183}%
+\contentsline {section}{Descrizione degli incantesimi}{28}{section*.184}%
+\contentsline {subsubsection}{Limita Magie}{28}{subsubsection*.185}%
+\contentsline {subsubsection}{Parola del Potere: No}{28}{subsubsection*.186}%
+\contentsline {subsubsection}{Più Profondo dell'Abisso, più Alto del Firmamento}{28}{subsubsection*.187}%
+\contentsline {subsubsection}{Punizione del Caos}{28}{subsubsection*.188}%
+\contentsline {subparagraph}{Ai livelli superiori}{28}{subparagraph*.189}%
+\contentsline {subsubsection}{Scarica Elementale}{28}{subsubsection*.190}%
+\contentsline {subsubsection}{Verità Assoluta}{29}{subsubsection*.191}%
+\contentsline {part}{\numberline {3}Il Mondo di Eovras}{30}{part.3}%
+\contentsline {chapter}{\numberline {19}La Magia e gli Dei}{31}{chapter.19}%
+\contentsline {section}{La Magia a Eovras}{31}{section*.192}%
+\contentsline {paragraph}{Gli studi dei Maghi}{31}{paragraph*.193}%
+\contentsline {paragraph}{Il talento degli Stregoni}{31}{paragraph*.194}%
+\contentsline {paragraph}{L'ispirazione divina dei Chierici}{31}{paragraph*.195}%
+\contentsline {paragraph}{L'intuizione lirica dei Druidi}{31}{paragraph*.196}%
+\contentsline {paragraph}{Il playback degli Warlock}{31}{paragraph*.197}%
+\contentsline {paragraph}{I Bardi ve li spiegate da soli}{31}{paragraph*.198}%
+\contentsline {subsection}{Desiderio}{31}{subsection*.199}%
+\contentsline {section}{Il pantheon di Eovras}{31}{section*.200}%
+\contentsline {chapter}{\numberline {20}Foresta di Mythrenwald}{32}{chapter.20}%
+\contentsline {section}{Luoghi}{32}{section*.201}%
+\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{32}{subsection*.202}%
+\contentsline {subsubsection}{Dentro al tronco dell'Albero}{32}{subsubsection*.203}%
+\contentsline {subsubsection}{Sulla chioma}{32}{subsubsection*.204}%
+\contentsline {subsection}{Il borgo di Mythrenberg}{32}{subsection*.205}%
+\contentsline {subsubsection}{La sede del Circolo}{32}{subsubsection*.206}%
+\contentsline {subsubsection}{La biblioteca della corteccia}{32}{subsubsection*.207}%
+\contentsline {subsubsection}{La falegnameria di Y'Keah}{32}{subsubsection*.208}%
+\contentsline {subsection}{I villaggi di Mythrenwald}{32}{subsection*.209}%
+\contentsline {section}{Abitanti}{32}{section*.210}%
+\contentsline {subsection}{Halimath Selevarum}{32}{subsection*.211}%
+\contentsline {subsubsection}{Il cieco con gli occhi aperti}{32}{subsubsection*.212}%
+\contentsline {subsubsection}{Un passato oscuro}{33}{subsubsection*.213}%
+\contentsline {subsection}{I Druidi di Mythrenwald}{33}{subsection*.215}%
+\contentsline {subsubsection}{I principi del Circolo}{33}{subsubsection*.216}%
+\contentsline {paragraph}{Protezione della Foresta}{33}{paragraph*.217}%
+\contentsline {paragraph}{Protezione della vita}{33}{paragraph*.218}%
+\contentsline {paragraph}{Rispetto della morte}{33}{paragraph*.219}%
+\contentsline {paragraph}{Studio della corteccia e del cielo}{33}{paragraph*.220}%
+\contentsline {paragraph}{Accoglienza e ospitalità}{33}{paragraph*.221}%
+\contentsline {subsection}{La struttura del Circolo}{34}{subsection*.223}%
+\contentsline {paragraph}{Il Grande Guardiano}{34}{paragraph*.224}%
+\contentsline {paragraph}{Kur il bibliotecario}{34}{paragraph*.225}%
+\contentsline {paragraph}{Il consiglio degli anziani}{34}{paragraph*.226}%
+\contentsline {paragraph}{L'Assemblea}{34}{paragraph*.227}%
+\contentsline {paragraph}{L'ordine dei viaggiatori}{34}{paragraph*.228}%
+\contentsline {subsubsection}{Y'Keah il carpentiere}{34}{subsubsection*.229}%
+\contentsline {subsection}{Fillianore Halamis}{35}{subsection*.230}%
+\contentsline {subsubsection}{Figlia dell'Abisso}{35}{subsubsection*.231}%
+\contentsline {subsubsection}{L'incontro col Triangolo}{35}{subsubsection*.232}%
+\contentsline {chapter}{\numberline {21}La città volante dei Forgiati: Konepolis}{36}{chapter.21}%
+\contentsline {section}{Luoghi}{36}{section*.233}%
+\contentsline {section}{Abitanti}{36}{section*.234}%
+\contentsline {part}{\numberline {4}Nemici e Pericoli}{37}{part.4}%
 \contentsfinish 
