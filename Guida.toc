@@ -90,7 +90,7 @@
 \contentsline {subsection}{Magia del ki}{15}{subsection*.75}%
 \contentsline {paragraph}{Trucchetti}{15}{paragraph*.76}%
 \contentsline {paragraph}{Slot incantesimo}{15}{paragraph*.77}%
-\contentsline {paragraph}{Incantesimi conosciuti di 1° livello e superiore}{15}{paragraph*.78}%
+\contentsline {paragraph}{Incantesimi preparati di 1° livello e superiore}{15}{paragraph*.78}%
 \contentsline {paragraph}{Caratteristica da incantatore}{15}{paragraph*.79}%
 \contentsline {paragraph}{CD del tiro salvezza degli incantesimi}{15}{paragraph*.80}%
 \contentsline {paragraph}{Modificatore di attacco dell'incantesimo}{15}{paragraph*.81}%
