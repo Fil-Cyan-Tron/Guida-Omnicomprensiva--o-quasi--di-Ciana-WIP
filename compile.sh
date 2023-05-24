@@ -8,3 +8,4 @@ git push origin main
 cd ..
 git commit -a -m "E chi si lamenta?"
 git push origin main
+git update origin main
