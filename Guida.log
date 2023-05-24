@@ -1793,7 +1793,7 @@ Overfull \hbox (2.42326pt too wide) in paragraph at lines 62--62
  []
 
 
-Overfull \hbo2--62
+Overfull \hbox (2.42326pt too wide) in paragraph at lines 62--62
 \T1/jkpss/b/n/9 (-20) li-vel-lo| 
  []
 
@@ -2008,8 +2008,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 97.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [25])
-(./data/Personaggi/Talenti.tex
+ [25]) (./data/Personaggi/Talenti.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2201,64 +2200,50 @@ LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/n' will be
 (Font)              scaled to size 9.0pt on input line 59.
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]\T1/GilliusADFNoTwo-LF/m/n/9 Addestrare Ani-ma-li +17, Ar-ca-no +17, Atle-ti-
-ca +13,
+[]\T1/GilliusADFNoTwo-LF/m/n/9 Addestrare Ani-ma-li +17, Ar-ca-no +17, Atle-ti-ca +13,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\T1/GilliusADFNoTwo-LF/m/n/9 In-tui-zio-ne +17, Per-ce-zio-ne +17, Ra-pi-di-tà 
-di Ma-no +17, Fur-ti-vi-tà
+\T1/GilliusADFNoTwo-LF/m/n/9 In-tui-zio-ne +17, Per-ce-zio-ne +17, Ra-pi-di-tà di Ma-no +17, Fur-ti-vi-tà
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]\T1/GilliusADFNoTwo-LF/m/n/9 Vista cie-ca 36 m, vi-sta del-le au-ree 72 m. Pe
-r-ce-zio-ne
+[]\T1/GilliusADFNoTwo-LF/m/n/9 Vista cie-ca 36 m, vi-sta del-le au-ree 72 m. Per-ce-zio-ne
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]\T1/GilliusADFNoTwo-LF/m/n/9 Comune, El-fi-co, Sil-va-no, Gno-me-sco, Drui-di
--co,
+[]\T1/GilliusADFNoTwo-LF/m/n/9 Comune, El-fi-co, Sil-va-no, Gno-me-sco, Drui-di-co,
  []
 
-LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/sl' in size <9> not ava
-ilable
-(Font)              Font shape `T1/GilliusADFNoTwo-LF/m/it' tried instead on in
-put line 83.
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/sl' in size <9> not available
+(Font)              Font shape `T1/GilliusADFNoTwo-LF/m/it' tried instead on input line 83.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 83.
-LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/sl' in size <9> not ava
-ilable
-(Font)              Font shape `T1/GilliusADFNoTwo-LF/b/it' tried instead on in
-put line 83.
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/sl' in size <9> not available
+(Font)              Font shape `T1/GilliusADFNoTwo-LF/b/it' tried instead on input line 83.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/it' will be
 (Font)              scaled to size 9.0pt on input line 83.
 
 Underfull \hbox (badness 10000) in paragraph at lines 83--85
-\T1/GilliusADFNoTwo-LF/b/it/9 Tratti di clas-se. \T1/GilliusADFNoTwo-LF/m/n/9 H
-a-li-math è un Mo-na-co del-l'Om-bra Re-den-ta
+\T1/GilliusADFNoTwo-LF/b/it/9 Tratti di clas-se. \T1/GilliusADFNoTwo-LF/m/n/9 Ha-li-math è un Mo-na-co del-l'Om-bra Re-den-ta
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 83--85
-\T1/GilliusADFNoTwo-LF/m/n/9 di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusAD
-FNoTwo-LF/m/n/9 li-vel-lo e un Drui-do del Cir-co-lo del-le Stel-le di 20\TS1/G
-illiusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo.
+\T1/GilliusADFNoTwo-LF/m/n/9 di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo e un Drui-do del Cir-co-lo del-le Stel-le di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 86--88
-\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Ha-li-m
-ath è un drui-do di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/
-n/9 li-vel-lo. Co-no-sce tut-ti
+\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Ha-li-math è un drui-do di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo. Co-no-sce tut-ti
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 86--88
-\T1/GilliusADFNoTwo-LF/m/n/9 gli in-can-te-si-mi da drui-do. Re-cu-pe-ra i suoi
- slot do-po ogni ri-po-so
+\T1/GilliusADFNoTwo-LF/m/n/9 gli in-can-te-si-mi da drui-do. Re-cu-pe-ra i suoi slot do-po ogni ri-po-so
  []
 
 Package microtype Info: Character `029' is missing
@@ -2272,148 +2257,112 @@ Package microtype Info: Character `029' is missing
 (microtype)             Ignoring protrusion settings for this character.
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--114
-\T1/GilliusADFNoTwo-LF/b/it/9 Pugni. \T1/GilliusADFNoTwo-LF/m/it/9 At-tac-co co
-n Ar-ma da Mi-schia: \T1/GilliusADFNoTwo-LF/m/n/9 +17 per col-pi-re, por-ta-ta 
-5
+\T1/GilliusADFNoTwo-LF/b/it/9 Pugni. \T1/GilliusADFNoTwo-LF/m/it/9 At-tac-co con Ar-ma da Mi-schia: \T1/GilliusADFNoTwo-LF/m/n/9 +17 per col-pi-re, por-ta-ta 5
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--118
-\T1/GilliusADFNoTwo-LF/m/n/9 Halimath pos-sie-de 32 pun-ti ki che può usa-re pe
-r i po-te-ri di un
+\T1/GilliusADFNoTwo-LF/m/n/9 Halimath pos-sie-de 32 pun-ti ki che può usa-re per i po-te-ri di un
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 170--173
-\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi in-na-ti. \T1/GilliusADFNoTwo-LF/m/n/
-9 Fil-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
+\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi in-na-ti. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 170--173
-\T1/GilliusADFNoTwo-LF/m/n/9 gra-zie al-le sup-pli-che oc-cul-te che pos-sie-de
- e al-la sua raz-za. La
+\T1/GilliusADFNoTwo-LF/m/n/9 gra-zie al-le sup-pli-che oc-cul-te che pos-sie-de e al-la sua raz-za. La
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 175--176
-[]\T1/GilliusADFNoTwo-LF/m/it/9 Invisibilità\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/
-GilliusADFNoTwo-LF/m/it/9 Le-vi-ta-zio-ne\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gil
-liusADFNoTwo-LF/m/it/9 In-ti-mo-ri-re In-fer-na-le\T1/GilliusADFNoTwo-LF/m/n/9 
-,
+[]\T1/GilliusADFNoTwo-LF/m/it/9 Invisibilità\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Le-vi-ta-zio-ne\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 In-ti-mo-ri-re In-fer-na-le\T1/GilliusADFNoTwo-LF/m/n/9 ,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 180--183
-\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia
--no-re re-cu-pe-ra i suoi slot in-can-te-si-mo ogni
+\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re re-cu-pe-ra i suoi slot in-can-te-si-mo ogni
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 180--183
-\T1/GilliusADFNoTwo-LF/m/n/9 ri-po-so bre-ve. La CD del ti-ro sal-vez-za con-tr
-o que-sti in-can-te-si-mi
+\T1/GilliusADFNoTwo-LF/m/n/9 ri-po-so bre-ve. La CD del ti-ro sal-vez-za con-tro que-sti in-can-te-si-mi
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 183--184
-[]\T1/GilliusADFNoTwo-LF/m/it/9 Deflagrazione Oc-cul-ta\T1/GilliusADFNoTwo-LF/m
-/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Gui-da\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/G
-illiusADFNoTwo-LF/m/it/9 In-ter-di-zio-ne
+[]\T1/GilliusADFNoTwo-LF/m/it/9 Deflagrazione Oc-cul-ta\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Gui-da\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 In-ter-di-zio-ne
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 183--184
-\T1/GilliusADFNoTwo-LF/m/it/9 al-le La-me\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gil
-liusADFNoTwo-LF/m/it/9 Ma-no Ma-gi-ca\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gillius
-ADFNoTwo-LF/m/it/9 Rin-toc-co dei Mor-ti\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gill
-iusADFNoTwo-LF/m/it/9 Ri-pa-ra-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFN
-oTwo-LF/m/it/9 Sal-va-re i
+\T1/GilliusADFNoTwo-LF/m/it/9 al-le La-me\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Ma-no Ma-gi-ca\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Rin-toc-co dei Mor-ti\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Ri-pa-ra-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Sal-va-re i
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 184--185
-[]\T1/GilliusADFNoTwo-LF/m/it/9 Armatura di Aga-thys\T1/GilliusADFNoTwo-LF/m/n/
-9 , \T1/GilliusADFNoTwo-LF/m/it/9 Char-me su Per-so-ne\T1/GilliusADFNoTwo-LF/m/
-n/9 ,
+[]\T1/GilliusADFNoTwo-LF/m/it/9 Armatura di Aga-thys\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Char-me su Per-so-ne\T1/GilliusADFNoTwo-LF/m/n/9 ,
  []
 
 
 Overfull \hbox (18.089pt too wide) in paragraph at lines 184--185
-\T1/GilliusADFNoTwo-LF/m/it/9 Ser-vi-to-re Inos-ser-va-to\T1/GilliusADFNoTwo-LF
-/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Fran-tu-ma-re\T1/GilliusADFNoTwo-LF/m/n/
-9 , \T1/GilliusADFNoTwo-LF/m/it/9 La-ma d'Om-bra\T1/GilliusADFNoTwo-LF/m/n/9 , 
-\T1/GilliusADFNoTwo-LF/m/it/9 Con-tro-in-can-te-si-mo\T1/GilliusADFNoTwo-LF/m/n
-/9 ,
+\T1/GilliusADFNoTwo-LF/m/it/9 Ser-vi-to-re Inos-ser-va-to\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Fran-tu-ma-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 La-ma d'Om-bra\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Con-tro-in-can-te-si-mo\T1/GilliusADFNoTwo-LF/m/n/9 ,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 184--185
-\T1/GilliusADFNoTwo-LF/m/it/9 Ri-muo-vi Ma-le-di-zio-ne\T1/GilliusADFNoTwo-LF/m
-/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Vo-la-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1
-/GilliusADFNoTwo-LF/m/it/9 Esi-lio\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADF
-NoTwo-LF/m/it/9 Por-ta Di-men-sio-na-le\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gilli
-usADFNoTwo-LF/m/it/9 Ter-re-no
+\T1/GilliusADFNoTwo-LF/m/it/9 Ri-muo-vi Ma-le-di-zio-ne\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Vo-la-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Esi-lio\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Por-ta Di-men-sio-na-le\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Ter-re-no
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 187--190
-\T1/GilliusADFNoTwo-LF/b/it/9 Arcanum Mi-sti-co. \T1/GilliusADFNoTwo-LF/m/n/9 F
-il-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
+\T1/GilliusADFNoTwo-LF/b/it/9 Arcanum Mi-sti-co. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 187--190
-\T1/GilliusADFNoTwo-LF/m/n/9 co-me Ar-ca-num Mi-sti-co. Fil-lia-no-re re-cu-pe-
-ra i suoi uti-liz-zi
+\T1/GilliusADFNoTwo-LF/m/n/9 co-me Ar-ca-num Mi-sti-co. Fil-lia-no-re re-cu-pe-ra i suoi uti-liz-zi
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 187--190
-\T1/GilliusADFNoTwo-LF/m/n/9 del-l'Ar-ca-num Mi-sti-co ogni ri-po-so lun-go. La
- CD del ti-ro sal-vez-za
+\T1/GilliusADFNoTwo-LF/m/n/9 del-l'Ar-ca-num Mi-sti-co ogni ri-po-so lun-go. La CD del ti-ro sal-vez-za
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 196--198
-\T1/GilliusADFNoTwo-LF/b/it/9 Maestro del-l'Oc-cul-to. \T1/GilliusADFNoTwo-LF/m
-/n/9 Una vol-ta per ri-po-so lun-go, Fil-lia-no-re può
+\T1/GilliusADFNoTwo-LF/b/it/9 Maestro del-l'Oc-cul-to. \T1/GilliusADFNoTwo-LF/m/n/9 Una vol-ta per ri-po-so lun-go, Fil-lia-no-re può
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 199--201
-\T1/GilliusADFNoTwo-LF/b/it/9 Poteri del Si-gno-re del-l'As-sur-do. \T1/Gillius
-ADFNoTwo-LF/m/n/9 Il pa-tro-no di Fil-lia-no-re è il
+\T1/GilliusADFNoTwo-LF/b/it/9 Poteri del Si-gno-re del-l'As-sur-do. \T1/GilliusADFNoTwo-LF/m/n/9 Il pa-tro-no di Fil-lia-no-re è il
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 199--201
-\T1/GilliusADFNoTwo-LF/m/n/9 Si-gno-re del-l'As-sur-do, quin-di pos-sie-de tut-
-ti i po-te-ri che ne
+\T1/GilliusADFNoTwo-LF/m/n/9 Si-gno-re del-l'As-sur-do, quin-di pos-sie-de tut-ti i po-te-ri che ne
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 202--204
-\T1/GilliusADFNoTwo-LF/b/it/9 Deflagrazione Alea-to-ria. \T1/GilliusADFNoTwo-LF
-/m/n/9 6 vol-te per ri-po-so bre-ve, quan-do
+\T1/GilliusADFNoTwo-LF/b/it/9 Deflagrazione Alea-to-ria. \T1/GilliusADFNoTwo-LF/m/n/9 6 vol-te per ri-po-so bre-ve, quan-do
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 202--204
-\T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re col-pi-sce un ber-sa-glio con il tru
-c-chet-to De-fla-gra-zio-ne
+\T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re col-pi-sce un ber-sa-glio con il truc-chet-to De-fla-gra-zio-ne
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 202--204
-\T1/GilliusADFNoTwo-LF/m/n/9 Oc-cul-ta, co-me azio-ne bo-nus può im-por-re al b
-er-sa-glio di ti-ra-re
+\T1/GilliusADFNoTwo-LF/m/n/9 Oc-cul-ta, co-me azio-ne bo-nus può im-por-re al ber-sa-glio di ti-ra-re
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 202--204
-\T1/GilliusADFNoTwo-LF/m/n/9 dal-la ta-bel-la del-la Ma-gia Sel-vag-gia un nu-m
-e-ro di vol-te pa-ri al
+\T1/GilliusADFNoTwo-LF/m/n/9 dal-la ta-bel-la del-la Ma-gia Sel-vag-gia un nu-me-ro di vol-te pa-ri al
  []
 
 
@@ -2452,8 +2401,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 230.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-
-[34]) (./data/Eovras/Konepolis.tex
+ [34]) (./data/Eovras/Konepolis.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2545,44 +2493,76 @@ Package rerunfilecheck Warning: File `Guida.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Guida.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             Before: F20472647406FDA14C521E6EC81E0DEA;8899
 (rerunfilecheck)             After:  CB3AFDA817C79D286D25189F983CF582;9076.
  ) 
 Here is how much of TeX's memory you used:
- 35002 strings out of 478287
- 679659 string characters out of 5849290
- 1411922 words of memory out of 5000000
- 51641 multiletter control sequences out of 15000+600000
+ 35134 strings out of 478287
+ 681832 string characters out of 5849290
+ 1412922 words of memory out of 5000000
+ 51743 multiletter control sequences out of 15000+600000
  600311 words of font info for 420 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 119i,18n,122p,1387b,1128s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
-e/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/texlive/texmf-d
-ist/fonts/enc/dvips/gillius/gls_efuo7w.enc}</usr/share/texlive/texmf-dist/fonts
-/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbn8a.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/u
-bkli8a.pfb>
-Output written on Guida.pdf (39 pages, 643088 bytes).
+ 119i,18n,122p,1446b,1128s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section*.208} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.207} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.175} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.174} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.166} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.158} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.143} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.131} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.125} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.118} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.106} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.100} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.95} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.88} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.87} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.70} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.68} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.58} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.51} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.50} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.48} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.47} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.39} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.38} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.36} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.35} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.34} has been referenced but does not exist, replaced by a fixed one
+
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}</usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
+Output written on Guida.pdf (39 pages, 647588 bytes).
 PDF statistics:
- 617 PDF objects out of 1000 (max. 8388607)
- 525 compressed objects within 6 object streams
- 299 named destinations out of 1000 (max. 500000)
- 143895 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 830 PDF objects out of 1000 (max. 8388607)
+ 736 compressed objects within 8 object streams
+ 326 named destinations out of 1000 (max. 500000)
+ 144367 words of extra memory for PDF output out of 154059 (max. 10000000)
 
