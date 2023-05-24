@@ -1,3 +1,4 @@
 # BIN/BASH
-pdflatex Guida.tex --output Compendio-Semi-Omnicomprensivo-di-Ciana
+pdflatex Guida.tex
+cp Guida.pdf Compendio-Semi-Omnicomprensivo-di-Ciana/Guida.pdf
 date > Compendio-Semi-Omnicomprensivo-di-Ciana/date.txt
