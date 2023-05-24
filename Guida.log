@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  22 MAY 2023 19:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  24 MAY 2023 14:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Guida.tex
+**Guida.tex --output Compendio-Semi-Omnicomprensivo-di-Ciana/
 (./Guida.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (./dndbook.cls
@@ -1218,23 +1218,28 @@ Overfull \hbox (0.57983pt too wide) detected at line 163
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 188
- \T1/pbk/l/sc/12 29
+Overfull \hbox (0.57983pt too wide) detected at line 187
+ \T1/pbk/l/sc/12 28
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 198
+Overfull \hbox (0.57983pt too wide) detected at line 196
  \T1/pbk/l/sc/12 30
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 229
- \T1/pbk/l/sc/12 34
+Overfull \hbox (0.57983pt too wide) detected at line 206
+ \T1/pbk/l/sc/12 31
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
-[]|\T1/pbk/l/sc/12 (+20) Ch. 20: La cit-t‡ vo-lan-te dei 
+Overfull \hbox (0.57983pt too wide) detected at line 237
+ \T1/pbk/l/sc/12 35
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]|\T1/pbk/l/sc/12 (+20) Ch. 21: La cit-t‡ vo-lan-te dei 
  []
 
 )
@@ -1976,7 +1981,36 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 68.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [26
 
-])
+]) (./data/Personaggi/Oggetti.tex
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 2.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 2.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 2.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 2.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [27
+
+]
+Capitolo 18.
+contour: Using 32 copies for `Capitolo\ 18:' on input line 2.
+contour: Using 32 copies for `Oggetti' on input line 2.
+contour: Using 32 copies for `magici' on input line 2.
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.21213pt (D);
+(lettrine.sty)             reported on input line 8.
+Missing character: There is no ; in font nullfont!
+)
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 95.
@@ -1993,7 +2027,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 95.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [27
+ [28
 
 ]
 contour: Using 32 copies for `Parte\ 3' on input line 95.
@@ -2017,12 +2051,12 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 95.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[28
+[29
 
 
 ] (./data/Eovras/Magia.tex
-Capitolo 18.
-contour: Using 32 copies for `Capitolo\ 18:' on input line 1.
+Capitolo 19.
+contour: Using 32 copies for `Capitolo\ 19:' on input line 1.
 contour: Using 32 copies for `La' on input line 1.
 contour: Using 32 copies for `Magia' on input line 1.
 contour: Using 32 copies for `e' on input line 1.
@@ -2054,12 +2088,12 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [29
+ [30
 
 
 ]
-Capitolo 19.
-contour: Using 32 copies for `Capitolo\ 19:' on input line 1.
+Capitolo 20.
+contour: Using 32 copies for `Capitolo\ 20:' on input line 1.
 contour: Using 32 copies for `Foresta' on input line 1.
 contour: Using 32 copies for `di' on input line 1.
 contour: Using 32 copies for `Mythrenwald' on input line 1.
@@ -2084,7 +2118,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 44.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[30
+[31
 
 ]
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <10> not available
@@ -2333,7 +2367,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 211.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [31]
+ [32]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 230.
@@ -2351,7 +2385,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 230.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 
-[32]) (./data/Eovras/Konepolis.tex
+[33]) (./data/Eovras/Konepolis.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2368,11 +2402,11 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [33
+ [34
 
 ]
-Capitolo 20.
-contour: Using 32 copies for `Capitolo\ 20:' on input line 1.
+Capitolo 21.
+contour: Using 32 copies for `Capitolo\ 21:' on input line 1.
 contour: Using 32 copies for `La' on input line 1.
 contour: Using 32 copies for `citt√†' on input line 1.
 contour: Using 32 copies for `volante' on input line 1.
@@ -2401,7 +2435,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [34
+ [35
 
 
 ]
@@ -2425,7 +2459,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[35
+[36
 
 
 ]
@@ -2435,13 +2469,13 @@ See the caption package documentation for explanation.
 
 (./Guida.aux) ) 
 Here is how much of TeX's memory you used:
- 28270 strings out of 478287
- 574625 string characters out of 5849290
+ 28291 strings out of 478287
+ 575015 string characters out of 5849290
  1314620 words of memory out of 5000000
- 45312 multiletter control sequences out of 15000+600000
- 599729 words of font info for 416 fonts, out of 8000000 for 9000
+ 45323 multiletter control sequences out of 15000+600000
+ 600361 words of font info for 421 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 119i,18n,122p,1387b,1115s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 119i,18n,122p,1437b,1115s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr
 /share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/te
 xlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}</usr/share/texlive/tex
@@ -2465,10 +2499,10 @@ r/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (37 pages, 628904 bytes).
+Output written on Guida.pdf (38 pages, 638559 bytes).
 PDF statistics:
- 244 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
+ 247 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  143895 words of extra memory for PDF output out of 154059 (max. 10000000)
 
