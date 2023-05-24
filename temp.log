@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  24 MAY 2023 18:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  24 MAY 2023 18:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1161,15 +1161,15 @@ Package rerunfilecheck Info: File `temp.out' has not changed.
 (rerunfilecheck)             Checksum: 8FC8B343F9224F37F8CD34DB4AE32E4E;449.
  ) 
 Here is how much of TeX's memory you used:
- 33904 strings out of 478287
- 661508 string characters out of 5849290
+ 33907 strings out of 478287
+ 661532 string characters out of 5849290
  1428902 words of memory out of 5000000
  51152 multiletter control sequences out of 15000+600000
- 545485 words of font info for 222 fonts, out of 8000000 for 9000
+ 545678 words of font info for 224 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,17n,122p,1109b,1077s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on temp.pdf (2 pages, 329210 bytes).
+Output written on temp.pdf (2 pages, 329208 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  75 compressed objects within 1 object stream
