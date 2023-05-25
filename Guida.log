@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  25 MAY 2023 00:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  25 MAY 2023 18:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1270,7 +1270,7 @@ LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
-<img/paper.jpg, id=244, 2559.5625pt x 3312.375pt>
+<img/paper.jpg, id=260, 2559.5625pt x 3312.375pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 48.
@@ -1304,88 +1304,93 @@ LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 5.
 
-Overfull \hbox (27.36609pt too wide) in paragraph at lines 42--42
+Overfull \hbox (27.36609pt too wide) in paragraph at lines 43--43
 []|\T1/pbk/l/sc/14.4 (-20) Parte 2: []Op-zio-ni per i per-so-nag-gi[]|  
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 51
+Overfull \hbox (0.57983pt too wide) detected at line 52
  \T1/pbk/l/sc/12 10
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 61
+Overfull \hbox (0.57983pt too wide) detected at line 62
  \T1/pbk/l/sc/12 11
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 65
+Overfull \hbox (0.57983pt too wide) detected at line 66
  \T1/pbk/l/sc/12 12
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 74
+Overfull \hbox (0.57983pt too wide) detected at line 75
  \T1/pbk/l/sc/12 13
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 85
+Overfull \hbox (0.57983pt too wide) detected at line 86
  \T1/pbk/l/sc/12 14
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 88
+Overfull \hbox (0.57983pt too wide) detected at line 89
  \T1/pbk/l/sc/12 15
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 106
+Overfull \hbox (0.57983pt too wide) detected at line 107
  \T1/pbk/l/sc/12 17
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 115
+Overfull \hbox (0.57983pt too wide) detected at line 116
  \T1/pbk/l/sc/12 18
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 117
+Overfull \hbox (0.57983pt too wide) detected at line 118
  \T1/pbk/l/sc/12 19
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 140
+Overfull \hbox (0.57983pt too wide) detected at line 141
  \T1/pbk/l/sc/12 22
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 161
+Overfull \hbox (0.57983pt too wide) detected at line 162
  \T1/pbk/l/sc/12 25
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 167
+Overfull \hbox (0.57983pt too wide) detected at line 168
  \T1/pbk/l/sc/12 26
  []
 
 
 Overfull \hbox (0.57983pt too wide) detected at line 192
- \T1/pbk/l/sc/12 29
+ \T1/pbk/l/sc/12 28
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 202
+Overfull \hbox (0.57983pt too wide) detected at line 201
  \T1/pbk/l/sc/12 30
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 233
- \T1/pbk/l/sc/12 34
+Overfull \hbox (0.57983pt too wide) detected at line 211
+ \T1/pbk/l/sc/12 31
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--233
-[]|\T1/pbk/l/sc/12 (+20) Ch. 20: []La cit-t‡ vo-lan-te dei 
+Overfull \hbox (0.57983pt too wide) detected at line 242
+ \T1/pbk/l/sc/12 35
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\T1/pbk/l/sc/12 (+20) Ch. 21: []La cit-t‡ vo-lan-te dei 
  []
 
 )
@@ -1406,7 +1411,7 @@ Package pdftex.def Info: img/paper.jpg  used on input line 49.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <7> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
-<img/footerscroll.pdf, id=370, 596.2275pt x 42.15584pt>
+<img/footerscroll.pdf, id=394, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
@@ -2144,6 +2149,52 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 68.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [26
 
+]) (./data/Personaggi/Oggetti.tex
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 2.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 2.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 2.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 2.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [27
+
+]
+Capitolo 18.
+contour: Using 32 copies for `Capitolo\ 18:' on input line 2.
+contour: Using 32 copies for `Oggetti' on input line 2.
+contour: Using 32 copies for `magici' on input line 2.
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 40.53738pt (N);
+(lettrine.sty)             reported on input line 40.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 67.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 67.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 67.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 67.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[28
+
 ])
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -2161,7 +2212,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 95.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [27
+ [29
 
 ]
 contour: Using 32 copies for `Parte\ 3' on input line 95.
@@ -2185,12 +2236,12 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 95.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[28
+[30
 
 
 ] (./data/Eovras/Magia.tex
-Capitolo 18.
-contour: Using 32 copies for `Capitolo\ 18:' on input line 1.
+Capitolo 19.
+contour: Using 32 copies for `Capitolo\ 19:' on input line 1.
 contour: Using 32 copies for `La' on input line 1.
 contour: Using 32 copies for `Magia' on input line 1.
 contour: Using 32 copies for `e' on input line 1.
@@ -2222,12 +2273,12 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [29
+ [31
 
 
 ]
-Capitolo 19.
-contour: Using 32 copies for `Capitolo\ 19:' on input line 1.
+Capitolo 20.
+contour: Using 32 copies for `Capitolo\ 20:' on input line 1.
 contour: Using 32 copies for `Foresta' on input line 1.
 contour: Using 32 copies for `di' on input line 1.
 contour: Using 32 copies for `Mythrenwald' on input line 1.
@@ -2252,7 +2303,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 44.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[30
+[32
 
 ]
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <10> not available
@@ -2501,7 +2552,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 211.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [31]
+ [33]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 230.
@@ -2519,7 +2570,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 230.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 
-[32]) (./data/Eovras/Konepolis.tex
+[34]) (./data/Eovras/Konepolis.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2536,11 +2587,11 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [33
+ [35
 
 ]
-Capitolo 20.
-contour: Using 32 copies for `Capitolo\ 20:' on input line 1.
+Capitolo 21.
+contour: Using 32 copies for `Capitolo\ 21:' on input line 1.
 contour: Using 32 copies for `La' on input line 1.
 contour: Using 32 copies for `citt√†' on input line 1.
 contour: Using 32 copies for `volante' on input line 1.
@@ -2569,7 +2620,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [34
+ [36
 
 
 ]
@@ -2593,7 +2644,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[35
+[37
 
 
 ] (./data/Pericoli/Placeholder.tex)
@@ -2603,87 +2654,48 @@ See the caption package documentation for explanation.
 
 (./Guida.aux)
 
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
 Package rerunfilecheck Warning: File `Guida.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Guida.out':
-(rerunfilecheck)             Before: C3C828F0220B4AD403F22C0FFBC5529A;8900
-(rerunfilecheck)             After:  9DC9E801D26E0F13F4AAD4DCE4A37DBE;8901.
+(rerunfilecheck)             Before: 0148061ABB26329C1353E4EE5F4A4946;9672
+(rerunfilecheck)             After:  1AE796EDA919FDDF906022B4DF86F4FC;9802.
  ) 
 Here is how much of TeX's memory you used:
- 35046 strings out of 478287
- 680005 string characters out of 5849290
- 1424920 words of memory out of 5000000
- 51685 multiletter control sequences out of 15000+600000
- 600180 words of font info for 420 fonts, out of 8000000 for 9000
+ 35094 strings out of 478287
+ 680985 string characters out of 5849290
+ 1424922 words of memory out of 5000000
+ 51720 multiletter control sequences out of 15000+600000
+ 600619 words of font info for 425 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,18n,122p,1387b,1128s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.211} has been referenced but does not ex
+pdfTeX warning (dest): name{section*.220} has been referenced but does not ex
 ist, replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.188} has been referenced but does not exis
+pdfTeX warning (dest): name{section*.219} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.196} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.187} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.186} has been referenced but does not exis
 t, replaced by a fixed one
 
 pdfTeX warning (dest): name{section*.178} has been referenced but does not exis
 t, replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.170} has been referenced but does not exis
+pdfTeX warning (dest): name{section*.177} has been referenced but does not exis
 t, replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.162} has been referenced but does not exis
+pdfTeX warning (dest): name{section*.176} has been referenced but does not exis
 t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.147} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.135} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.129} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.122} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.110} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.104} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.99} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.91} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.77} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.74} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.72} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.64} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.62} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.54} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.51} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.42} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.37} has been referenced but does not exist
-, replaced by a fixed one
 
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/
 texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}{/usr/share/texlive/texmf-dis
@@ -2709,10 +2721,10 @@ fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubk
 l8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (37 pages, 650186 bytes).
+Output written on Guida.pdf (39 pages, 657649 bytes).
 PDF statistics:
- 914 PDF objects out of 1000 (max. 8388607)
- 761 compressed objects within 8 object streams
- 297 named destinations out of 1000 (max. 500000)
- 144367 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 943 PDF objects out of 1000 (max. 8388607)
+ 784 compressed objects within 8 object streams
+ 300 named destinations out of 1000 (max. 500000)
+ 144399 words of extra memory for PDF output out of 154059 (max. 10000000)
 
