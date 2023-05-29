@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  27 MAY 2023 15:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.8)  29 MAY 2023 17:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1001,14 +1001,14 @@ LaTeX Info: Redefining \nameref on input line 36.
 \@outlinefile=\write4
 \openout4 = `temp.out'.
 
- (./data/Personaggi/Mago.tex
+ (./data/Personaggi/Barbaro.tex
 Capitolo 1.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 1.
 contour: Using 32 copies for `Capitolo\ 1:' on input line 1.
-contour: Using 32 copies for `Mago' on input line 1.
+contour: Using 32 copies for `Barbaro' on input line 1.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <20.74> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <20.74> not available
@@ -1017,42 +1017,16 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 5.
-LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 7.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pbk.fd
-File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
-)
-LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <10> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 7.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `pbk' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for T1+GilliusADFNoTwo-LF on input line 12.
- (/usr/share/texlive/texmf-dist/tex/latex/gillius/T1GilliusADFNoTwo-LF.fd
-File: T1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for T1/GilliusADFNoTwo-LF.
-)
-LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 12.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `GilliusADFNoTwo-LF' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 12.
-LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <9> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 12.
-LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <9> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 12.
-
-Missing character: There is no ; in font nullfont!
-LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <10> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 26.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <10> not available
+(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 6.
 )
 
 Package caption Warning: Unused \captionsetup[table] on input line 26.
 See the caption package documentation for explanation.
 
-<img/paper.jpg, id=19, 2559.5625pt x 3312.375pt>
+<img/paper.jpg, id=15, 2559.5625pt x 3312.375pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 40.
@@ -1067,35 +1041,44 @@ Package pdftex.def Info: img/paper.jpg  used on input line 40.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <5> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 40.
+LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 40.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pbk.fd
+File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
+)
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <5> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 40.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pbk' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <7> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 40.
-<img/footerscroll.pdf, id=20, 596.2275pt x 42.15584pt>
+<img/footerscroll.pdf, id=16, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 40.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
 
 
  <./img/paper.jpg> <./img/footerscroll.pdf>] (./temp.aux)
 Package rerunfilecheck Info: File `temp.out' has not changed.
-(rerunfilecheck)             Checksum: E59E388274DB9094DD3F1BA692C8E3DD;442.
+(rerunfilecheck)             Checksum: 261BBF4431FECE487D606B0BEA1BF33D;285.
  ) 
 Here is how much of TeX's memory you used:
- 33434 strings out of 478287
- 653361 string characters out of 5849290
- 1395902 words of memory out of 5000000
- 50858 multiletter control sequences out of 15000+600000
- 499769 words of font info for 122 fonts, out of 8000000 for 9000
+ 33330 strings out of 478287
+ 651186 string characters out of 5849290
+ 1384902 words of memory out of 5000000
+ 50785 multiletter control sequences out of 15000+600000
+ 492727 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 119i,17n,122p,1060b,1095s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on temp.pdf (1 page, 277923 bytes).
+ 119i,17n,122p,1060b,905s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
+Output written on temp.pdf (1 page, 270778 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 52271 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 45 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 45095 words of extra memory for PDF output out of 51595 (max. 10000000)
 
