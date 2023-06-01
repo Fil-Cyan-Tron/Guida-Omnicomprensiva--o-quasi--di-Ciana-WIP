@@ -217,7 +217,7 @@
 \contentsline {section}{Descrizione degli incantesimi}{28}{section*.195}%
 \contentsline {subsubsection}{Limita Magie}{28}{subsubsection*.196}%
 \contentsline {subsubsection}{Parola del Potere: No}{28}{subsubsection*.197}%
-\contentsline {subsubsection}{Più Profondo dell'Abisso, più Alto del Firmamento}{28}{subsubsection*.198}%
+\contentsline {subsubsection}{Più Profondo dell'Abisso, più Alto del Firmamento}{29}{subsubsection*.198}%
 \contentsline {subsubsection}{Punizione del Caos}{29}{subsubsection*.199}%
 \contentsline {subparagraph}{Ai livelli superiori}{29}{subparagraph*.200}%
 \contentsline {subsubsection}{Scarica Elementale}{29}{subsubsection*.201}%
