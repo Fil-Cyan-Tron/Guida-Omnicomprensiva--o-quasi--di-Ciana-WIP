@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  1 JUN 2023 11:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  1 JUN 2023 11:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1018,15 +1018,15 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 10.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <10> not available
-(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 10.
-LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 10.
+(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 7.
+LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 7.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pbk.fd
 File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <10> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 10.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 7.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pbk' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1108,7 +1108,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  119i,17n,122p,1060b,901s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on temp.pdf (2 pages, 310670 bytes).
+Output written on temp.pdf (2 pages, 310664 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream

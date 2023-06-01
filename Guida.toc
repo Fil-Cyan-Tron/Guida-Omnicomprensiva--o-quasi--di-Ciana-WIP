@@ -195,9 +195,9 @@
 \contentsline {paragraph}{Parola del Potere: No}{27}{paragraph*.174}%
 \contentsline {chapter}{\numberline {18}Incantesimi}{28}{chapter.18}%
 \contentsline {section}{Incantesimi modificati}{28}{section*.175}%
-\contentsline {subsection}{Scudo}{28}{subsection*.176}%
-\contentsline {subsection}{Esilio}{28}{subsection*.177}%
-\contentsline {paragraph}{Ai livelli superiori}{28}{paragraph*.178}%
+\contentsline {subsection}{Esilio}{28}{subsection*.176}%
+\contentsline {paragraph}{Ai livelli superiori}{28}{paragraph*.177}%
+\contentsline {subsection}{Scudo}{28}{subsection*.178}%
 \contentsline {section}{Lista degli incantesimi espansa}{28}{section*.179}%
 \contentsline {subsection}{Trucchetti}{28}{subsection*.180}%
 \contentsline {subsection}{Incantesimi}{28}{subsection*.181}%
