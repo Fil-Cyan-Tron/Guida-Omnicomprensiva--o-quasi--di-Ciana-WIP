@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  23 JUN 2023 13:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  23 JUN 2023 17:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1384,32 +1384,32 @@ Overfull \hbox (0.57983pt too wide) detected at line 224
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 230
+Overfull \hbox (0.57983pt too wide) detected at line 236
  \T1/pbk/l/sc/12 30
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 259
+Overfull \hbox (0.57983pt too wide) detected at line 265
  \T1/pbk/l/sc/12 32
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 275
+Overfull \hbox (0.57983pt too wide) detected at line 281
  \T1/pbk/l/sc/12 35
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 285
+Overfull \hbox (0.57983pt too wide) detected at line 291
  \T1/pbk/l/sc/12 36
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 316
+Overfull \hbox (0.57983pt too wide) detected at line 322
  \T1/pbk/l/sc/12 40
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
 []|\T1/pbk/l/sc/12 (+20) Ch. 23: []La cit-tà vo-lan-te dei 
  []
 
@@ -2238,7 +2238,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [29
 
-
 ]
 Capitolo 19.
 contour: Using 32 copies for `Capitolo\ 19:' on input line 1.
@@ -2786,14 +2785,14 @@ See the caption package documentation for explanation.
 
 (./Guida.aux)
 Package rerunfilecheck Info: File `Guida.out' has not changed.
-(rerunfilecheck)             Checksum: 984E38C7ADEF247061DD7BE699BE8DD1;10594.
+(rerunfilecheck)             Checksum: 852D67E6280324ED819330277EB7783D;10594.
  ) 
 Here is how much of TeX's memory you used:
- 35229 strings out of 478287
- 682966 string characters out of 5849289
+ 35250 strings out of 478287
+ 683189 string characters out of 5849289
  1424923 words of memory out of 5000000
  51751 multiletter control sequences out of 15000+600000
- 598760 words of font info for 448 fonts, out of 8000000 for 9000
+ 599982 words of font info for 458 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,18n,122p,1387b,1128s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
@@ -2823,10 +2822,10 @@ public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 kman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (43 pages, 709275 bytes).
+Output written on Guida.pdf (43 pages, 711503 bytes).
 PDF statistics:
- 1084 PDF objects out of 1200 (max. 8388607)
- 906 compressed objects within 10 object streams
- 363 named destinations out of 1000 (max. 500000)
+ 1091 PDF objects out of 1200 (max. 8388607)
+ 913 compressed objects within 10 object streams
+ 369 named destinations out of 1000 (max. 500000)
  142407 words of extra memory for PDF output out of 154059 (max. 10000000)
 

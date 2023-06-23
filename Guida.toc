@@ -222,99 +222,105 @@
 \contentsline {subsection}{Divertimento Extraplanare}{28}{subsection*.201}%
 \contentsline {subsection}{Pandemonio}{28}{subsection*.202}%
 \contentsline {chapter}{\numberline {18}Talenti}{29}{chapter.18}%
-\contentsline {subsection}{Negazione divina}{29}{subsection*.203}%
-\contentsline {paragraph}{Prerequisiti}{29}{paragraph*.204}%
-\contentsline {paragraph}{Aumento dei punteggi di caratteristica}{29}{paragraph*.205}%
-\contentsline {paragraph}{Competenze bonus}{29}{paragraph*.206}%
-\contentsline {paragraph}{Parola del Potere: No}{29}{paragraph*.207}%
+\contentsline {subsection}{Campo Soprannaturale}{29}{subsection*.203}%
+\contentsline {paragraph}{Campo Soprannaturale}{29}{paragraph*.204}%
+\contentsline {paragraph}{Inneschi}{29}{paragraph*.205}%
+\contentsline {paragraph}{Privilegio}{29}{paragraph*.206}%
+\contentsline {subparagraph}{Reame Remoto}{29}{subparagraph*.207}%
+\contentsline {paragraph}{Precisazione}{29}{paragraph*.208}%
+\contentsline {subsection}{Negazione divina}{29}{subsection*.209}%
+\contentsline {paragraph}{Prerequisiti}{29}{paragraph*.210}%
+\contentsline {paragraph}{Aumento dei punteggi di caratteristica}{29}{paragraph*.211}%
+\contentsline {paragraph}{Competenze bonus}{29}{paragraph*.212}%
+\contentsline {paragraph}{Parola del Potere: No}{29}{paragraph*.213}%
 \contentsline {chapter}{\numberline {19}Incantesimi}{30}{chapter.19}%
-\contentsline {section}{Incantesimi modificati}{30}{section*.208}%
-\contentsline {subsection}{Esilio}{30}{subsection*.209}%
-\contentsline {paragraph}{Ai livelli superiori}{30}{paragraph*.210}%
-\contentsline {paragraph}{Nota bene}{30}{paragraph*.211}%
-\contentsline {subsection}{Scudo}{30}{subsection*.212}%
-\contentsline {section}{Lista degli incantesimi espansa}{30}{section*.213}%
-\contentsline {subsection}{Trucchetti}{30}{subsection*.214}%
-\contentsline {subsection}{Incantesimi}{30}{subsection*.215}%
-\contentsline {paragraph}{1° livello}{30}{paragraph*.216}%
-\contentsline {paragraph}{2° livello}{30}{paragraph*.217}%
-\contentsline {paragraph}{3° livello}{30}{paragraph*.218}%
-\contentsline {paragraph}{4° livello}{30}{paragraph*.219}%
-\contentsline {paragraph}{5° livello}{30}{paragraph*.220}%
-\contentsline {paragraph}{6° livello}{30}{paragraph*.221}%
-\contentsline {paragraph}{7° livello}{30}{paragraph*.222}%
-\contentsline {paragraph}{8° livello}{30}{paragraph*.223}%
-\contentsline {paragraph}{9° livello}{30}{paragraph*.224}%
-\contentsline {paragraph}{10° livello}{30}{paragraph*.225}%
-\contentsline {paragraph}{11° livello}{30}{paragraph*.226}%
-\contentsline {paragraph}{12° livello}{30}{paragraph*.227}%
-\contentsline {section}{Descrizione degli incantesimi}{30}{section*.228}%
-\contentsline {subsubsection}{Limita Magie}{30}{subsubsection*.229}%
-\contentsline {subsubsection}{Parola del Potere: No}{30}{subsubsection*.230}%
-\contentsline {subsubsection}{Più Profondo dell'Abisso, più Alto del Firmamento}{31}{subsubsection*.231}%
-\contentsline {subsubsection}{Punizione del Caos}{31}{subsubsection*.232}%
-\contentsline {subparagraph}{Ai livelli superiori}{31}{subparagraph*.233}%
-\contentsline {subsubsection}{Scarica Elementale}{31}{subsubsection*.234}%
-\contentsline {subsubsection}{Verità Assoluta}{31}{subsubsection*.235}%
+\contentsline {section}{Incantesimi modificati}{30}{section*.214}%
+\contentsline {subsection}{Esilio}{30}{subsection*.215}%
+\contentsline {paragraph}{Ai livelli superiori}{30}{paragraph*.216}%
+\contentsline {paragraph}{Nota bene}{30}{paragraph*.217}%
+\contentsline {subsection}{Scudo}{30}{subsection*.218}%
+\contentsline {section}{Lista degli incantesimi espansa}{30}{section*.219}%
+\contentsline {subsection}{Trucchetti}{30}{subsection*.220}%
+\contentsline {subsection}{Incantesimi}{30}{subsection*.221}%
+\contentsline {paragraph}{1° livello}{30}{paragraph*.222}%
+\contentsline {paragraph}{2° livello}{30}{paragraph*.223}%
+\contentsline {paragraph}{3° livello}{30}{paragraph*.224}%
+\contentsline {paragraph}{4° livello}{30}{paragraph*.225}%
+\contentsline {paragraph}{5° livello}{30}{paragraph*.226}%
+\contentsline {paragraph}{6° livello}{30}{paragraph*.227}%
+\contentsline {paragraph}{7° livello}{30}{paragraph*.228}%
+\contentsline {paragraph}{8° livello}{30}{paragraph*.229}%
+\contentsline {paragraph}{9° livello}{30}{paragraph*.230}%
+\contentsline {paragraph}{10° livello}{30}{paragraph*.231}%
+\contentsline {paragraph}{11° livello}{30}{paragraph*.232}%
+\contentsline {paragraph}{12° livello}{30}{paragraph*.233}%
+\contentsline {section}{Descrizione degli incantesimi}{30}{section*.234}%
+\contentsline {subsubsection}{Limita Magie}{30}{subsubsection*.235}%
+\contentsline {subsubsection}{Parola del Potere: No}{30}{subsubsection*.236}%
+\contentsline {subsubsection}{Più Profondo dell'Abisso, più Alto del Firmamento}{31}{subsubsection*.237}%
+\contentsline {subsubsection}{Punizione del Caos}{31}{subsubsection*.238}%
+\contentsline {subparagraph}{Ai livelli superiori}{31}{subparagraph*.239}%
+\contentsline {subsubsection}{Scarica Elementale}{31}{subsubsection*.240}%
+\contentsline {subsubsection}{Verità Assoluta}{31}{subsubsection*.241}%
 \contentsline {chapter}{\numberline {20}Oggetti magici}{32}{chapter.20}%
-\contentsline {section}{Anello protettore di Sophos il Savio}{32}{section*.236}%
-\contentsline {section}{STOCCO DI SARZEE}{32}{section*.237}%
-\contentsline {section}{Prigione Fluida di PATRONO DI SIMONE}{32}{section*.238}%
-\contentsline {section}{Oggetti Minori}{32}{section*.239}%
-\contentsline {subsection}{Guanti del CleptoMana}{32}{subsection*.240}%
-\contentsline {subsubsection}{Un regalo da molto lontano... ma in che direzione?}{32}{subsubsection*.241}%
-\contentsline {subsubsection}{Ladro di Magia}{32}{subsubsection*.242}%
-\contentsline {subsubsection}{Controincantesimo}{32}{subsubsection*.243}%
-\contentsline {subsubsection}{Pura Cleptoman(i)a}{32}{subsubsection*.244}%
-\contentsline {subsection}{Occhi di Omatara}{32}{subsection*.245}%
-\contentsline {subsubsection}{Sotto lo sguardo della morte}{32}{subsubsection*.246}%
-\contentsline {subsubsection}{L'occhio sinistro}{32}{subsubsection*.247}%
-\contentsline {subsubsection}{L'occhio destro}{33}{subsubsection*.248}%
-\contentsline {subsubsection}{Stereoscopia}{33}{subsubsection*.249}%
+\contentsline {section}{Anello protettore di Sophos il Savio}{32}{section*.242}%
+\contentsline {section}{STOCCO DI SARZEE}{32}{section*.243}%
+\contentsline {section}{Prigione Fluida di PATRONO DI SIMONE}{32}{section*.244}%
+\contentsline {section}{Oggetti Minori}{32}{section*.245}%
+\contentsline {subsection}{Guanti del CleptoMana}{32}{subsection*.246}%
+\contentsline {subsubsection}{Un regalo da molto lontano... ma in che direzione?}{32}{subsubsection*.247}%
+\contentsline {subsubsection}{Ladro di Magia}{32}{subsubsection*.248}%
+\contentsline {subsubsection}{Controincantesimo}{32}{subsubsection*.249}%
+\contentsline {subsubsection}{Pura Cleptoman(i)a}{32}{subsubsection*.250}%
+\contentsline {subsection}{Occhi di Omatara}{32}{subsection*.251}%
+\contentsline {subsubsection}{Sotto lo sguardo della morte}{32}{subsubsection*.252}%
+\contentsline {subsubsection}{L'occhio sinistro}{32}{subsubsection*.253}%
+\contentsline {subsubsection}{L'occhio destro}{33}{subsubsection*.254}%
+\contentsline {subsubsection}{Stereoscopia}{33}{subsubsection*.255}%
 \contentsline {part}{\numberline {3}Il Mondo di Eovras}{34}{part.3}%
 \contentsline {chapter}{\numberline {21}La Magia e gli Dei}{35}{chapter.21}%
-\contentsline {section}{La Magia a Eovras}{35}{section*.250}%
-\contentsline {paragraph}{Gli studi dei Maghi}{35}{paragraph*.251}%
-\contentsline {paragraph}{Il talento degli Stregoni}{35}{paragraph*.252}%
-\contentsline {paragraph}{L'ispirazione divina dei Chierici}{35}{paragraph*.253}%
-\contentsline {paragraph}{L'intuizione lirica dei Druidi}{35}{paragraph*.254}%
-\contentsline {paragraph}{Il playback degli Warlock}{35}{paragraph*.255}%
-\contentsline {paragraph}{I Bardi ve li spiegate da soli}{35}{paragraph*.256}%
-\contentsline {subsection}{Desiderio}{35}{subsection*.257}%
-\contentsline {section}{Il pantheon di Eovras}{35}{section*.258}%
+\contentsline {section}{La Magia a Eovras}{35}{section*.256}%
+\contentsline {paragraph}{Gli studi dei Maghi}{35}{paragraph*.257}%
+\contentsline {paragraph}{Il talento degli Stregoni}{35}{paragraph*.258}%
+\contentsline {paragraph}{L'ispirazione divina dei Chierici}{35}{paragraph*.259}%
+\contentsline {paragraph}{L'intuizione lirica dei Druidi}{35}{paragraph*.260}%
+\contentsline {paragraph}{Il playback degli Warlock}{35}{paragraph*.261}%
+\contentsline {paragraph}{I Bardi ve li spiegate da soli}{35}{paragraph*.262}%
+\contentsline {subsection}{Desiderio}{35}{subsection*.263}%
+\contentsline {section}{Il pantheon di Eovras}{35}{section*.264}%
 \contentsline {chapter}{\numberline {22}Foresta di Mythrenwald}{36}{chapter.22}%
-\contentsline {section}{Luoghi}{36}{section*.259}%
-\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{36}{subsection*.260}%
-\contentsline {subsubsection}{Dentro al tronco dell'Albero}{36}{subsubsection*.261}%
-\contentsline {subsubsection}{Sulla chioma}{36}{subsubsection*.262}%
-\contentsline {subsection}{Il borgo di Mythrenberg}{36}{subsection*.263}%
-\contentsline {subsubsection}{La sede del Circolo}{36}{subsubsection*.264}%
-\contentsline {subsubsection}{La biblioteca della corteccia}{36}{subsubsection*.265}%
-\contentsline {subsubsection}{La falegnameria di Y'Keah}{36}{subsubsection*.266}%
-\contentsline {subsection}{I villaggi di Mythrenwald}{36}{subsection*.267}%
-\contentsline {section}{Abitanti}{36}{section*.268}%
-\contentsline {subsection}{Halimath Selevarum}{36}{subsection*.269}%
-\contentsline {subsubsection}{Il cieco con gli occhi aperti}{36}{subsubsection*.270}%
-\contentsline {subsubsection}{Un passato oscuro}{37}{subsubsection*.271}%
-\contentsline {subsection}{I Druidi di Mythrenwald}{37}{subsection*.273}%
-\contentsline {subsubsection}{I principi del Circolo}{37}{subsubsection*.274}%
-\contentsline {paragraph}{Protezione della Foresta}{37}{paragraph*.275}%
-\contentsline {paragraph}{Protezione della vita}{37}{paragraph*.276}%
-\contentsline {paragraph}{Rispetto della morte}{37}{paragraph*.277}%
-\contentsline {paragraph}{Studio della corteccia e del cielo}{37}{paragraph*.278}%
-\contentsline {paragraph}{Accoglienza e ospitalità}{37}{paragraph*.279}%
-\contentsline {subsection}{La struttura del Circolo}{37}{subsection*.281}%
-\contentsline {paragraph}{Il Grande Guardiano}{38}{paragraph*.282}%
-\contentsline {paragraph}{Kur il bibliotecario}{38}{paragraph*.283}%
-\contentsline {paragraph}{Il consiglio degli anziani}{38}{paragraph*.284}%
-\contentsline {paragraph}{L'Assemblea}{38}{paragraph*.285}%
-\contentsline {paragraph}{L'ordine dei viaggiatori}{38}{paragraph*.286}%
-\contentsline {subsubsection}{Y'Keah il carpentiere}{38}{subsubsection*.287}%
-\contentsline {subsection}{Fillianore Halamis}{39}{subsection*.288}%
-\contentsline {subsubsection}{Figlia dell'Abisso}{39}{subsubsection*.289}%
-\contentsline {subsubsection}{L'incontro col Triangolo}{39}{subsubsection*.290}%
+\contentsline {section}{Luoghi}{36}{section*.265}%
+\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{36}{subsection*.266}%
+\contentsline {subsubsection}{Dentro al tronco dell'Albero}{36}{subsubsection*.267}%
+\contentsline {subsubsection}{Sulla chioma}{36}{subsubsection*.268}%
+\contentsline {subsection}{Il borgo di Mythrenberg}{36}{subsection*.269}%
+\contentsline {subsubsection}{La sede del Circolo}{36}{subsubsection*.270}%
+\contentsline {subsubsection}{La biblioteca della corteccia}{36}{subsubsection*.271}%
+\contentsline {subsubsection}{La falegnameria di Y'Keah}{36}{subsubsection*.272}%
+\contentsline {subsection}{I villaggi di Mythrenwald}{36}{subsection*.273}%
+\contentsline {section}{Abitanti}{36}{section*.274}%
+\contentsline {subsection}{Halimath Selevarum}{36}{subsection*.275}%
+\contentsline {subsubsection}{Il cieco con gli occhi aperti}{36}{subsubsection*.276}%
+\contentsline {subsubsection}{Un passato oscuro}{37}{subsubsection*.277}%
+\contentsline {subsection}{I Druidi di Mythrenwald}{37}{subsection*.279}%
+\contentsline {subsubsection}{I principi del Circolo}{37}{subsubsection*.280}%
+\contentsline {paragraph}{Protezione della Foresta}{37}{paragraph*.281}%
+\contentsline {paragraph}{Protezione della vita}{37}{paragraph*.282}%
+\contentsline {paragraph}{Rispetto della morte}{37}{paragraph*.283}%
+\contentsline {paragraph}{Studio della corteccia e del cielo}{37}{paragraph*.284}%
+\contentsline {paragraph}{Accoglienza e ospitalità}{37}{paragraph*.285}%
+\contentsline {subsection}{La struttura del Circolo}{37}{subsection*.287}%
+\contentsline {paragraph}{Il Grande Guardiano}{38}{paragraph*.288}%
+\contentsline {paragraph}{Kur il bibliotecario}{38}{paragraph*.289}%
+\contentsline {paragraph}{Il consiglio degli anziani}{38}{paragraph*.290}%
+\contentsline {paragraph}{L'Assemblea}{38}{paragraph*.291}%
+\contentsline {paragraph}{L'ordine dei viaggiatori}{38}{paragraph*.292}%
+\contentsline {subsubsection}{Y'Keah il carpentiere}{38}{subsubsection*.293}%
+\contentsline {subsection}{Fillianore Halamis}{39}{subsection*.294}%
+\contentsline {subsubsection}{Figlia dell'Abisso}{39}{subsubsection*.295}%
+\contentsline {subsubsection}{L'incontro col Triangolo}{39}{subsubsection*.296}%
 \contentsline {chapter}{\numberline {23}La città volante dei Forgiati: Konepolis}{40}{chapter.23}%
-\contentsline {section}{Luoghi}{40}{section*.291}%
-\contentsline {section}{Abitanti}{40}{section*.292}%
+\contentsline {section}{Luoghi}{40}{section*.297}%
+\contentsline {section}{Abitanti}{40}{section*.298}%
 \contentsline {part}{\numberline {4}Nemici e Pericoli}{41}{part.4}%
 \contentsfinish 
