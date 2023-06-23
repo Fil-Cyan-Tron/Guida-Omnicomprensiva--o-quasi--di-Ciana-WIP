@@ -1,22 +1,20 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  1 JUN 2023 19:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  23 JUN 2023 13:45
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**temp.tex
-(./temp.tex
+**"/home/ciana/DnD/Guida Omnicomprensiva (o quasi) di Ciana WIP/temp"
+(/home/ciana/DnD/Guida Omnicomprensiva (o quasi) di Ciana WIP/temp.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21> (./dndbook.cls
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+L3 programming layer <2022-01-21> (./dndbook.cls (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2022-01-21 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count185
 \l__pdf_internal_box=\box50
 ))
 Document Class: dndbook 2020/04/21 v0.8.0  Template for DnD 5e material 
-(./dndoptions.clo
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(./dndoptions.clo (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
 )
 
@@ -28,8 +26,7 @@ Package dnd Info: Unknown option "twocolumn" passed to book class.
 
 Package dnd Info: Unknown option "openany" passed to book class.
 
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+) (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
 File: bk10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -46,8 +43,7 @@ File: bk10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (./dndcore.def
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+) (./dndcore.def (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \col@sep=\dimen139
 \ar@mcellbox=\box51
@@ -56,25 +52,20 @@ Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \extratabsurround=\skip49
 \backup@length=\skip50
 \ar@cellbox=\box52
-)
-(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \everycr=\toks17
 \minrowclearance=\skip51
-)
-(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitkv@toks@=\toks18
 \labelindent=\skip52
@@ -83,24 +74,19 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box53
 \enit@count@id=\count195
 \enitdp@description=\count196
-)
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count197
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hang/hang.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/hang/hang.sty
 Package: hang 2017/02/18 v2.1 Hanging paragraphs and list items
 \hangingindent=\skip53
 \hangingleftmargin=\skip54
 \labeledleftmargin=\skip55
-)
-(/usr/share/texlive/texmf-dist/tex/latex/numprint/numprint.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/numprint/numprint.sty
 Package: numprint 2012/08/20 v1.39 Print numbers (HH)
 \c@nprt@mantissa@digitsbefore=\count198
 \c@nprt@mantissa@digitsafter=\count199
@@ -119,9 +105,7 @@ Package: numprint 2012/08/20 v1.39 Print numbers (HH)
 \c@nprt@digitsfirstblock=\count271
 \c@nprt@blockcnt=\count272
 \c@nprt@cntprint=\count273
-
-No configuration file `numprint.cfg' found.)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+ No configuration file `numprint.cfg' found.) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@col@width=\dimen142
 \TX@old@table=\dimen143
@@ -130,58 +114,40 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@delta=\dimen146
 \TX@cols=\count274
 \TX@ftn=\toks23
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
-
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+ (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks24
 \pgfutil@tempdima=\dimen147
 \pgfutil@tempdimb=\dimen148
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
-ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box54
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
 Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
-
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks25
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks26
 \pgfkeys@temptoks=\toks27
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
-ex
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks28
 ))
 \pgf@x=\dimen151
@@ -208,27 +174,19 @@ ex
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
-f
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
-tex
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfsyssoftpath@smallbuffer@items=\count280
 \pgfsyssoftpath@bigbuffer@items=\count281
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
-tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
@@ -243,44 +201,18 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen161
 \pgfmath@count=\count283
 \pgfmath@box=\box55
 \pgfmath@toks=\toks32
 \pgfmath@stack@operand=\toks33
 \pgfmath@stack@operation=\toks34
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
-ric.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
-e.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
-.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
-tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
-tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
-thmetics.code.tex)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count284
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
-x
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen162
 \pgf@picmaxx=\dimen163
@@ -296,109 +228,74 @@ File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@yy=\dimen173
 \pgf@zx=\dimen174
 \pgf@zy=\dimen175
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
-code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@path@lastx=\dimen176
 \pgf@path@lasty=\dimen177
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
-.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@shorten@end@additional=\dimen178
 \pgf@shorten@start@additional=\dimen179
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
-x
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box56
 \pgf@hbox=\box57
 \pgf@layerbox@main=\box58
 \pgf@picture@serial@count=\count285
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
-ode.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen180
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
-s.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@pt@x=\dimen181
 \pgf@pt@y=\dimen182
 \pgf@pt@temp=\dimen183
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
-ex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
-.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
-x
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfarrowsep=\dimen184
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen185
 \pgf@sys@shading@range@num=\count286
 \pgf@shadingcount=\count287
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
-tex
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfexternal@startupbox=\box59
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
-x
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
-ode.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
-tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodeparttextbox=\box60
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
-.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@nodesepstart=\dimen186
 \pgf@nodesepend=\dimen187
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
-.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 )) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks35
 \verbatim@line=\toks36
 \verbatim@in@stream=\read3
-)
-(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
-
-(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \@envbody=\toks37
@@ -414,48 +311,33 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box66
 \tcb@temp=\box67
 \tcb@temp=\box68
-
-(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+ (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
 Library (tcolorbox): 'tcbbreakable.code.tex' version '5.0.2'
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdfcol.sty
 Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@testbox=\box69
 \tcb@totalupperbox=\box70
 \tcb@totallowerbox=\box71
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '5.0.2'
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen188
 \pgffor@skip=\dimen189
 \pgffor@stack=\toks38
 \pgffor@toks=\toks39
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
-.code.tex
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@plot@mark@count=\count291
 \pgfplotmarksize=\dimen190
@@ -476,32 +358,26 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikznumberofchildren=\count293
 \tikznumberofcurrentchild=\count294
 \tikz@fig@count=\count295
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfmatrixcurrentrow=\count296
 \pgfmatrixcurrentcolumn=\count297
 \pgf@matrix@numberofcolumns=\count298
 )
 \tikz@expandcount=\count299
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarytopaths.code.tex
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 \tcb@waterbox=\box76
-
-(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+ (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.0.2'
 )) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
 Library (tcolorbox): 'tcbxparse.code.tex' version '5.0.2'
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2022-01-12 L3 Experimental document command parser
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count300
@@ -516,8 +392,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen261
 \Gm@layoutvoffset=\dimen262
 \Gm@dimlist=\toks40
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
 \MT@toks=\toks41
 \MT@count=\count303
@@ -528,20 +403,16 @@ LaTeX Info: Redefining \textls on input line 1173.
 \MT@outer@kern=\dimen263
 LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
 \MT@listname@count=\count304
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
-
 LaTeX Info: Redefining \lsstyle on input line 897.
 LaTeX Info: Redefining \lslig on input line 897.
 \MT@outer@space=\skip60
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2021/12/15 v3.1 ragged2e Package
 \CenteringLeftskip=\skip61
 \RaggedLeftLeftskip=\skip62
@@ -557,8 +428,7 @@ Package: ragged2e 2021/12/15 v3.1 ragged2e Package
 \RaggedLeftParindent=\skip72
 \RaggedRightParindent=\skip73
 \JustifyingParindent=\skip74
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip75
@@ -597,8 +467,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforetabskip=\skip106
 \cfttabindent=\skip107
 \cfttabnumwidth=\skip108
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box78
 \beforetitleunit=\skip109
@@ -609,17 +478,14 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidth=\dimen266
 \titlewidthlast=\dimen267
 \titlewidthfirst=\dimen268
-)
-(/usr/share/texlive/texmf-dist/tex/latex/ms/multitoc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/ms/multitoc.sty
 Package: multitoc 1999/06/08 v2.01 MultiToc Package (MS)
-
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \c@tracingmulticols=\count307
 
 
-Package multicol Warning: May not work with the twocolumn option on input line 
-142.
+Package multicol Warning: May not work with the twocolumn option on input line 142.
 
 \mult@box=\box79
 \multicol@leftmargin=\dimen269
@@ -691,13 +557,10 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )) (./lib/compat.sty) (./lib/dndutility.sty
 \l__dnd_space_box=\box124
 \l__dnd_space_dim=\dimen278
-) (./lib/dndcolors.sty) (./lib/dndfonts.sty
-(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
+) (./lib/dndcolors.sty) (./lib/dndfonts.sty (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
-
-(/usr/share/texlive/texmf-dist/tex/generic/minifp/minifp.sty
-Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
--based programing language.
+ (/usr/share/texlive/texmf-dist/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
 \MFP@loopctr=\count317
 )
 \c@DefaultLines=\count318
@@ -728,14 +591,11 @@ Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
 \Llist@everypar=\toks43
 
 Loading lettrine.cfg
-(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg))
-(/usr/share/texlive/texmf-dist/tex/latex/cfr-initials/Royal.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg)) (/usr/share/texlive/texmf-dist/tex/latex/cfr-initials/Royal.sty
 Package: Royal 2007/11/24 v1.01 Royal CFR
-
-(/usr/share/texlive/texmf-dist/tex/latex/initials/RoyalIn.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/initials/RoyalIn.fd
 File: RoyalIn.fd 2003/04/02 Font definition file for U/RoyalIn
-))
-(/usr/share/texlive/texmf-dist/tex/latex/contour/contour.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/contour/contour.sty
 Package: contour 2004/11/18 v2.14 Print contoured text (HH, MH)
 \con@length=\skip113
 
@@ -746,43 +606,31 @@ File: contour.cfg 2004/11/18 v2.14 Print contoured text (HH, MH)
 contour: Using driver file `pdftex.cnt'.
 (/usr/share/texlive/texmf-dist/tex/latex/contour/pdftex.cnt
 File: pdftex.cnt 2004/11/18 v2.14 Print contoured text (HH, MH)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/bookman.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/bookman.sty
 Package: bookman 2020/03/25 PSNFSS-v9.3 (SPQR) 
-)
-(/usr/share/texlive/texmf-dist/tex/latex/gillius/gillius2.sty
-Package: gillius2 2013/11/03 (Bob Tennent) Supports Gillius No.2 fonts for all 
-LaTeX engines.
-
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/gillius/gillius2.sty
+Package: gillius2 2013/11/03 (Bob Tennent) Supports Gillius No.2 fonts for all LaTeX engines.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
-
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks44
 \XKV@tempa@toks=\toks45
 )
 \XKV@depth=\count322
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for OT1+pbk on input line 1
-12.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pbk.fd
+LaTeX Font Info:    Trying to load font information for OT1+pbk on input line 112.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pbk.fd
 File: ot1pbk.fd 2001/06/04 font definitions for OT1/pbk.
 )
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <10> not available
 (Font)              Font shape `OT1/pbk/l/n' tried instead on input line 112.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -794,25 +642,18 @@ LaTeX Info: Redefining \ulcshape on input line 41.
 LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/kpfonts/kpfonts.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/kpfonts.sty
 Package: kpfonts  2010/08/20 v3.31
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+pbk on input line 11
-2.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pbk.fd
+LaTeX Font Info:    Trying to load font information for T1+pbk on input line 112.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pbk.fd
 File: t1pbk.fd 2001/06/04 font definitions for T1/pbk.
 )
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 112.
-))
-(./lib/dndstrings.sty) (./lib/dndcomment.sty) (./lib/dndheader.sty
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
-rs
+)) (./lib/dndstrings.sty) (./lib/dndcomment.sty) (./lib/dndheader.sty (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip114
 \f@nch@O@elh=\skip115
 \f@nch@O@erh=\skip116
@@ -822,47 +663,38 @@ rs
 \f@nch@O@erf=\skip120
 \f@nch@O@olf=\skip121
 \f@nch@O@orf=\skip122
-))
-(./lib/dndmonster.sty
+)) (./lib/dndmonster.sty
 \enitdp@__dnd_monster_attributes=\count323
 \enitdp@DndMonsterSpells=\count324
 \enitdp@DndMonsterLegendaryActions=\count325
 ) (./lib/dndreadaloud.sty) (./lib/dndsections.sty
 \c@DndAreaCounter=\count326
 \c@DndSubAreaCounter=\count327
-)
-(./lib/dndsidebar.sty) (./lib/dndtable.sty
+) (./lib/dndsidebar.sty) (./lib/dndtable.sty
 \l__dnd_table_width_dim=\dimen298
-)) (./lib/dndtoc.sty
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
+)) (./lib/dndtoc.sty (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2021/07/05 v2.14 TOC entries
 \ttl@leftsep=\dimen299
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+))) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2022/01/26 3.70 The Babel package
 \babel@savecnt=\count328
 \U@D=\dimen300
 \l@unhyphenated=\language87
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read4
 \bbl@dirlevel=\count329
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
 Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
 \it@lettering=\count330
 \it@doublequoteactive=\count331
 \it@ISOcompliance=\count332
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks46
 \inpenc@posthook=\toks47
-)
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \captionmargin=\dimen301
 \captionmargin@=\dimen302
@@ -875,8 +707,7 @@ Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count333
 \c@continuedfloat=\count334
-)
-(/usr/share/texlive/texmf-dist/tex/latex/kantlipsum/kantlipsum.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/kantlipsum/kantlipsum.sty
 Package: kantlipsum 2019/07/23 v0.8 Generate text in Kantian style
 \l__kgl_start_int=\count335
 \l__kgl_end_int=\count336
@@ -884,8 +715,7 @@ Package: kantlipsum 2019/07/23 v0.8 Generate text in Kantian style
 Package kantlipsum Info: The package provides paragraphs 1 to 164. Values
 (kantlipsum)             outside this range will be ignored.
 
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count337
 \lst@gtempboxa=\box127
 \lst@token=\toks48
@@ -898,80 +728,59 @@ Package kantlipsum Info: The package provides paragraphs 1 to 164. Values
 \lst@newlines=\count341
 \lst@lineno=\count342
 \lst@maxwidth=\dimen311
-
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count343
 \lst@skipnumbers=\count344
 \lst@framebox=\box128
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/shortvrb.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/base/shortvrb.sty
 Package: shortvrb 2021/10/04 v2.1n Standard LaTeX documentation package (FMi)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
-Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
-ings
+) (/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip settings
 \@dblbotnum=\count345
 \c@dblbotnumber=\count346
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
+ (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen312
 \Hy@linkcounter=\count347
 \Hy@pagecounter=\count348
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
-nguages
-)
-(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel languages
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count349
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -984,20 +793,16 @@ Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
 \c@Hy@tempcnt=\count350
-
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen313
-
-(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count351
 \Field@Width=\dimen314
@@ -1011,8 +816,7 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6101.
 Package hyperref Info: PDF/A mode OFF on input line 6106.
 LaTeX Info: Redefining \ref on input line 6146.
 LaTeX Info: Redefining \pageref on input line 6150.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -1021,30 +825,23 @@ package with kernel methods
 \c@Hfootnote=\count354
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
 \Fld@listcount=\count355
 \c@bookmark@seq@number=\count356
-
-(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip123
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks49
 \symAMSa=\mathgroup4
@@ -1054,40 +851,27 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
 Package shortvrb Info: Made  a short reference for \verb on input line 28.
-
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
 File: lstlang2.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
 File: lstlang3.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
 File: lstlang2.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
 File: lstlang3.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
 File: lstlang2.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
 File: lstlang3.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-)
-(./lib/languages/italian.sty) (./lib/languages/japanese.sty)
-(./lib/languages/ngerman.sty) (./lib/languages/russian.sty)
-(./lib/languages/spanish.sty) (./lib/languages/french.sty) (./temp.aux)
+) (./lib/languages/italian.sty) (./lib/languages/japanese.sty) (./lib/languages/ngerman.sty) (./lib/languages/russian.sty) (./lib/languages/spanish.sty) (./lib/languages/french.sty) (./temp.aux)
 \openout1 = `temp.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -1108,8 +892,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count357
 \scratchdimen=\dimen316
@@ -1124,12 +907,9 @@ LaTeX Font Info:    ... okay on input line 36.
 \everyMPtoPDFconversion=\toks51
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \symgns@font=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
@@ -1137,8 +917,7 @@ LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 Package gensymb Info: Math companion symbols declared on input line 36.
 LaTeX Info: Redefining \degree on input line 36.
 LaTeX Info: Redefining \celsius on input line 36.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 36.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 36.
 LaTeX Info: Redefining \ohm on input line 36.
 Package gensymb Info: Using \textohm for \ohm on input line 36.
 Package gensymb Info: Using \textmu for \micro on input line 36.
@@ -1208,11 +987,9 @@ Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 36.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count366
@@ -1220,111 +997,345 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 36.
 LaTeX Info: Redefining \pageref on input line 36.
 LaTeX Info: Redefining \nameref on input line 36.
-
-(./temp.out) (./temp.out)
+ (./temp.out) (./temp.out)
 \@outlinefile=\write4
 \openout4 = `temp.out'.
 
- (./data/Ipotesi/Azioni.tex
+ (./data/Eovras/Mythrenwald.tex
 Capitolo 1.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 1.
 contour: Using 32 copies for `Capitolo\ 1:' on input line 1.
-contour: Using 32 copies for `Economia' on input line 1.
-contour: Using 32 copies for `delle' on input line 1.
-contour: Using 32 copies for `azioni' on input line 1.
+contour: Using 32 copies for `Foresta' on input line 1.
+contour: Using 32 copies for `di' on input line 1.
+contour: Using 32 copies for `Mythrenwald' on input line 1.
+LaTeX Font Info:    Trying to load font information for T1+GilliusADFNoTwo-LF on input line 4.
+(/usr/share/texlive/texmf-dist/tex/latex/gillius/T1GilliusADFNoTwo-LF.fd
+File: T1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for T1/GilliusADFNoTwo-LF.
+)
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 4.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `GilliusADFNoTwo-LF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <9> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <9> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 4.
+
+Missing character: There is no ; in font nullfont!
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <20.74> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 2.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 8.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <20.74> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 2.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 8.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <10> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 3.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 10.
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 41.05644pt (L);
-(lettrine.sty)             reported on input line 3.
+(lettrine.sty)             Lettrine height = 40.90071pt (A);
+(lettrine.sty)             reported on input line 10.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 5.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 12.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 5.
-Package lettrine.sty Info: Targeted height = 41.41992pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 41.21213pt (D);
-(lettrine.sty)             reported on input line 9.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 12.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <12> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 11.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 11.
-LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 13.
-LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <10> not available
-(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 13.
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 1
-8.
-
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 16.
+<img/paper.jpg, id=19, 2559.5625pt x 3312.375pt>
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 44.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 44.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 44.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <5> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 44.
+LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 44.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pbk.fd
 File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
-LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <10> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 18.
+LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <5> not available
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 44.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pbk' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <7> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 18.
-LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <5> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 18.
-<img/paper.jpg, id=15, 2559.5625pt x 3312.375pt>
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 51.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 51.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 51.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <5> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 51.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <7> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 51.
-<img/footerscroll.pdf, id=16, 596.2275pt x 42.15584pt>
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 44.
+<img/footerscroll.pdf, id=20, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 51.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 44.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./img/paper.jpg> <./img/footerscroll.pdf>])
+ <./img/paper.jpg> <./img/footerscroll.pdf>]
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 50.
+LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <10> not available
+(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 50.
+LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <17.28> not available
+(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 50.
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 52.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <9> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 59.
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 59.
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\T1/GilliusADFNoTwo-LF/m/n/9 Addestrare Ani-ma-li +17, Ar-ca-no +17, Atle-ti-ca +13,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\T1/GilliusADFNoTwo-LF/m/n/9 In-tui-zio-ne +17, Per-ce-zio-ne +17, Ra-pi-di-tà di Ma-no +17, Fur-ti-vi-tà
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\T1/GilliusADFNoTwo-LF/m/n/9 Vista cie-ca 36 m, vi-sta del-le au-ree 72 m. Per-ce-zio-ne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\T1/GilliusADFNoTwo-LF/m/n/9 Comune, El-fi-co, Sil-va-no, Gno-me-sco, Drui-di-co,
+ []
+
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/sl' in size <9> not available
+(Font)              Font shape `T1/GilliusADFNoTwo-LF/m/it' tried instead on input line 83.
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 83.
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/sl' in size <9> not available
+(Font)              Font shape `T1/GilliusADFNoTwo-LF/b/it' tried instead on input line 83.
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/it' will be
+(Font)              scaled to size 9.0pt on input line 83.
+LaTeX Font Info:    Trying to load font information for TS1+GilliusADFNoTwo-LF on input line 84.
+(/usr/share/texlive/texmf-dist/tex/latex/gillius/TS1GilliusADFNoTwo-LF.fd
+File: TS1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for TS1/GilliusADFNoTwo-LF.
+)
+LaTeX Font Info:    Font shape `TS1/GilliusADFNoTwo-LF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 84.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `GilliusADFNoTwo-LF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+\T1/GilliusADFNoTwo-LF/b/it/9 Tratti di clas-se. \T1/GilliusADFNoTwo-LF/m/n/9 Ha-li-math è un Mo-na-co del-l'Om-bra Re-den-ta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+\T1/GilliusADFNoTwo-LF/m/n/9 di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo e un Mo-na-co del-la via del Sè astra-le di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi.\T1/GilliusADFNoTwo-LF/m/n/9 Halimath è un in-can-ta-to-re di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo, pos-sie-de gli
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+\T1/GilliusADFNoTwo-LF/m/n/9 slot in-can-te-si-mo ap-pro-pria-ti e co-no-sce tut-ti gli in-can-te-si-mi da
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+\T1/GilliusADFNoTwo-LF/m/n/9 Drui-do. Re-cu-pe-ra i suoi slot do-po ogni ri-po-so lun-go. La CD del
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+\T1/GilliusADFNoTwo-LF/m/n/9 ti-ro sal-vez-za con-tro que-sti in-can-te-si-mi è 25 e il bo-nus al ti-ro per
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+jkpss on input line 88.
+(/usr/share/texlive/texmf-dist/tex/latex/kpfonts/t1jkpss.fd
+File: t1jkpss.fd 2007/07/16 Fontinst v1.928 font definitions for T1/jkpss.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `jkpss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/jkpss/m/sc/9'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/jkpss/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+\T1/GilliusADFNoTwo-LF/b/it/9 Pugni. \T1/GilliusADFNoTwo-LF/m/it/9 At-tac-co con Ar-ma da Mi-schia: \T1/GilliusADFNoTwo-LF/m/n/9 +17 per col-pi-re, por-ta-ta 5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+\T1/GilliusADFNoTwo-LF/m/n/9 Halimath pos-sie-de 52 pun-ti ki che può usa-re per i po-te-ri di un
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+\T1/GilliusADFNoTwo-LF/m/n/9 Mo-na-co del-l'Om-bra Re-den-ta di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo e di un Mo-na-co del-la
+ []
+
+LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <10> not available
+(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 122.
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--168
+\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi in-na-ti. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--168
+\T1/GilliusADFNoTwo-LF/m/n/9 gra-zie al-le sup-pli-che oc-cul-te che pos-sie-de e al-la sua raz-za. La
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+[]\T1/GilliusADFNoTwo-LF/m/it/9 Invisibilità\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Le-vi-ta-zio-ne\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 In-ti-mo-ri-re In-fer-na-le\T1/GilliusADFNoTwo-LF/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--178
+\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re re-cu-pe-ra i suoi slot in-can-te-si-mo ogni
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--178
+\T1/GilliusADFNoTwo-LF/m/n/9 ri-po-so bre-ve. La CD del ti-ro sal-vez-za con-tro que-sti in-can-te-si-mi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+[]\T1/GilliusADFNoTwo-LF/m/it/9 Deflagrazione Oc-cul-ta\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Gui-da\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 In-ter-di-zio-ne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+\T1/GilliusADFNoTwo-LF/m/it/9 al-le La-me\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Ma-no Ma-gi-ca\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Rin-toc-co dei Mor-ti\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Ri-pa-ra-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Sal-va-re i
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+[]\T1/GilliusADFNoTwo-LF/m/it/9 Armatura di Aga-thys\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Char-me su Per-so-ne\T1/GilliusADFNoTwo-LF/m/n/9 ,
+ []
+
+
+Overfull \hbox (18.089pt too wide) in paragraph at lines 179--180
+\T1/GilliusADFNoTwo-LF/m/it/9 Ser-vi-to-re Inos-ser-va-to\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Fran-tu-ma-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 La-ma d'Om-bra\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Con-tro-in-can-te-si-mo\T1/GilliusADFNoTwo-LF/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+\T1/GilliusADFNoTwo-LF/m/it/9 Ri-muo-vi Ma-le-di-zio-ne\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Vo-la-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Esi-lio\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Por-ta Di-men-sio-na-le\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Ter-re-no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
+\T1/GilliusADFNoTwo-LF/b/it/9 Arcanum Mi-sti-co. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
+\T1/GilliusADFNoTwo-LF/m/n/9 co-me Ar-ca-num Mi-sti-co. Fil-lia-no-re re-cu-pe-ra i suoi uti-liz-zi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
+\T1/GilliusADFNoTwo-LF/m/n/9 del-l'Ar-ca-num Mi-sti-co ogni ri-po-so lun-go. La CD del ti-ro sal-vez-za
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--193
+\T1/GilliusADFNoTwo-LF/b/it/9 Maestro del-l'Oc-cul-to. \T1/GilliusADFNoTwo-LF/m/n/9 Una vol-ta per ri-po-so lun-go, Fil-lia-no-re può
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+\T1/GilliusADFNoTwo-LF/b/it/9 Poteri del Si-gno-re del-l'As-sur-do. \T1/GilliusADFNoTwo-LF/m/n/9 Il pa-tro-no di Fil-lia-no-re è il
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+\T1/GilliusADFNoTwo-LF/m/n/9 Si-gno-re del-l'As-sur-do, quin-di pos-sie-de tut-ti i po-te-ri che ne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
+\T1/GilliusADFNoTwo-LF/b/it/9 Deflagrazione Alea-to-ria. \T1/GilliusADFNoTwo-LF/m/n/9 6 vol-te per ri-po-so bre-ve, quan-do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
+\T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re col-pi-sce un ber-sa-glio con il truc-chet-to De-fla-gra-zio-ne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
+\T1/GilliusADFNoTwo-LF/m/n/9 Oc-cul-ta, co-me azio-ne bo-nus può im-por-re al ber-sa-glio di ti-ra-re
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
+\T1/GilliusADFNoTwo-LF/m/n/9 dal-la ta-bel-la del-la Ma-gia Sel-vag-gia un nu-me-ro di vol-te pa-ri al
+ []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 206.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 206.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 206.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 206.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[2]
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <10> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 209.
+
+Underfull \vbox (badness 2384) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 225.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 225.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 225.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 225.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [3])
 
 Package caption Warning: Unused \captionsetup[table] on input line 26.
 See the caption package documentation for explanation.
@@ -1345,32 +1356,25 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 40.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[2
+[4
 
 ] (./temp.aux)
 Package rerunfilecheck Info: File `temp.out' has not changed.
-(rerunfilecheck)             Checksum: 8E0370CDC2490B806D5C8462F6CE1CF8;250.
+(rerunfilecheck)             Checksum: D481E57BC03A03A8BD403C0BE2BDD6C5;336.
  ) 
 Here is how much of TeX's memory you used:
- 33653 strings out of 478287
- 656218 string characters out of 5849289
+ 33985 strings out of 478287
+ 663068 string characters out of 5849289
  1414903 words of memory out of 5000000
- 50957 multiletter control sequences out of 15000+600000
- 506120 words of font info for 179 fonts, out of 8000000 for 9000
+ 51185 multiletter control sequences out of 15000+600000
+ 546174 words of font info for 246 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 119i,17n,122p,1001b,905s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookm
-an/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb
->
-Output written on temp.pdf (2 pages, 328537 bytes).
+ 119i,17n,122p,1060b,1128s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}</usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
+Output written on temp.pdf (4 pages, 383229 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
- 37 named destinations out of 1000 (max. 500000)
- 60967 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 110 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 94767 words of extra memory for PDF output out of 106986 (max. 10000000)
 

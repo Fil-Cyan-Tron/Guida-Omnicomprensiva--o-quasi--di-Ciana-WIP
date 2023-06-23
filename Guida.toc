@@ -303,7 +303,7 @@
 \contentsline {paragraph}{Rispetto della morte}{37}{paragraph*.277}%
 \contentsline {paragraph}{Studio della corteccia e del cielo}{37}{paragraph*.278}%
 \contentsline {paragraph}{Accoglienza e ospitalità}{37}{paragraph*.279}%
-\contentsline {subsection}{La struttura del Circolo}{38}{subsection*.281}%
+\contentsline {subsection}{La struttura del Circolo}{37}{subsection*.281}%
 \contentsline {paragraph}{Il Grande Guardiano}{38}{paragraph*.282}%
 \contentsline {paragraph}{Kur il bibliotecario}{38}{paragraph*.283}%
 \contentsline {paragraph}{Il consiglio degli anziani}{38}{paragraph*.284}%
