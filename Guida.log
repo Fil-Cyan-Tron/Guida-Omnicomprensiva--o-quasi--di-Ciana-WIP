@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  23 JUN 2023 17:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.20)  21 JUL 2023 12:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2790,7 +2790,7 @@ Package rerunfilecheck Info: File `Guida.out' has not changed.
 Here is how much of TeX's memory you used:
  35250 strings out of 478287
  683189 string characters out of 5849289
- 1424923 words of memory out of 5000000
+ 1424922 words of memory out of 5000000
  51751 multiletter control sequences out of 15000+600000
  599982 words of font info for 458 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191

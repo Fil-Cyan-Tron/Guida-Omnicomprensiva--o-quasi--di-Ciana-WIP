@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  23 JUN 2023 17:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.20)  21 JUL 2023 12:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/ciana/DnD/Guida Omnicomprensiva (o quasi) di Ciana WIP/temp"
-(/home/ciana/DnD/Guida Omnicomprensiva (o quasi) di Ciana WIP/temp.tex
+**/home/ciana/Codice/LaTeX/Guida-Omnicomprensiva--o-quasi--di-Ciana-WIP/temp
+(/home/ciana/Codice/LaTeX/Guida-Omnicomprensiva--o-quasi--di-Ciana-WIP/temp.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (./dndbook.cls (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2022-01-21 L3 programming layer (loader) 
@@ -1067,12 +1067,12 @@ Package rerunfilecheck Info: File `temp.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  33361 strings out of 478287
- 651491 string characters out of 5849289
- 1398903 words of memory out of 5000000
+ 651516 string characters out of 5849289
+ 1398902 words of memory out of 5000000
  50785 multiletter control sequences out of 15000+600000
  493188 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 119i,17n,122p,1060b,905s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 119i,17n,122p,1067b,905s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
 Output written on temp.pdf (1 page, 288485 bytes).
 PDF statistics:
