@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  20 SEP 2023 13:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  21 SEP 2023 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1329,6 +1329,11 @@ Overfull \hbox (0.57983pt too wide) detected at line 103
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]|[]\T1/pbk/l/n/10 (+20) Collegio Bar-di-co: Col-le-gio dei Lu-do-pa-ti-ci 
+ []
+
+
 Overfull \hbox (0.57983pt too wide) detected at line 109
  \T1/pbk/l/sc/12 14
  []
@@ -1344,62 +1349,77 @@ Overfull \hbox (0.57983pt too wide) detected at line 123
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 125
+Overfull \hbox (0.57983pt too wide) detected at line 126
  \T1/pbk/l/sc/12 17
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 136
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|[]\T1/pbk/l/n/10 (+20) Archetipo La-dre-sco: il Cam-mi-na-to-re del-le 
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 137
  \T1/pbk/l/sc/12 18
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 144
+Overfull \hbox (0.57983pt too wide) detected at line 140
  \T1/pbk/l/sc/12 19
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 162
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|[]\T1/pbk/l/n/10 (+20) Tradizione Mo-na-sti-ca: Via del-l'Om-bra 
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 158
  \T1/pbk/l/sc/12 21
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 172
+Overfull \hbox (6.64532pt too wide) in paragraph at lines 161--161
+[]|[]\T1/pbk/l/n/10 (-20) Giuramento Di-vi-no: Giu-ra-men-to di Ve-ra-men-te 
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 168
  \T1/pbk/l/sc/12 22
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 174
+Overfull \hbox (0.57983pt too wide) detected at line 170
  \T1/pbk/l/sc/12 23
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 198
+Overfull \hbox (0.57983pt too wide) detected at line 195
  \T1/pbk/l/sc/12 26
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 219
+Overfull \hbox (0.57983pt too wide) detected at line 216
  \T1/pbk/l/sc/12 29
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 231
+Overfull \hbox (0.57983pt too wide) detected at line 228
  \T1/pbk/l/sc/12 30
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 260
+Overfull \hbox (0.57983pt too wide) detected at line 257
  \T1/pbk/l/sc/12 32
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 276
+Overfull \hbox (0.57983pt too wide) detected at line 273
  \T1/pbk/l/sc/12 35
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 286
+Overfull \hbox (0.57983pt too wide) detected at line 283
  \T1/pbk/l/sc/12 36
  []
 
@@ -1914,7 +1934,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 Capitolo 12.
 contour: Using 32 copies for `Capitolo\ 12:' on input line 1.
 contour: Using 32 copies for `Mago' on input line 1.
-Missing character: There is no ; in font nullfont!
 ) (./data/Personaggi/Monaco.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -1934,6 +1953,7 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [18
 
+
 ]
 Capitolo 13.
 contour: Using 32 copies for `Capitolo\ 13:' on input line 1.
@@ -1941,39 +1961,35 @@ contour: Using 32 copies for `Monaco' on input line 1.
 Missing character: There is no ; in font nullfont!
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 40.90071pt (A);
-(lettrine.sty)             reported on input line 10.
-Package lettrine.sty Info: Targeted height = 41.41992pt
-(lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.26405pt (S);
-(lettrine.sty)             reported on input line 24.
+(lettrine.sty)             reported on input line 22.
 (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/ts1jkpss.fd)
-Overfull \hbox (14.94005pt too wide) in paragraph at lines 62--62
+Overfull \hbox (14.94005pt too wide) in paragraph at lines 60--60
 []|\T1/jkpss/b/n/9 (-20) Livello
  []
 
 
-Overfull \hbox (20.77887pt too wide) in paragraph at lines 62--62
+Overfull \hbox (20.77887pt too wide) in paragraph at lines 60--60
 \T1/jkpss/b/n/9 (-20) Mo-na-co| 
  []
 
 
-Overfull \hbox (29.9248pt too wide) in paragraph at lines 62--62
+Overfull \hbox (29.9248pt too wide) in paragraph at lines 60--60
 []|\T1/jkpss/b/n/9 (-20) Trucchetti
  []
 
 
-Overfull \hbox (30.71016pt too wide) in paragraph at lines 62--62
+Overfull \hbox (30.71016pt too wide) in paragraph at lines 60--60
 \T1/jkpss/b/n/9 (-20) co-no-sciu-ti| 
  []
 
 
-Overfull \hbox (36.18556pt too wide) in paragraph at lines 62--62
+Overfull \hbox (36.18556pt too wide) in paragraph at lines 60--60
 []|\T1/jkpss/b/n/9 (-20) Incantesimi
  []
 
 
-Overfull \hbox (26.56099pt too wide) in paragraph at lines 62--62
+Overfull \hbox (26.56099pt too wide) in paragraph at lines 60--60
 \T1/jkpss/b/n/9 (-20) pre-pa-ra-ti| 
  []
 
@@ -1982,19 +1998,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 63.
+Package pdftex.def Info: img/paper.jpg  used on input line 61.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 63.
+Package pdftex.def Info: img/paper.jpg  used on input line 61.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 63.
+Package pdftex.def Info: img/paper.jpg  used on input line 61.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 63.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 61.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [19
 
@@ -2076,19 +2092,19 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             reported on input line 34.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 50.
+Package pdftex.def Info: img/paper.jpg  used on input line 47.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 50.
+Package pdftex.def Info: img/paper.jpg  used on input line 47.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 50.
+Package pdftex.def Info: img/paper.jpg  used on input line 47.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 50.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 47.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [23
 
@@ -2100,19 +2116,19 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             reported on input line 64.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 88.
+Package pdftex.def Info: img/paper.jpg  used on input line 87.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 88.
+Package pdftex.def Info: img/paper.jpg  used on input line 87.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 88.
+Package pdftex.def Info: img/paper.jpg  used on input line 87.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 88.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 87.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [24]) (./data/Personaggi/Warlock.tex
 File: img/paper.jpg Graphic file (type jpg)
@@ -2147,19 +2163,19 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             reported on input line 31.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 52.
+Package pdftex.def Info: img/paper.jpg  used on input line 51.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 52.
+Package pdftex.def Info: img/paper.jpg  used on input line 51.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 52.
+Package pdftex.def Info: img/paper.jpg  used on input line 51.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 52.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 51.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [26
 
@@ -2168,9 +2184,6 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 40.53738pt (N);
 (lettrine.sty)             reported on input line 62.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 97.
@@ -2187,8 +2200,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 97.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [27])
-(./data/Personaggi/Talenti.tex
+ [27]) (./data/Personaggi/Talenti.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2717,14 +2729,14 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 107.
 
 ] (./Guida.aux)
 Package rerunfilecheck Info: File `Guida.out' has not changed.
-(rerunfilecheck)             Checksum: 1C981CA6E4F49853057DD0ADB7FB3B12;10049.
+(rerunfilecheck)             Checksum: 8CD27C47265F833AC03821F69EBC169D;11250.
  ) 
 Here is how much of TeX's memory you used:
- 35206 strings out of 478287
- 682368 string characters out of 5849289
+ 35205 strings out of 478287
+ 682327 string characters out of 5849289
  1424923 words of memory out of 5000000
- 51728 multiletter control sequences out of 15000+600000
- 599662 words of font info for 456 fonts, out of 8000000 for 9000
+ 51726 multiletter control sequences out of 15000+600000
+ 599847 words of font info for 459 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,18n,122p,1387b,1128s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
@@ -2754,10 +2766,10 @@ public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 kman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (41 pages, 696554 bytes).
+Output written on Guida.pdf (41 pages, 695287 bytes).
 PDF statistics:
- 1048 PDF objects out of 1200 (max. 8388607)
- 877 compressed objects within 9 object streams
- 358 named destinations out of 1000 (max. 500000)
+ 1049 PDF objects out of 1200 (max. 8388607)
+ 878 compressed objects within 9 object streams
+ 355 named destinations out of 1000 (max. 500000)
  142375 words of extra memory for PDF output out of 154059 (max. 10000000)
 
