@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  25 SEP 2023 22:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  25 SEP 2023 23:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1270,7 +1270,7 @@ LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
-<img/paper.jpg, id=7, 2559.5625pt x 3312.375pt>
+<img/paper.jpg, id=272, 2559.5625pt x 3312.375pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 48.
@@ -1296,9 +1296,134 @@ LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
 
 contour: Using 32 copies for `Indice\ttl@gmk{\@mkboth{\MakeUppercase {Indice}}{
 \MakeUppercase {Indice}}}' on input line 49.
+(./Guida.toc
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 5.
 
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+Overfull \hbox (27.36609pt too wide) in paragraph at lines 79--79
+[]|\T1/pbk/l/sc/14.4 (-20) Parte 2: []Op-zio-ni per i per-so-nag-gi[]|  
+ []
 
+
+Overfull \hbox (0.57983pt too wide) detected at line 80
+ \T1/pbk/l/sc/12 10
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 96
+ \T1/pbk/l/sc/12 11
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 98
+ \T1/pbk/l/sc/12 12
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 103
+ \T1/pbk/l/sc/12 13
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]|[]\T1/pbk/l/n/10 (+20) Collegio Bar-di-co: Col-le-gio dei Lu-do-pa-ti-ci 
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 109
+ \T1/pbk/l/sc/12 14
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 119
+ \T1/pbk/l/sc/12 15
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 123
+ \T1/pbk/l/sc/12 16
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 131
+ \T1/pbk/l/sc/12 18
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+[]|[]\T1/pbk/l/n/10 (+20) Archetipo La-dre-sco: il Cam-mi-na-to-re del-le 
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 142
+ \T1/pbk/l/sc/12 19
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 145
+ \T1/pbk/l/sc/12 20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+[]|[]\T1/pbk/l/n/10 (+20) Tradizione Mo-na-sti-ca: Via del-l'Om-bra 
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 163
+ \T1/pbk/l/sc/12 22
+ []
+
+
+Overfull \hbox (6.64532pt too wide) in paragraph at lines 166--166
+[]|[]\T1/pbk/l/n/10 (-20) Giuramento Di-vi-no: Giu-ra-men-to di Ve-ra-men-te 
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 173
+ \T1/pbk/l/sc/12 23
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 175
+ \T1/pbk/l/sc/12 24
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 200
+ \T1/pbk/l/sc/12 27
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 221
+ \T1/pbk/l/sc/12 30
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 233
+ \T1/pbk/l/sc/12 31
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 262
+ \T1/pbk/l/sc/12 33
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 278
+ \T1/pbk/l/sc/12 36
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 288
+ \T1/pbk/l/sc/12 37
+ []
+
+)
 \tf@toc=\write5
 \openout5 = `Guida.toc'.
 
@@ -1316,7 +1441,7 @@ Package pdftex.def Info: img/paper.jpg  used on input line 49.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <7> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
-<img/footerscroll.pdf, id=15, 596.2275pt x 42.15584pt>
+<img/footerscroll.pdf, id=412, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
@@ -1325,7 +1450,7 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <5> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <5> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 49.
-[2
+ [2
 
 
 
@@ -1358,10 +1483,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 53.
 Capitolo 1.
 contour: Using 32 copies for `Capitolo\ 1:' on input line 1.
 contour: Using 32 copies for `Introduzione' on input line 1.
-LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 3.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <10> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 5.
 Package lettrine.sty Info: Targeted height = 41.41992pt
@@ -1422,7 +1543,7 @@ Package pdftex.def Info: img/paper.jpg  used on input line 52.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 52used on input line 52.
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -1456,7 +1577,8 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 109.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [4]
-LaTeX Font Info:    Trying to load font information for T1+jkpss on input line 127.
+LaTeX Font Info:    Trying to load font information for T1+jkpss on input line 
+127.
  (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/t1jkpss.fd
 File: t1jkpss.fd 2007/07/16 Fontinst v1.928 font definitions for T1/jkpss.
 )
@@ -1470,9 +1592,12 @@ Package microtype Info: Character `029' is missing
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+GilliusADFNoTwo-LF on input line 127.
- (/usr/share/texlive/texmf-dist/tex/latex/gillius/T1GilliusADFNoTwo-LF.fd
-File: T1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for T1/GilliusADFNoTwo-LF.
+LaTeX Font Info:    Trying to load font information for T1+GilliusADFNoTwo-LF o
+n input line 127.
+
+(/usr/share/texlive/texmf-dist/tex/latex/gillius/T1GilliusADFNoTwo-LF.fd
+File: T1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for T1/Gil
+liusADFNoTwo-LF.
 )
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 127.
@@ -1498,7 +1623,8 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 141.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [5]) (./data/Ipotesi/Azioni.tex
+
+[5]) (./data/Ipotesi/Azioni.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -1531,8 +1657,6 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.21213pt (D);
 (lettrine.sty)             reported on input line 9.
-LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 11.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <7> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 18.
 File: img/paper.jpg Graphic file (type jpg)
@@ -1708,7 +1832,8 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <9> not available
 LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <9> not available
 (Font)              Font shape `T1/pbk/l/it' tried instead on input line 8.
 Missing character: There is no ; in font nullfont!
-(/usr/share/texlive/texmf-dist/tex/latex/gillius/TS1GilliusADFNoTwo-LF.fd)) (./data/Personaggi/Druido.tex
+(/usr/share/texlive/texmf-dist/tex/latex/gillius/TS1GilliusADFNoTwo-LF.fd))
+(./data/Personaggi/Druido.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -1774,7 +1899,7 @@ LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <9> not available
 (Font)              Font shape `T1/pbk/db/n' tried instead on input line 30.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/n' will be
-(Font)              sc on input line 30.
+(Font)              scaled to size 9.0pt on input line 30.
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
 []\T1/GilliusADFNoTwo-LF/m/n/9 Radiosi, dan-ni da at-tac-chi con ar-mi non
@@ -2706,24 +2831,15 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 107.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `Guida.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Guida.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  436EBCA2587E14FB395A384F96C24976;11376.
+Package rerunfilecheck Info: File `Guida.out' has not changed.
+(rerunfilecheck)             Checksum: 436EBCA2587E14FB395A384F96C24976;11376.
  ) 
 Here is how much of TeX's memory you used:
- 35160 strings out of 478287
- 681898 string characters out of 5849289
+ 35234 strings out of 478287
+ 682805 string characters out of 5849289
  1424923 words of memory out of 5000000
- 51674 multiletter control sequences out of 15000+600000
- 600285 words of font info for 461 fonts, out of 8000000 for 9000
+ 51741 multiletter control sequences out of 15000+600000
+ 600670 words of font info for 465 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,18n,122p,1387b,1128s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
@@ -2753,10 +2869,10 @@ public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 kman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (42 pages, 690435 bytes).
+Output written on Guida.pdf (42 pages, 701048 bytes).
 PDF statistics:
- 724 PDF objects out of 1000 (max. 8388607)
- 620 compressed objects within 7 object streams
+ 1061 PDF objects out of 1200 (max. 8388607)
+ 889 compressed objects within 9 object streams
  362 named destinations out of 1000 (max. 500000)
- 145943 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 146471 words of extra memory for PDF output out of 154059 (max. 10000000)
 
