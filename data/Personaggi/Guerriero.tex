@@ -62,26 +62,23 @@ A partire dal 18° livello, quando tira per iniziativa, il Guerriero può usare 
       \end{DndMonsterSpells}
 
       \DndMonsterSection{Azioni}
-      \DndMonsterAction{Multiattacco}
-      Brunilde compie due attacchi da mischia.
 
-      \DndMonsterAttack[
-        name=Lancia,
-        distance=melee, % valid options are in the set {both,melee,ranged},
-        type=weapon, %valid options are in the set {weapon,spell}
-        mod=+11,
-        reach=3
-        range=9/36,
-        targets=bersaglio singolo,
-        dmg=\DndDice{1d10+5},
-        dmg-type=perforanti, magici,
-        plus-dmg=\DndDice{1d8},
-        plus-dmg-type=Radiosi,
-        %or-dmg=,
-        %or-dmg-when=,
-        %extra=,
-      ]
+      \DndMonsterAction{Multiattacco}
+      Brunilde compie due \textit{attacchi con lancia} o un \textit{attacco con lancia} e un \textit{attacco con scudo}.
+
+      \DndMonsterAction{Attacco con lancia}
+      Attacco da mischia, +11 al tiro per colpire, \DndDice{1d10+5} danni perforanti (magici) sul colpo e \DndDice{1d8} danni radiosi aggiuntivi
+
+      \DndMonsterAction{Attacco con scudo}
+      Attacco da mischia, +11 al tiro per colpire, \DndDice{2d6+5} danni contundenti (magici) sul colpo e \DndDice{1d8} danni radiosi aggiuntivi
+
+      \DndMonsterSection{Azioni bonus}
+      
+      \DndMonsterAction{Carica}
+      Brunilde si muove verso una creatura entro la sua velocità di movimento totale ed effettua un \textit{attacco con scudo} al suo arrivo.
+
   
+      \DndMonsterSection{Reazioni}
       \DndMonsterAction{Soccorso divino}
       Brunilde può teletrasportarsi con una reazione davanti al guerriero che l'ha evocata e lanciare l'incantesimo \textit{Scudo} come parte della stessa reazione.
 
