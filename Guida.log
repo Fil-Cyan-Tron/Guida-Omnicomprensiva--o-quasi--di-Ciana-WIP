@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  26 SEP 2023 11:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  26 SEP 2023 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2825,19 +2825,19 @@ See the caption package documentation for explanation.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 107.
+Package pdftex.def Info: img/paper.jpg  used on input line 103.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 107.
+Package pdftex.def Info: img/paper.jpg  used on input line 103.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 107.
+Package pdftex.def Info: img/paper.jpg  used on input line 103.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 107.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [40
 
