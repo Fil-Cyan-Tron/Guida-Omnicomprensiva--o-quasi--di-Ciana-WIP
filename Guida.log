@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  26 SEP 2023 11:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  2 OCT 2023 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1088,14 +1088,6 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 (./lib/languages/italian.sty) (./lib/languages/japanese.sty)
 (./lib/languages/ngerman.sty) (./lib/languages/russian.sty)
 (./lib/languages/spanish.sty) (./lib/languages/french.sty) (./Guida.aux)
-Runaway argument?
-{\contentsline {subsection}{Buon ordinamen 
-! File ended while scanning use of \@writefile.
-<inserted text> 
-                \par 
-l.43 \begin{document}
-                     
-? 
 \openout1 = `Guida.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
@@ -1116,6 +1108,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count357
@@ -1376,57 +1369,57 @@ Overfull \hbox (0.57983pt too wide) detected at line 145
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--149
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
 []|[]\T1/pbk/l/n/10 (+20) Tradizione Mo-na-sti-ca: Via del-l'Om-bra 
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 163
+Overfull \hbox (0.57983pt too wide) detected at line 168
  \T1/pbk/l/sc/12 21
  []
 
 
-Overfull \hbox (6.64532pt too wide) in paragraph at lines 166--166
+Overfull \hbox (6.64532pt too wide) in paragraph at lines 171--171
 []|[]\T1/pbk/l/n/10 (-20) Giuramento Di-vi-no: Giu-ra-men-to di Ve-ra-men-te 
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 173
+Overfull \hbox (0.57983pt too wide) detected at line 178
  \T1/pbk/l/sc/12 22
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 175
+Overfull \hbox (0.57983pt too wide) detected at line 180
  \T1/pbk/l/sc/12 23
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 200
+Overfull \hbox (0.57983pt too wide) detected at line 205
  \T1/pbk/l/sc/12 26
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 221
+Overfull \hbox (0.57983pt too wide) detected at line 226
  \T1/pbk/l/sc/12 29
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 234
+Overfull \hbox (0.57983pt too wide) detected at line 239
  \T1/pbk/l/sc/12 30
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 264
+Overfull \hbox (0.57983pt too wide) detected at line 269
  \T1/pbk/l/sc/12 32
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 280
+Overfull \hbox (0.57983pt too wide) detected at line 285
  \T1/pbk/l/sc/12 35
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 290
+Overfull \hbox (0.57983pt too wide) detected at line 295
  \T1/pbk/l/sc/12 36
  []
 
@@ -2093,60 +2086,56 @@ Missing character: There is no ; in font nullfont!
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.26405pt (S);
-(lettrine.sty)             reported on input line 22.
-(/usr/share/texlive/texmf-dist/tex/latex/kpfonts/ts1jkpss.fd)
-Overfull \hbox (14.94005pt too wide) in paragraph at lines 60--60
+(lettrine.sty)             reported on input line 30.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 40.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 40.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 40.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 40.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[19
+
+] (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/ts1jkpss.fd)
+Overfull \hbox (14.94005pt too wide) in paragraph at lines 68--68
 []|\T1/jkpss/b/n/9 (-20) Livello
  []
 
 
-Overfull \hbox (20.77887pt too wide) in paragraph at lines 60--60
+Overfull \hbox (20.77887pt too wide) in paragraph at lines 68--68
 \T1/jkpss/b/n/9 (-20) Mo-na-co| 
  []
 
 
-Overfull \hbox (29.9248pt too wide) in paragraph at lines 60--60
+Overfull \hbox (29.9248pt too wide) in paragraph at lines 68--68
 []|\T1/jkpss/b/n/9 (-20) Trucchetti
  []
 
 
-Overfull \hbox (30.71016pt too wide) in paragraph at lines 60--60
+Overfull \hbox (30.71016pt too wide) in paragraph at lines 68--68
 \T1/jkpss/b/n/9 (-20) co-no-sciu-ti| 
  []
 
 
-Overfull \hbox (36.18556pt too wide) in paragraph at lines 60--60
+Overfull \hbox (36.18556pt too wide) in paragraph at lines 68--68
 []|\T1/jkpss/b/n/9 (-20) Incantesimi
  []
 
 
-Overfull \hbox (26.56099pt too wide) in paragraph at lines 60--60
+Overfull \hbox (26.56099pt too wide) in paragraph at lines 68--68
 \T1/jkpss/b/n/9 (-20) pre-pa-ra-ti| 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 61.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 61.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 61.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 61.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [19
-
-])
-(./data/Personaggi/Paladino.tex
+) (./data/Personaggi/Paladino.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2554,101 +2543,19 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 44.
 [36
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]\T1/GilliusADFNoTwo-LF/m/n/9 Addestrare Ani-ma-li +17, Ar-ca-no +17, Atle-ti-
-ca +13,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\T1/GilliusADFNoTwo-LF/m/n/9 In-tui-zio-ne +17, Per-ce-zio-ne +17, Ra-pi-di-tà 
-di Ma-no +17, Fur-ti-vi-tà
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]\T1/GilliusADFNoTwo-LF/m/n/9 Vista cie-ca 36 m, vi-sta del-le au-ree 72 m. Pe
-r-ce-zio-ne
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]\T1/GilliusADFNoTwo-LF/m/n/9 Comune, El-fi-co, Sil-va-no, Gno-me-sco, Drui-di
--co,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
-\T1/GilliusADFNoTwo-LF/b/it/9 Tratti di clas-se. \T1/GilliusADFNoTwo-LF/m/n/9 H
-a-li-math è un Mo-na-co del-l'Om-bra Re-den-ta
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
-\T1/GilliusADFNoTwo-LF/m/n/9 di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusAD
-FNoTwo-LF/m/n/9 li-vel-lo e un Mo-na-co del-la via del Sè astra-le di 20\TS1/Gi
-lliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
-\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi.\T1/GilliusADFNoTwo-LF/m/n/9 Halimath
- è un in-can-ta-to-re di 20\TS1/GilliusADFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-
-LF/m/n/9 li-vel-lo, pos-sie-de gli
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
-\T1/GilliusADFNoTwo-LF/m/n/9 slot in-can-te-si-mo ap-pro-pria-ti e co-no-sce tu
-t-ti gli in-can-te-si-mi da
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
-\T1/GilliusADFNoTwo-LF/m/n/9 Drui-do. Re-cu-pe-ra i suoi slot do-po ogni ri-po-
-so lun-go. La CD del
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
-\T1/GilliusADFNoTwo-LF/m/n/9 ti-ro sal-vez-za con-tro que-sti in-can-te-si-mi è
- 25 e il bo-nus al ti-ro per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
-\T1/GilliusADFNoTwo-LF/b/it/9 Pugni. \T1/GilliusADFNoTwo-LF/m/it/9 At-tac-co co
-n Ar-ma da Mi-schia: \T1/GilliusADFNoTwo-LF/m/n/9 +17 per col-pi-re, por-ta-ta 
-5
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
-\T1/GilliusADFNoTwo-LF/m/n/9 Halimath pos-sie-de 52 pun-ti ki che può usa-re pe
-r i po-te-ri di un
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
-\T1/GilliusADFNoTwo-LF/m/n/9 Mo-na-co del-l'Om-bra Re-den-ta di 20\TS1/GilliusA
-DFNoTwo-LF/m/n/9 ° \T1/GilliusADFNoTwo-LF/m/n/9 li-vel-lo e di un Mo-na-co del-
-la
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--168
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
 \T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi in-na-ti. \T1/GilliusADFNoTwo-LF/m/n/
 9 Fil-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--168
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
 \T1/GilliusADFNoTwo-LF/m/n/9 gra-zie al-le sup-pli-che oc-cul-te che pos-sie-de
  e al-la sua raz-za. La
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 []\T1/GilliusADFNoTwo-LF/m/it/9 Invisibilità\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/
 GilliusADFNoTwo-LF/m/it/9 Le-vi-ta-zio-ne\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gil
 liusADFNoTwo-LF/m/it/9 In-ti-mo-ri-re In-fer-na-le\T1/GilliusADFNoTwo-LF/m/n/9 
@@ -2656,26 +2563,26 @@ liusADFNoTwo-LF/m/it/9 In-ti-mo-ri-re In-fer-na-le\T1/GilliusADFNoTwo-LF/m/n/9
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--178
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
 \T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia
 -no-re re-cu-pe-ra i suoi slot in-can-te-si-mo ogni
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--178
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
 \T1/GilliusADFNoTwo-LF/m/n/9 ri-po-so bre-ve. La CD del ti-ro sal-vez-za con-tr
 o que-sti in-can-te-si-mi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 []\T1/GilliusADFNoTwo-LF/m/it/9 Deflagrazione Oc-cul-ta\T1/GilliusADFNoTwo-LF/m
 /n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Gui-da\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/G
 illiusADFNoTwo-LF/m/it/9 In-ter-di-zio-ne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 \T1/GilliusADFNoTwo-LF/m/it/9 al-le La-me\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gil
 liusADFNoTwo-LF/m/it/9 Ma-no Ma-gi-ca\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gillius
 ADFNoTwo-LF/m/it/9 Rin-toc-co dei Mor-ti\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gill
@@ -2684,14 +2591,14 @@ oTwo-LF/m/it/9 Sal-va-re i
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 []\T1/GilliusADFNoTwo-LF/m/it/9 Armatura di Aga-thys\T1/GilliusADFNoTwo-LF/m/n/
 9 , \T1/GilliusADFNoTwo-LF/m/it/9 Char-me su Per-so-ne\T1/GilliusADFNoTwo-LF/m/
 n/9 ,
  []
 
 
-Overfull \hbox (18.089pt too wide) in paragraph at lines 179--180
+Overfull \hbox (18.089pt too wide) in paragraph at lines 113--114
 \T1/GilliusADFNoTwo-LF/m/it/9 Ser-vi-to-re Inos-ser-va-to\T1/GilliusADFNoTwo-LF
 /m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Fran-tu-ma-re\T1/GilliusADFNoTwo-LF/m/n/
 9 , \T1/GilliusADFNoTwo-LF/m/it/9 La-ma d'Om-bra\T1/GilliusADFNoTwo-LF/m/n/9 , 
@@ -2700,7 +2607,7 @@ Overfull \hbox (18.089pt too wide) in paragraph at lines 179--180
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 \T1/GilliusADFNoTwo-LF/m/it/9 Ri-muo-vi Ma-le-di-zio-ne\T1/GilliusADFNoTwo-LF/m
 /n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Vo-la-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1
 /GilliusADFNoTwo-LF/m/it/9 Esi-lio\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADF
@@ -2709,104 +2616,82 @@ usADFNoTwo-LF/m/it/9 Ter-re-no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--185
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
 \T1/GilliusADFNoTwo-LF/b/it/9 Arcanum Mi-sti-co. \T1/GilliusADFNoTwo-LF/m/n/9 F
 il-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--185
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
 \T1/GilliusADFNoTwo-LF/m/n/9 co-me Ar-ca-num Mi-sti-co. Fil-lia-no-re re-cu-pe-
 ra i suoi uti-liz-zi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--185
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
 \T1/GilliusADFNoTwo-LF/m/n/9 del-l'Ar-ca-num Mi-sti-co ogni ri-po-so lun-go. La
  CD del ti-ro sal-vez-za
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
 \T1/GilliusADFNoTwo-LF/b/it/9 Maestro del-l'Oc-cul-to. \T1/GilliusADFNoTwo-LF/m
 /n/9 Una vol-ta per ri-po-so lun-go, Fil-lia-no-re può
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--196
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
 \T1/GilliusADFNoTwo-LF/b/it/9 Poteri del Si-gno-re del-l'As-sur-do. \T1/Gillius
 ADFNoTwo-LF/m/n/9 Il pa-tro-no di Fil-lia-no-re è il
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--196
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
 \T1/GilliusADFNoTwo-LF/m/n/9 Si-gno-re del-l'As-sur-do, quin-di pos-sie-de tut-
 ti i po-te-ri che ne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--199
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
 \T1/GilliusADFNoTwo-LF/b/it/9 Deflagrazione Alea-to-ria. \T1/GilliusADFNoTwo-LF
 /m/n/9 6 vol-te per ri-po-so bre-ve, quan-do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--199
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
 \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re col-pi-sce un ber-sa-glio con il tru
 c-chet-to De-fla-gra-zio-ne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--199
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
 \T1/GilliusADFNoTwo-LF/m/n/9 Oc-cul-ta, co-me azio-ne bo-nus può im-por-re al b
 er-sa-glio di ti-ra-re
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--199
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
 \T1/GilliusADFNoTwo-LF/m/n/9 dal-la ta-bel-la del-la Ma-gia Sel-vag-gia un nu-m
 e-ro di vol-te pa-ri al
  []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 206.
+Package pdftex.def Info: img/paper.jpg  used on input line 150.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 206.
+Package pdftex.def Info: img/paper.jpg  used on input line 150.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 206.
+Package pdftex.def Info: img/paper.jpg  used on input line 150.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 206.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 150.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[37]
-Underfull \vbox (badness 2384) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 225.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 225.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 225.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 225.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [38])
+[37])
 
 Package caption Warning: Unused \captionsetup[table] on input line 26.
 See the caption package documentation for explanation.
@@ -2827,23 +2712,18 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[39
-
-] (./Guida.aux)
+[38] (./Guida.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `Guida.out' has not changed.
-(rerunfilecheck)             Checksum: 8D32F0E8753BD1F49F88077D29387464;11376.
+(rerunfilecheck)             Checksum: 0AE4A8CC826BF4D941EA9C067FC3847C;11376.
  ) 
 Here is how much of TeX's memory you used:
- 35227 strings out of 478287
- 682653 string characters out of 5849289
- 1424923 words of memory out of 5000000
- 51733 multiletter control sequences out of 15000+600000
+ 35220 strings out of 478287
+ 682482 string characters out of 5849289
+ 1429923 words of memory out of 5000000
+ 51723 multiletter control sequences out of 15000+600000
  600670 words of font info for 465 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,18n,122p,1387b,1130s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2874,10 +2754,10 @@ public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 kman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (41 pages, 701934 bytes).
+Output written on Guida.pdf (40 pages, 700258 bytes).
 PDF statistics:
  1059 PDF objects out of 1200 (max. 8388607)
- 888 compressed objects within 9 object streams
- 363 named destinations out of 1000 (max. 500000)
+ 889 compressed objects within 9 object streams
+ 366 named destinations out of 1000 (max. 500000)
  146471 words of extra memory for PDF output out of 154059 (max. 10000000)
 
