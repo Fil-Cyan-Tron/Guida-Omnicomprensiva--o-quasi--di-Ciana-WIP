@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  2 OCT 2023 11:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.20)  29 NOV 2023 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1270,7 +1270,7 @@ LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
-<img/paper.jpg, id=272, 2559.5625pt x 3312.375pt>
+<img/paper.jpg, id=208, 2559.5625pt x 3312.375pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 48.
@@ -1319,108 +1319,78 @@ Overfull \hbox (0.57983pt too wide) detected at line 96
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 98
+Overfull \hbox (0.57983pt too wide) detected at line 106
  \T1/pbk/l/sc/12 12
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 103
+Overfull \hbox (0.57983pt too wide) detected at line 112
  \T1/pbk/l/sc/12 13
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--105
-[]|[]\T1/pbk/l/n/10 (+20) Collegio Bar-di-co: Col-le-gio dei Lu-do-pa-ti-ci 
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 109
- \T1/pbk/l/sc/12 14
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 119
- \T1/pbk/l/sc/12 15
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 123
- \T1/pbk/l/sc/12 16
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 131
- \T1/pbk/l/sc/12 17
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--134
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 []|[]\T1/pbk/l/n/10 (+20) Archetipo La-dre-sco: il Cam-mi-na-to-re del-le 
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 142
- \T1/pbk/l/sc/12 18
+Overfull \hbox (0.57983pt too wide) detected at line 123
+ \T1/pbk/l/sc/12 14
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 145
- \T1/pbk/l/sc/12 19
+Overfull \hbox (0.57983pt too wide) detected at line 126
+ \T1/pbk/l/sc/12 15
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
 []|[]\T1/pbk/l/n/10 (+20) Tradizione Mo-na-sti-ca: Via del-l'Om-bra 
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 168
- \T1/pbk/l/sc/12 21
+Overfull \hbox (0.57983pt too wide) detected at line 149
+ \T1/pbk/l/sc/12 17
  []
 
 
-Overfull \hbox (6.64532pt too wide) in paragraph at lines 171--171
+Overfull \hbox (6.64532pt too wide) in paragraph at lines 152--152
 []|[]\T1/pbk/l/n/10 (-20) Giuramento Di-vi-no: Giu-ra-men-to di Ve-ra-men-te 
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 178
- \T1/pbk/l/sc/12 22
+Overfull \hbox (0.57983pt too wide) detected at line 159
+ \T1/pbk/l/sc/12 18
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 180
- \T1/pbk/l/sc/12 23
+Overfull \hbox (0.57983pt too wide) detected at line 184
+ \T1/pbk/l/sc/12 21
  []
 
 
 Overfull \hbox (0.57983pt too wide) detected at line 205
- \T1/pbk/l/sc/12 26
+ \T1/pbk/l/sc/12 24
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 226
- \T1/pbk/l/sc/12 29
+Overfull \hbox (0.57983pt too wide) detected at line 218
+ \T1/pbk/l/sc/12 25
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 239
+Overfull \hbox (0.57983pt too wide) detected at line 248
+ \T1/pbk/l/sc/12 27
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 263
  \T1/pbk/l/sc/12 30
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 269
- \T1/pbk/l/sc/12 32
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 285
- \T1/pbk/l/sc/12 35
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 295
- \T1/pbk/l/sc/12 36
+Overfull \hbox (0.57983pt too wide) detected at line 274
+ \T1/pbk/l/sc/12 31
  []
 
 )
@@ -1441,7 +1411,7 @@ Package pdftex.def Info: img/paper.jpg  used on input line 49.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <7> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
-<img/footerscroll.pdf, id=412, 596.2275pt x 42.15584pt>
+<img/footerscroll.pdf, id=316, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
@@ -1729,7 +1699,7 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 40.53738pt (N);
 (lettrine.sty)             reported on input line 53.
-) (./data/Personaggi/Artefice.tex
+) (./data/Personaggi/Chierico.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -1753,8 +1723,14 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 ]
 Capitolo 5.
 contour: Using 32 copies for `Capitolo\ 5:' on input line 1.
-contour: Using 32 copies for `Artefice' on input line 1.
-) (./data/Personaggi/Barbaro.tex
+contour: Using 32 copies for `Chierico' on input line 1.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <9> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <9> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 8.
+Missing character: There is no ; in font nullfont!
+(/usr/share/texlive/texmf-dist/tex/latex/gillius/TS1GilliusADFNoTwo-LF.fd))
+(./data/Personaggi/Guerriero.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -1773,113 +1749,9 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [11
 
-
 ]
 Capitolo 6.
 contour: Using 32 copies for `Capitolo\ 6:' on input line 1.
-contour: Using 32 copies for `Barbaro' on input line 1.
-) (./data/Personaggi/Bardo.tex
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [12
-
-
-]
-Capitolo 7.
-contour: Using 32 copies for `Capitolo\ 7:' on input line 1.
-contour: Using 32 copies for `Bardo' on input line 1.
-Missing character: There is no ; in font nullfont!
-) (./data/Personaggi/Chierico.tex
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [13
-
-
-]
-Capitolo 8.
-contour: Using 32 copies for `Capitolo\ 8:' on input line 1.
-contour: Using 32 copies for `Chierico' on input line 1.
-LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <9> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 8.
-LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <9> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 8.
-Missing character: There is no ; in font nullfont!
-(/usr/share/texlive/texmf-dist/tex/latex/gillius/TS1GilliusADFNoTwo-LF.fd))
-(./data/Personaggi/Druido.tex
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [14
-
-]
-Capitolo 9.
-contour: Using 32 copies for `Capitolo\ 9:' on input line 1.
-contour: Using 32 copies for `Druido' on input line 1.
-Missing character: There is no ; in font nullfont!
-) (./data/Personaggi/Guerriero.tex
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [15
-
-
-]
-Capitolo 10.
-contour: Using 32 copies for `Capitolo\ 10:' on input line 1.
 contour: Using 32 copies for `Guerriero' on input line 1.
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <10> not available
 (Font)              Font shape `T1/pbk/db/sc' tried instead on input line 5.
@@ -1973,6 +1845,18 @@ col-po e 4 (1d8) dan-ni
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+\T1/GilliusADFNoTwo-LF/m/n/9 ra-dio-si ag-giun-ti-vi. Sul col-po, ti-ro sal-vez
+-za su Co-sti-tu-zio-ne (CD
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+\T1/GilliusADFNoTwo-LF/m/n/9 19): in ca-so di fal-li-men-to, il ber-sa-glio è s
+tor-di-to fi-no al-la fi-ne del
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 61--63
 \T1/GilliusADFNoTwo-LF/b/it/9 Carica. \T1/GilliusADFNoTwo-LF/m/n/9 Bru-nil-de s
 i muo-ve ver-so una crea-tu-ra en-tro la sua
@@ -1986,26 +1870,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--63
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--67
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
 \T1/GilliusADFNoTwo-LF/b/it/9 Soccorso di-vi-no. \T1/GilliusADFNoTwo-LF/m/n/9 B
 ru-nil-de può te-le-tra-spor-tar-si con una rea-zio-ne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--67
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
 \T1/GilliusADFNoTwo-LF/m/n/9 da-van-ti al guer-rie-ro che l'ha evo-ca-ta e lan-
 cia-re l'in-can-te-si-mo
  []
 
 
-LaTeX Font Warning: Font shape `TS1/pbk/m/sc' undefined
-(Font)              using `TS1/pbk/m/n' instead
-(Font)              for symbol `textdegree' on input line 77.
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+\T1/GilliusADFNoTwo-LF/b/it/9 Colpo di Gra-zia. \T1/GilliusADFNoTwo-LF/m/n/9 Qu
+an-do i pun-ti fe-ri-ta del guer-rie-ro che l'ha
+ []
 
-LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <14.4> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 77.
-LaTeX Font Info:    Font shape `TS1/pbk/m/sc' in size <14.4> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 79.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+\T1/GilliusADFNoTwo-LF/m/n/9 evo-ca-ta scen-do-no a 0, Bru-nil-de si te-le-tra-
+spor-ta sul-la sua
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+\T1/GilliusADFNoTwo-LF/m/n/9 po-si-zio-ne co-me rea-zio-ne e al-l'i-ni-zio del 
+suo pros-si-mo tur-no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+\T1/GilliusADFNoTwo-LF/m/n/9 lan-cia il truc-chet-to \T1/GilliusADFNoTwo-LF/m/i
+t/9 Col-po di Gra-zia \T1/GilliusADFNoTwo-LF/m/n/9 per poi spa-ri-re co-me azio
+-ne
+ []
+
 ) (./data/Personaggi/Ladro.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -2023,11 +1923,11 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [16
+ [12
 
 ]
-Capitolo 11.
-contour: Using 32 copies for `Capitolo\ 11:' on input line 1.
+Capitolo 7.
+contour: Using 32 copies for `Capitolo\ 7:' on input line 1.
 contour: Using 32 copies for `Ladro' on input line 1.
 Missing character: There is no ; in font nullfont!
 Package lettrine.sty Info: Targeted height = 41.41992pt
@@ -2052,11 +1952,11 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [17
+ [13
 
 ]
-Capitolo 12.
-contour: Using 32 copies for `Capitolo\ 12:' on input line 1.
+Capitolo 8.
+contour: Using 32 copies for `Capitolo\ 8:' on input line 1.
 contour: Using 32 copies for `Mago' on input line 1.
 ) (./data/Personaggi/Monaco.tex
 File: img/paper.jpg Graphic file (type jpg)
@@ -2075,12 +1975,12 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [18
+ [14
 
 
 ]
-Capitolo 13.
-contour: Using 32 copies for `Capitolo\ 13:' on input line 1.
+Capitolo 9.
+contour: Using 32 copies for `Capitolo\ 9:' on input line 1.
 contour: Using 32 copies for `Monaco' on input line 1.
 Missing character: There is no ; in font nullfont!
 Package lettrine.sty Info: Targeted height = 41.41992pt
@@ -2103,7 +2003,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 40.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[19
+[15
 
 ] (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/ts1jkpss.fd)
 Overfull \hbox (14.94005pt too wide) in paragraph at lines 68--68
@@ -2152,34 +2052,11 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [20]
-Capitolo 14.
-contour: Using 32 copies for `Capitolo\ 14:' on input line 1.
+ [16]
+Capitolo 10.
+contour: Using 32 copies for `Capitolo\ 10:' on input line 1.
 contour: Using 32 copies for `Paladino' on input line 1.
 Missing character: There is no ; in font nullfont!
-) (./data/Personaggi/Ranger.tex
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [21
-
-]
-Capitolo 15.
-contour: Using 32 copies for `Capitolo\ 15:' on input line 1.
-contour: Using 32 copies for `Ranger' on input line 1.
 ) (./data/Personaggi/Stregone.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -2197,12 +2074,11 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [22
-
+ [17
 
 ]
-Capitolo 16.
-contour: Using 32 copies for `Capitolo\ 16:' on input line 1.
+Capitolo 11.
+contour: Using 32 copies for `Capitolo\ 11:' on input line 1.
 contour: Using 32 copies for `Stregone' on input line 1.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -2226,7 +2102,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 47.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[23
+[18
 
 ]
 Missing character: There is no ; in font nullfont!
@@ -2250,7 +2126,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 87.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[24]) (./data/Personaggi/Warlock.tex
+[19]) (./data/Personaggi/Warlock.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2267,11 +2143,11 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [25
+ [20
 
 ]
-Capitolo 17.
-contour: Using 32 copies for `Capitolo\ 17:' on input line 1.
+Capitolo 12.
+contour: Using 32 copies for `Capitolo\ 12:' on input line 1.
 contour: Using 32 copies for `Warlock' on input line 1.
 Missing character: There is no ; in font nullfont!
 LaTeX Font Info:    Font shape `TS1/pbk/m/it' in size <10> not available
@@ -2297,7 +2173,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 51.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[26
+[21
 
 ]
 Package lettrine.sty Info: Targeted height = 41.41992pt
@@ -2320,7 +2196,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 97.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [27]) (./data/Personaggi/Talenti.tex
+ [22]) (./data/Personaggi/Talenti.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2337,11 +2213,11 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [28
+ [23
 
 ]
-Capitolo 18.
-contour: Using 32 copies for `Capitolo\ 18:' on input line 1.
+Capitolo 13.
+contour: Using 32 copies for `Capitolo\ 13:' on input line 1.
 contour: Using 32 copies for `Talenti' on input line 1.
 ) (./data/Personaggi/Incantesimi.tex
 File: img/paper.jpg Graphic file (type jpg)
@@ -2360,11 +2236,11 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [29
+ [24
 
 ]
-Capitolo 19.
-contour: Using 32 copies for `Capitolo\ 19:' on input line 1.
+Capitolo 14.
+contour: Using 32 copies for `Capitolo\ 14:' on input line 1.
 contour: Using 32 copies for `Incantesimi' on input line 1.
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -2386,7 +2262,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 50.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[30
+[25
 
 ]) (./data/Personaggi/Oggetti.tex
 File: img/paper.jpg Graphic file (type jpg)
@@ -2405,9 +2281,9 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 2.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [31]
-Capitolo 20.
-contour: Using 32 copies for `Capitolo\ 20:' on input line 2.
+ [26]
+Capitolo 15.
+contour: Using 32 copies for `Capitolo\ 15:' on input line 2.
 contour: Using 32 copies for `Oggetti' on input line 2.
 contour: Using 32 copies for `magici' on input line 2.
 Package lettrine.sty Info: Targeted height = 41.41992pt
@@ -2416,21 +2292,21 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             reported on input line 40.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 67.
+Package pdftex.def Info: img/paper.jpg  used on input line 74.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 67.
+Package pdftex.def Info: img/paper.jpg  used on input line 74.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 67.
+Package pdftex.def Info: img/paper.jpg  used on input line 74.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 67.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 74.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[32
+[27
 
 ])
 File: img/paper.jpg Graphic file (type jpg)
@@ -2449,7 +2325,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 97.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [33
+ [28
 
 ]
 contour: Using 32 copies for `Parte\ 3' on input line 97.
@@ -2473,12 +2349,12 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 97.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[34
+[29
 
 
 ] (./data/Eovras/Magia.tex
-Capitolo 21.
-contour: Using 32 copies for `Capitolo\ 21:' on input line 1.
+Capitolo 16.
+contour: Using 32 copies for `Capitolo\ 16:' on input line 1.
 contour: Using 32 copies for `La' on input line 1.
 contour: Using 32 copies for `Magia' on input line 1.
 contour: Using 32 copies for `e' on input line 1.
@@ -2492,7 +2368,7 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.47165pt (I);
-(lettrine.sty)             reported on input line 25.
+(lettrine.sty)             reported on input line 29.
 ) (./data/Eovras/Mythrenwald.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -2510,12 +2386,12 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [35
+ [30
 
 
 ]
-Capitolo 22.
-contour: Using 32 copies for `Capitolo\ 22:' on input line 1.
+Capitolo 17.
+contour: Using 32 copies for `Capitolo\ 17:' on input line 1.
 contour: Using 32 copies for `Foresta' on input line 1.
 contour: Using 32 copies for `di' on input line 1.
 contour: Using 32 copies for `Mythrenwald' on input line 1.
@@ -2540,158 +2416,26 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 44.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[36
+[31
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 99--102
-\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi in-na-ti. \T1/GilliusADFNoTwo-LF/m/n/
-9 Fil-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--102
-\T1/GilliusADFNoTwo-LF/m/n/9 gra-zie al-le sup-pli-che oc-cul-te che pos-sie-de
- e al-la sua raz-za. La
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
-[]\T1/GilliusADFNoTwo-LF/m/it/9 Invisibilità\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/
-GilliusADFNoTwo-LF/m/it/9 Le-vi-ta-zio-ne\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gil
-liusADFNoTwo-LF/m/it/9 In-ti-mo-ri-re In-fer-na-le\T1/GilliusADFNoTwo-LF/m/n/9 
-,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--112
-\T1/GilliusADFNoTwo-LF/b/it/9 Incantesimi. \T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia
--no-re re-cu-pe-ra i suoi slot in-can-te-si-mo ogni
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--112
-\T1/GilliusADFNoTwo-LF/m/n/9 ri-po-so bre-ve. La CD del ti-ro sal-vez-za con-tr
-o que-sti in-can-te-si-mi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-[]\T1/GilliusADFNoTwo-LF/m/it/9 Deflagrazione Oc-cul-ta\T1/GilliusADFNoTwo-LF/m
-/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Gui-da\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/G
-illiusADFNoTwo-LF/m/it/9 In-ter-di-zio-ne
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-\T1/GilliusADFNoTwo-LF/m/it/9 al-le La-me\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gil
-liusADFNoTwo-LF/m/it/9 Ma-no Ma-gi-ca\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gillius
-ADFNoTwo-LF/m/it/9 Rin-toc-co dei Mor-ti\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gill
-iusADFNoTwo-LF/m/it/9 Ri-pa-ra-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADFN
-oTwo-LF/m/it/9 Sal-va-re i
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-[]\T1/GilliusADFNoTwo-LF/m/it/9 Armatura di Aga-thys\T1/GilliusADFNoTwo-LF/m/n/
-9 , \T1/GilliusADFNoTwo-LF/m/it/9 Char-me su Per-so-ne\T1/GilliusADFNoTwo-LF/m/
-n/9 ,
- []
-
-
-Overfull \hbox (18.089pt too wide) in paragraph at lines 113--114
-\T1/GilliusADFNoTwo-LF/m/it/9 Ser-vi-to-re Inos-ser-va-to\T1/GilliusADFNoTwo-LF
-/m/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Fran-tu-ma-re\T1/GilliusADFNoTwo-LF/m/n/
-9 , \T1/GilliusADFNoTwo-LF/m/it/9 La-ma d'Om-bra\T1/GilliusADFNoTwo-LF/m/n/9 , 
-\T1/GilliusADFNoTwo-LF/m/it/9 Con-tro-in-can-te-si-mo\T1/GilliusADFNoTwo-LF/m/n
-/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-\T1/GilliusADFNoTwo-LF/m/it/9 Ri-muo-vi Ma-le-di-zio-ne\T1/GilliusADFNoTwo-LF/m
-/n/9 , \T1/GilliusADFNoTwo-LF/m/it/9 Vo-la-re\T1/GilliusADFNoTwo-LF/m/n/9 , \T1
-/GilliusADFNoTwo-LF/m/it/9 Esi-lio\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/GilliusADF
-NoTwo-LF/m/it/9 Por-ta Di-men-sio-na-le\T1/GilliusADFNoTwo-LF/m/n/9 , \T1/Gilli
-usADFNoTwo-LF/m/it/9 Ter-re-no
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--119
-\T1/GilliusADFNoTwo-LF/b/it/9 Arcanum Mi-sti-co. \T1/GilliusADFNoTwo-LF/m/n/9 F
-il-lia-no-re può lan-cia-re al-cu-ni in-can-te-si-mi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--119
-\T1/GilliusADFNoTwo-LF/m/n/9 co-me Ar-ca-num Mi-sti-co. Fil-lia-no-re re-cu-pe-
-ra i suoi uti-liz-zi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--119
-\T1/GilliusADFNoTwo-LF/m/n/9 del-l'Ar-ca-num Mi-sti-co ogni ri-po-so lun-go. La
- CD del ti-ro sal-vez-za
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--127
-\T1/GilliusADFNoTwo-LF/b/it/9 Maestro del-l'Oc-cul-to. \T1/GilliusADFNoTwo-LF/m
-/n/9 Una vol-ta per ri-po-so lun-go, Fil-lia-no-re può
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
-\T1/GilliusADFNoTwo-LF/b/it/9 Poteri del Si-gno-re del-l'As-sur-do. \T1/Gillius
-ADFNoTwo-LF/m/n/9 Il pa-tro-no di Fil-lia-no-re è il
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
-\T1/GilliusADFNoTwo-LF/m/n/9 Si-gno-re del-l'As-sur-do, quin-di pos-sie-de tut-
-ti i po-te-ri che ne
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--133
-\T1/GilliusADFNoTwo-LF/b/it/9 Deflagrazione Alea-to-ria. \T1/GilliusADFNoTwo-LF
-/m/n/9 6 vol-te per ri-po-so bre-ve, quan-do
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--133
-\T1/GilliusADFNoTwo-LF/m/n/9 Fil-lia-no-re col-pi-sce un ber-sa-glio con il tru
-c-chet-to De-fla-gra-zio-ne
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--133
-\T1/GilliusADFNoTwo-LF/m/n/9 Oc-cul-ta, co-me azio-ne bo-nus può im-por-re al b
-er-sa-glio di ti-ra-re
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--133
-\T1/GilliusADFNoTwo-LF/m/n/9 dal-la ta-bel-la del-la Ma-gia Sel-vag-gia un nu-m
-e-ro di vol-te pa-ri al
- []
-
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 150.
+Package pdftex.def Info: img/paper.jpg  used on input line 79.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 150.
+Package pdftex.def Info: img/paper.jpg  used on input line 79.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 150.
+Package pdftex.def Info: img/paper.jpg  used on input line 79.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 150.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 79.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[37])
+ [32])
 
 Package caption Warning: Unused \captionsetup[table] on input line 26.
 See the caption package documentation for explanation.
@@ -2712,19 +2456,16 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[38] (./Guida.aux)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
+[33] (./Guida.aux)
 Package rerunfilecheck Info: File `Guida.out' has not changed.
-(rerunfilecheck)             Checksum: 0AE4A8CC826BF4D941EA9C067FC3847C;11376.
+(rerunfilecheck)             Checksum: 9BC25181D2E5C134B5EE7898CB82A05F;8248.
  ) 
 Here is how much of TeX's memory you used:
- 35220 strings out of 478287
- 682482 string characters out of 5849289
- 1429923 words of memory out of 5000000
- 51723 multiletter control sequences out of 15000+600000
- 600670 words of font info for 465 fonts, out of 8000000 for 9000
+ 35089 strings out of 478287
+ 680154 string characters out of 5849289
+ 1429922 words of memory out of 5000000
+ 51646 multiletter control sequences out of 15000+600000
+ 599157 words of font info for 453 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,18n,122p,1387b,1130s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
@@ -2754,10 +2495,12 @@ public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 kman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (40 pages, 700258 bytes).
+Output written on Guida.pdf (35 pages, 683845 bytes).
 PDF statistics:
- 1059 PDF objects out of 1200 (max. 8388607)
- 889 compressed objects within 9 object streams
- 366 named destinations out of 1000 (max. 500000)
- 146471 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 930 PDF objects out of 1000 (max. 8388607)
+ 782 compressed objects within 8 object streams
+ 342 named destinations out of 1000 (max. 500000)
+ 142247 words of extra memory for PDF output out of 154059 (max. 10000000)
+
+rds of extra memory for PDF output out of 154059 (max. 10000000)
 

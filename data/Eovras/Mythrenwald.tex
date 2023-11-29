@@ -63,77 +63,6 @@ La foresta di Mythrenwald, per quanto antica e potente, non è invincibile di fr
 
 \paragraph{Accoglienza e ospitalità} Il Circolo è nato da un gruppo di rifugiati in cerca di una casa, questo non deve essere mai dimenticato. Chiunque voglia unirsi è bene accetto, come ogni viaggiatore in cerca di ospitalità, indipendentemente dalla sua razza o dalle sue origni.
 
-\begin{DndMonster}[float*=b,width=\textwidth + 8pt]{Fillianore Halamis}
-  \begin{multicols}{2}
-    \DndMonsterType{Tiefling, buono caotico}
-
-    % If you want to use commas in the key values, enclose the values in braces.
-    \DndMonsterBasics[
-        armor-class = {16 (Armatura Magica)},
-        hit-points  = {\DndDice{20d8 + 100}},
-        speed       = {9 m},
-      ]
-
-    \DndMonsterAbilityScores[
-        str = 16,
-        dex = 16,
-        con = 20,
-        int = 16,
-        wis = 16,
-        cha = 20,
-      ]
-
-    \DndMonsterDetails[
-        saving-throws = {Sag +9, Car +11},
-        skills = {Acrobazia +9, Inganno +11, Intimidire +11, Intrattenere +11},
-        %damage-vulnerabilities = {cold},
-        damage-resistances = {Fuoco},
-        %damage-immunities = {poison},
-        %condition-immunities = {Avvelenato,},
-        senses = {Vista Pura 36m. Percezione Passiva 13},
-        languages = {Comune, Infernale, Silvano, Celestiale, Elfico},
-        challenge = 10,
-      ]
-    % Traits
-
-    \DndMonsterAction{Incantesimi innati}
-    Fillianore può lanciare alcuni incantesimi grazie alle suppliche occulte che possiede e alla sua razza. La CD del tiro salvezza contro questi incantesimi è 19.
-    \begin{DndMonsterSpells}
-      \DndMonsterSpellLevel{Taumaturgia}
-      \DndMonsterSpellLevel[1]{Armatura Magica, Camuffare Sè Stesso}
-      \DndMonsterSpellLevel[2]{Invisibilità, Levitazione, Intimorire Infernale, Oscurità}
-      \DndMonsterSpellLevel[3]{Inviare (su 6 persone prescelte)}
-    \end{DndMonsterSpells}
-
-
-    \DndMonsterAction{Incantesimi}
-    Fillianore recupera i suoi slot incantesimo ogni riposo breve. La CD del tiro salvezza contro questi incantesimi è 19.
-    \begin{DndMonsterSpells}
-      \DndMonsterSpellLevel{Deflagrazione Occulta, Guida, Interdizione alle Lame, Mano Magica, Rintocco dei Morti, Riparare, Salvare i Morenti}
-      \DndMonsterSpellLevel[5][5 slot]{Armatura di Agathys, Charme su Persone, Servitore Inosservato, Frantumare, Lama d'Ombra, Controincantesimo, Rimuovi Maledizione, Volare, Esilio, Porta Dimensionale, Terreno Illusorio, Contattare Altri Piani, Scrutare, Sogno}
-    \end{DndMonsterSpells}
-
-    \DndMonsterAction{Arcanum Mistico}
-    Fillianore può lanciare alcuni incantesimi come Arcanum Mistico. Fillianore recupera i suoi utilizzi dell'Arcanum Mistico ogni riposo lungo. La CD del tiro salvezza contro questi incantesimi è 19.
-    \begin{DndMonsterSpells}
-      \DndMonsterSpellLevel[6][2]{Gabbia dell'Anima}
-      \DndMonsterSpellLevel[7][2]{Spostamento Planare}
-      \DndMonsterSpellLevel[8][2]{Parola del Potere Stordire}
-      \DndMonsterSpellLevel[9][2]{Proiezione Astrale}
-    \end{DndMonsterSpells}
-
-    \DndMonsterAction{Maestro dell'Occulto}
-    Una volta per riposo lungo, Fillianore può meditare per un minuto per riottenere i suoi slot spesi.
-
-    \DndMonsterAction{Poteri del Signore dell'Assurdo}
-    Il patrono di Fillianore è il Signore dell'Assurdo, quindi possiede tutti i poteri che ne derivano.
-
-    \DndMonsterAction{Deflagrazione Aleatoria}
-    6 volte per riposo breve, quando Fillianore colpisce un bersaglio con il trucchetto Deflagrazione Occulta, come azione bonus può imporre al bersaglio di tirare dalla tabella della Magia Selvaggia un numero di volte pari al numero di raggi da cui è stato colpito.
-
-  \end{multicols}
-\end{DndMonster}
-
 \subsection{La struttura del Circolo}
 
 Sebbene in origine il Circolo della Luna fosse un'associazione piuttosto disorganizzata, col tempo è andata costituendosi una struttura gerarchica basata sulla conoscenza delle rune della corteccia.
@@ -160,4 +89,17 @@ Capita che i Tiefling come la giovane Fillianore Halamis nascano da famiglie uma
 
 \subsubsection{L'incontro col Triangolo}
 
-Frustrata, spaventata e delusa, Fillianore si allontanò da Mythrenberg e iniziò ad esplorare parti più profonde e misteriose della foresta... fino ad incontrare una strana radura triangolare, al cui centro si trovava un piccolo stagno. La radura e lo stagno erano popolate da piante e animali... strani è la parola giusta. Sembravano in tutto e per tutto identici a quelli tipici della foresta, ma avevano un indefinibile \textit{qualcosa} di sbagliato. \\ Non si sa esattamente come Bill si sia presentato a Fillianore, nè quali fossero i termini del loro patto... Ma una volta uscita dalla radura, era chiaro che ci fosse qualcosa di diverso in lei. Tornò a Mythrenberg, dove vive tutt'ora con sua madre, ma da quel giorno ogni settimana, a mezzanotte tra il giovedì e il venerdì, apre un portale e sparisce per il resto della nottata... Chissà dove va...
+Frustrata, spaventata e delusa, Fillianore si allontanò da Mythrenberg e iniziò ad esplorare parti più profonde e misteriose della foresta... fino ad incontrare una strana radura triangolare, al cui centro si trovava un piccolo stagno. La radura e lo stagno erano popolate da piante e animali... strani è la parola giusta. Sembravano in tutto e per tutto identici a quelli tipici della foresta, ma avevano un indefinibile \textit{qualcosa} di sbagliato. \\ Non si sa esattamente come Bill si sia presentato a Fillianore, nè quali siano i termini del loro patto... Ma una volta uscita dalla radura, era chiaro che ci fosse qualcosa di diverso in lei. Tornò a Mythrenberg, dove vive tutt'ora con sua madre, ma da quel giorno ogni settimana, a mezzanotte tra il giovedì e il venerdì, apre un portale e sparisce per il resto della nottata... Chissà dove va...
+
+\subsection{Cianar Demellin}
+
+\subsubsection{Quando Pierino È il lupo}
+
+Non è raro che, vivendo in una diavolo di foresta incantata, capiti di incontrare animali molto più amichevoli e intelligenti del normale, addirittura in grado di parlare. È leggermente meno comune che questi animali poco dopo essersi fatti accarezzare si trasformino in persone e se ne vadano in biblioteca a leggersi un libro di cucina.\\
+Eppure è questo quello che può capitare a chi incontra il nostro buon Cianar, un Guerriero umano come tanti... se non fosse che spesso e volentieri decide di passare il suo tempo sotto forma di lupo, più grosso del normale ma sicuramente più amichevole. A meno che non ve lo troviate davanti arrabbiato, perchè sapete cosa c'è di peggio di un lupo inferocito? Un lupo inferocito con una spada.
+
+\subsubsection{Prescelto o sognatore?}
+
+Le avventure di Cianar cominciano una notte, quando riceve quello che può davvero sembrare un sogno profetico: una fanciulla addormentata su un letto di rovi in fiamme in cima a una montagna e una voce che lo sprona a partire per salvarla "senza temere la lancia del destino".\\
+Nota del redattore: il consenso generale tra i druidi di Mythrenwald è che questo sogno \textit{non} è stato mandato da nessuna divinità o spirito ultraterreno, semplicemente il nostro Cianar è tremendamente suggestionabile e si è sognato come il protagonista di un'opera di un famoso bardo della città di Orgelgrad. Ma lui ne è davvero convinto ed è da quella notte che si prepara a partire per la grande avventura della sua vita.\\
+Solo un matto potrebbe assecondarlo... infatti Fillianore è la sua prima sostenitrice.
