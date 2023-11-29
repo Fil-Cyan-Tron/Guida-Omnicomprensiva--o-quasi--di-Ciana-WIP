@@ -297,7 +297,7 @@
 \contentsline {paragraph}{Kur il bibliotecario}{32}{paragraph*.276}%
 \contentsline {paragraph}{Il consiglio degli anziani}{32}{paragraph*.277}%
 \contentsline {paragraph}{L'Assemblea}{32}{paragraph*.278}%
-\contentsline {paragraph}{L'ordine dei viaggiatori}{32}{paragraph*.279}%
+\contentsline {paragraph}{L'ordine dei viaggiatori}{33}{paragraph*.279}%
 \contentsline {subsubsection}{Y'Keah il carpentiere}{33}{subsubsection*.280}%
 \contentsline {subsection}{Fillianore Halamis}{33}{subsection*.281}%
 \contentsline {subsubsection}{Figlia dell'Abisso}{33}{subsubsection*.282}%
