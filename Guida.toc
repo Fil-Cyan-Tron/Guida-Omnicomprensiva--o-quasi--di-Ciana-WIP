@@ -189,13 +189,13 @@
 \contentsline {paragraph}{Dopo un aumento di livello}{21}{paragraph*.174}%
 \contentsline {paragraph}{Dopo due aumenti di livello o al 20° livello}{21}{paragraph*.175}%
 \contentsline {subsubsection}{Deflagrazione Aleatoria}{21}{subsubsection*.176}%
-\contentsline {section}{Patrono Ultraterreno: lo Spazio Proiettivo}{21}{section*.177}%
+\contentsline {section}{Patrono Ultraterreno: Spazio Proiettivo}{21}{section*.177}%
 \contentsline {subsection}{Lista degli incantesimi ampliata}{21}{subsection*.178}%
 \contentsline {subsection}{Forma lineare associata}{21}{subsection*.179}%
 \contentsline {subsection}{Omogeneizzazione}{21}{subsection*.180}%
 \contentsline {subsection}{Proiezione}{22}{subsection*.181}%
 \contentsline {subsection}{Chiusura Proiettiva di Bézout}{22}{subsection*.182}%
-\contentsline {section}{Patrono Ultraterreno: il Signore dell'Assurdo}{22}{section*.183}%
+\contentsline {section}{Patrono Ultraterreno: Signore dell'Assurdo}{22}{section*.183}%
 \contentsline {subsection}{Lista degli incantesimi ampliata}{22}{subsection*.184}%
 \contentsline {subsection}{Squarcio della fortuna}{22}{subsection*.185}%
 \contentsline {subsection}{Deflagrazione deflagrante}{22}{subsection*.186}%
