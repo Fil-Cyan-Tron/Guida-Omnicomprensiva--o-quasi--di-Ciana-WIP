@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.20)  29 NOV 2023 17:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.20)  6 DEC 2023 16:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1270,7 +1270,7 @@ LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
-<img/paper.jpg, id=199, 2559.5625pt x 3312.375pt>
+<img/paper.jpg, id=203, 2559.5625pt x 3312.375pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 48.
@@ -1374,18 +1374,18 @@ Overfull \hbox (0.57983pt too wide) detected at line 216
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 246
- \T1/pbk/l/sc/12 26
+Overfull \hbox (0.57983pt too wide) detected at line 247
+ \T1/pbk/l/sc/12 27
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 261
- \T1/pbk/l/sc/12 29
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 272
+Overfull \hbox (0.57983pt too wide) detected at line 271
  \T1/pbk/l/sc/12 30
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 283
+ \T1/pbk/l/sc/12 31
  []
 
 )
@@ -1406,7 +1406,7 @@ Package pdftex.def Info: img/paper.jpg  used on input line 49.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <7> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
-<img/footerscroll.pdf, id=304, 596.2275pt x 42.15584pt>
+<img/footerscroll.pdf, id=310, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
@@ -2235,7 +2235,24 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 50.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [24
 
-]) (./data/Personaggi/Oggetti.tex
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 105.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 105.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 105.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 105.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [25]) (./data/Personaggi/Oggetti.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 2.
@@ -2252,32 +2269,30 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 2.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [25]
+ [26
+
+]
 Capitolo 14.
 contour: Using 32 copies for `Capitolo\ 14:' on input line 2.
 contour: Using 32 copies for `Oggetti' on input line 2.
 contour: Using 32 copies for `magici' on input line 2.
-Package lettrine.sty Info: Targeted height = 41.41992pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 40.53738pt (N);
-(lettrine.sty)             reported on input line 40.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 74.
+Package pdftex.def Info: img/paper.jpg  used on input line 72.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 74.
+Package pdftex.def Info: img/paper.jpg  used on input line 72.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 74.
+Package pdftex.def Info: img/paper.jpg  used on input line 72.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 74.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 72.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[26
+[27
 
 ])
 File: img/paper.jpg Graphic file (type jpg)
@@ -2296,9 +2311,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 97.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [27
-
-]
+ [28]
 contour: Using 32 copies for `Parte\ 3' on input line 97.
 contour: Using 32 copies for `Il' on input line 97.
 contour: Using 32 copies for `Mondo' on input line 97.
@@ -2320,7 +2333,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 97.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[28
+[29
 
 
 ] (./data/Eovras/Magia.tex
@@ -2339,7 +2352,7 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.47165pt (I);
-(lettrine.sty)             reported on input line 29.
+(lettrine.sty)             reported on input line 33.
 ) (./data/Eovras/Mythrenwald.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -2357,7 +2370,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [29
+ [30
 
 
 ]
@@ -2387,7 +2400,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 44.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[30
+[31
 
 ]
 File: img/paper.jpg Graphic file (type jpg)
@@ -2406,7 +2419,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 78.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [31])
+ [32])
 
 Package caption Warning: Unused \captionsetup[table] on input line 26.
 See the caption package documentation for explanation.
@@ -2427,16 +2440,16 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[32] (./Guida.aux)
+[33] (./Guida.aux)
 Package rerunfilecheck Info: File `Guida.out' has not changed.
-(rerunfilecheck)             Checksum: 977E886432E468B9090A5C876E2DCD4D;7930.
+(rerunfilecheck)             Checksum: E6D633B73E850CFED0BFB478EBCFDC35;8387.
  ) 
 Here is how much of TeX's memory you used:
- 35071 strings out of 478287
- 679810 string characters out of 5849289
+ 35105 strings out of 478287
+ 680313 string characters out of 5849289
  1429922 words of memory out of 5000000
- 51634 multiletter control sequences out of 15000+600000
- 599157 words of font info for 453 fonts, out of 8000000 for 9000
+ 51643 multiletter control sequences out of 15000+600000
+ 600302 words of font info for 462 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,18n,122p,1387b,1130s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
@@ -2466,10 +2479,10 @@ public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 kman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (34 pages, 682353 bytes).
+Output written on Guida.pdf (35 pages, 686112 bytes).
 PDF statistics:
- 914 PDF objects out of 1000 (max. 8388607)
- 769 compressed objects within 8 object streams
- 339 named destinations out of 1000 (max. 500000)
- 142231 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 936 PDF objects out of 1000 (max. 8388607)
+ 789 compressed objects within 8 object streams
+ 351 named destinations out of 1000 (max. 500000)
+ 142239 words of extra memory for PDF output out of 154059 (max. 10000000)
 
