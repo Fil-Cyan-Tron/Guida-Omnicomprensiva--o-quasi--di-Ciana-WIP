@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.20)  6 DEC 2023 16:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.20)  6 DEC 2023 17:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1379,12 +1379,12 @@ Overfull \hbox (0.57983pt too wide) detected at line 247
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 275
+Overfull \hbox (0.57983pt too wide) detected at line 277
  \T1/pbk/l/sc/12 31
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 287
+Overfull \hbox (0.57983pt too wide) detected at line 289
  \T1/pbk/l/sc/12 32
  []
 
@@ -2278,40 +2278,40 @@ contour: Using 32 copies for `Oggetti' on input line 2.
 contour: Using 32 copies for `magici' on input line 2.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 79.
+Package pdftex.def Info: img/paper.jpg  used on input line 82.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 79.
+Package pdftex.def Info: img/paper.jpg  used on input line 82.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 79.
+Package pdftex.def Info: img/paper.jpg  used on input line 82.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 79.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 82.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [27
 
-])
+]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 96.
+Package pdftex.def Info: img/paper.jpg  used on input line 120.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 96.
+Package pdftex.def Info: img/paper.jpg  used on input line 120.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 96.
+Package pdftex.def Info: img/paper.jpg  used on input line 120.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 96.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 120.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [28]
+ [28])
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 97.
@@ -2461,11 +2461,11 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [34] (./Guida.aux)
 Package rerunfilecheck Info: File `Guida.out' has not changed.
-(rerunfilecheck)             Checksum: E0A24661659F7DE9D9596236B13B7846;8387.
+(rerunfilecheck)             Checksum: F01735F6D02A0317B4C831947EADA2E4;8387.
  ) 
 Here is how much of TeX's memory you used:
- 35118 strings out of 478287
- 680560 string characters out of 5849289
+ 35120 strings out of 478287
+ 680590 string characters out of 5849289
  1429922 words of memory out of 5000000
  51651 multiletter control sequences out of 15000+600000
  600302 words of font info for 462 fonts, out of 8000000 for 9000
@@ -2498,10 +2498,10 @@ public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 kman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (36 pages, 688475 bytes).
+Output written on Guida.pdf (36 pages, 689088 bytes).
 PDF statistics:
- 945 PDF objects out of 1000 (max. 8388607)
- 797 compressed objects within 8 object streams
- 356 named destinations out of 1000 (max. 500000)
+ 947 PDF objects out of 1000 (max. 8388607)
+ 799 compressed objects within 8 object streams
+ 358 named destinations out of 1000 (max. 500000)
  142239 words of extra memory for PDF output out of 154059 (max. 10000000)
 
