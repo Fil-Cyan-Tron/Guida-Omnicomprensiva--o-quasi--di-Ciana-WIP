@@ -22,6 +22,7 @@
 \contentsline {paragraph}{La visione}{2}{}%
 \contentsline {paragraph}{Le fiamme}{2}{}%
 \contentsline {paragraph}{Agathys}{2}{}%
+\contentsline {paragraph}{Lavori}{2}{}%
 \contentsline {paragraph}{Parole del potere}{2}{}%
 \contentsline {subsection}{Cosa vuole Aiden?}{2}{}%
 \contentsline {subsubsection}{Indizi}{2}{}%
@@ -29,10 +30,10 @@
 \contentsline {paragraph}{Interventi}{2}{}%
 \contentsline {section}{Gordie di Glasogonbjorn}{2}{}%
 \contentsline {subsection}{Chi è il ladro misterioso? (Risolto)}{2}{}%
-\contentsline {subsubsection}{Indizi}{2}{}%
-\contentsline {paragraph}{Barili, comodini e mobili vari}{2}{}%
-\contentsline {paragraph}{Tasche leggere}{2}{}%
 \contentsfinish 
+\contentsline {subsubsection}{Indizi}{3}{}%
+\contentsline {paragraph}{Barili, comodini e mobili vari}{3}{}%
+\contentsline {paragraph}{Tasche leggere}{3}{}%
 \contentsline {subsubsection}{Risposta}{3}{}%
 \contentsline {subsection}{Perchè Gordie segue i nostri eroi?}{3}{}%
 \contentsline {section}{La Cripta di Caratheodoryx}{3}{}%
