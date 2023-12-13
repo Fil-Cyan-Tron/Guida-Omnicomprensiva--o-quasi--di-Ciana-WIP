@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.20)  13 DEC 2023 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.20)  13 DEC 2023 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2469,11 +2469,11 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 109.
 
 ] (./Guida.aux) ) 
 Here is how much of TeX's memory you used:
- 28444 strings out of 478287
- 577044 string characters out of 5849289
+ 28447 strings out of 478287
+ 577071 string characters out of 5849289
  1331620 words of memory out of 5000000
  45386 multiletter control sequences out of 15000+600000
- 608400 words of font info for 486 fonts, out of 8000000 for 9000
+ 608593 words of font info for 488 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,18n,122p,1387b,1117s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/u
@@ -2503,7 +2503,7 @@ ts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/b
 ookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (43 pages, 705535 bytes).
+Output written on Guida.pdf (43 pages, 705654 bytes).
 PDF statistics:
  284 PDF objects out of 1000 (max. 8388607)
  184 compressed objects within 2 object streams

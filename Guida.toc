@@ -235,7 +235,7 @@
 \contentsline {subsection}{(S)fortunato}{25}{}%
 \contentsline {subsection}{Divertimento Extraplanare}{26}{}%
 \contentsline {subsection}{Pandemonio}{26}{}%
-\contentsline {section}{Benefattore Temporale}{26}{}%
+\contentsline {section}{Patrono Ultraterreno: Benefattore Temporale}{26}{}%
 \contentsline {subsection}{Lista degli incantesimi ampliata}{26}{}%
 \contentsline {subsection}{Biglietto da Visita}{26}{}%
 \contentsline {subsection}{Aiutino}{26}{}%
