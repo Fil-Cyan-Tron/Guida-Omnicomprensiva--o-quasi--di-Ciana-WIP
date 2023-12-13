@@ -235,6 +235,12 @@
 \contentsline {subsection}{(S)fortunato}{25}{}%
 \contentsline {subsection}{Divertimento Extraplanare}{26}{}%
 \contentsline {subsection}{Pandemonio}{26}{}%
+\contentsline {section}{Benefattore Temporale}{26}{}%
+\contentsline {subsection}{Lista degli incantesimi ampliata}{26}{}%
+\contentsline {subsection}{Biglietto da Visita}{26}{}%
+\contentsline {subsection}{Aiutino}{26}{}%
+\contentsline {subsection}{Progressi accelerati}{26}{}%
+\contentsline {subsection}{Giro di Orologio}{26}{}%
 \contentsline {chapter}{\numberline {13}Talenti}{27}{}%
 \contentsline {subsection}{Campo Soprannaturale}{27}{}%
 \contentsline {paragraph}{Campo Soprannaturale}{27}{}%
