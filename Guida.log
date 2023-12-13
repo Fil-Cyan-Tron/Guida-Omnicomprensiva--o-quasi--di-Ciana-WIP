@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.20)  13 DEC 2023 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.20)  13 DEC 2023 17:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1208,43 +1208,43 @@ Overfull \hbox (0.57983pt too wide) detected at line 157
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 192
- \T1/pbk/l/sc/12 21
+Overfull \hbox (0.57983pt too wide) detected at line 209
+ \T1/pbk/l/sc/12 22
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 217
- \T1/pbk/l/sc/12 24
+Overfull \hbox (0.57983pt too wide) detected at line 234
+ \T1/pbk/l/sc/12 25
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 244
- \T1/pbk/l/sc/12 27
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 257
+Overfull \hbox (0.57983pt too wide) detected at line 261
  \T1/pbk/l/sc/12 28
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 288
- \T1/pbk/l/sc/12 31
+Overfull \hbox (0.57983pt too wide) detected at line 274
+ \T1/pbk/l/sc/12 29
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 341
- \T1/pbk/l/sc/12 37
+Overfull \hbox (0.57983pt too wide) detected at line 305
+ \T1/pbk/l/sc/12 32
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 353
+Overfull \hbox (0.57983pt too wide) detected at line 358
  \T1/pbk/l/sc/12 38
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 389
- \T1/pbk/l/sc/12 42
+Overfull \hbox (0.57983pt too wide) detected at line 370
+ \T1/pbk/l/sc/12 39
+ []
+
+
+Overfull \hbox (0.57983pt too wide) detected at line 406
+ \T1/pbk/l/sc/12 43
  []
 
 )
@@ -1969,7 +1969,24 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 141.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [19]) (./data/Personaggi/Stregone.tex
+ [19]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 177.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 177.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 177.
+(pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 177.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [20]) (./data/Personaggi/Stregone.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -1986,9 +2003,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [20
-
-]
+ [21]
 Capitolo 11.
 contour: Using 32 copies for `Capitolo\ 11:' on input line 1.
 contour: Using 32 copies for `Stregone' on input line 1.
@@ -2014,7 +2029,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 47.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[21
+[22
 
 ]
 Missing character: There is no ; in font nullfont!
@@ -2038,7 +2053,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 87.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[22]) (./data/Personaggi/Warlock.tex
+[23]) (./data/Personaggi/Warlock.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2055,7 +2070,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [23
+ [24
 
 ]
 Capitolo 12.
@@ -2084,7 +2099,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[24
+[25
 
 ]
 Missing character: There is no ; in font nullfont!
@@ -2108,7 +2123,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 94.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[25]
+[26]
 Missing character: There is no ; in font nullfont!
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -2131,7 +2146,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [26]
+ [27]
 Capitolo 13.
 contour: Using 32 copies for `Capitolo\ 13:' on input line 1.
 contour: Using 32 copies for `Talenti' on input line 1.
@@ -2152,7 +2167,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [27
+ [28
 
 ]
 Capitolo 14.
@@ -2178,7 +2193,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 51.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[28
+[29
 
 ]
 File: img/paper.jpg Graphic file (type jpg)
@@ -2197,7 +2212,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 107.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [29]) (./data/Personaggi/Oggetti.tex
+ [30]) (./data/Personaggi/Oggetti.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 2.
@@ -2214,7 +2229,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 2.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [30
+ [31
 
 ]
 Capitolo 15.
@@ -2237,7 +2252,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 37.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[31
+[32
 
 ]
 File: img/paper.jpg Graphic file (type jpg)
@@ -2256,7 +2271,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 86.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [32]
+ [33]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 129.
@@ -2273,7 +2288,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 129.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [33]
+ [34]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 169.
@@ -2290,7 +2305,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 169.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [34])
+ [35])
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 99.
@@ -2307,7 +2322,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 99.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [35
+ [36
 
 ]
 contour: Using 32 copies for `Parte\ 3' on input line 99.
@@ -2331,7 +2346,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 99.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[36
+[37
 
 
 ] (./data/Eovras/Magia.tex
@@ -2368,7 +2383,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [37
+ [38
 
 
 ]
@@ -2398,7 +2413,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 44.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[38
+[39
 
 ]
 File: img/paper.jpg Graphic file (type jpg)
@@ -2417,7 +2432,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 78.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [39])
+ [40])
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 105.
@@ -2434,7 +2449,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 105.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [40]
+ [41]
 contour: Using 32 copies for `Parte\ 4' on input line 105.
 contour: Using 32 copies for `Appendice' on input line 105.
 File: img/paper.jpg Graphic file (type jpg)
@@ -2453,7 +2468,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 105.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[41
+[42
 
 
 ] (./data/Appendice/Creature.tex
@@ -2481,16 +2496,16 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 109.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[42
+[43
 
 
 
 ] (./Guida.aux) ) 
 Here is how much of TeX's memory you used:
- 28465 strings out of 478287
- 577351 string characters out of 5849289
+ 28473 strings out of 478287
+ 577531 string characters out of 5849289
  1331620 words of memory out of 5000000
- 45395 multiletter control sequences out of 15000+600000
+ 45403 multiletter control sequences out of 15000+600000
  609360 words of font info for 494 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,18n,122p,1387b,1117s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2521,10 +2536,10 @@ ts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/b
 ookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (44 pages, 710207 bytes).
+Output written on Guida.pdf (45 pages, 717643 bytes).
 PDF statistics:
- 287 PDF objects out of 1000 (max. 8388607)
- 186 compressed objects within 2 object streams
+ 290 PDF objects out of 1000 (max. 8388607)
+ 188 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  150039 words of extra memory for PDF output out of 154059 (max. 10000000)
 
