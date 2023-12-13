@@ -304,9 +304,11 @@
 \contentsline {subsubsection}{Macrocostrutto}{32}{}%
 \contentsline {subsubsection}{Stasys++}{32}{}%
 \contentsline {subsection}{Quaderno del Demiurgo}{32}{}%
+\contentsline {subsubsection}{}{32}{}%
 \contentsline {subsection}{Prigione fluida di Absynthe}{32}{}%
 \contentsline {subsection}{Borsa degli arnesi stupefacenti di Skardy}{32}{}%
 \contentsline {subsection}{Sintetizzatore d'Ebano di Tauriel Halamis}{32}{}%
+\contentsline {subsubsection}{Sintesi assoluta}{32}{}%
 \contentsline {subsection}{Scudo della Lealtà di Artorias}{32}{}%
 \contentsline {section}{Oggetti non legati ai personaggi dei giocatori}{32}{}%
 \contentsline {subsection}{Guanti del CleptoMana}{32}{}%
@@ -323,7 +325,7 @@
 \contentsline {subsubsection}{Squarcio dimensionale}{33}{}%
 \contentsline {subsubsection}{Fenditura silenziosa}{33}{}%
 \contentsline {subsubsection}{Strappo duraturo}{33}{}%
-\contentsline {subsubsection}{Gringott}{33}{}%
+\contentsline {subsubsection}{Gringott}{34}{}%
 \contentsline {subsubsection}{Espansione immobiliare}{34}{}%
 \contentsline {subsubsection}{Fendispazio}{34}{}%
 \contentsline {subsubsection}{Fendispazio interplanare}{34}{}%
