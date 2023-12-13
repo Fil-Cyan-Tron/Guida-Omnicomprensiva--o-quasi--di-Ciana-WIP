@@ -232,7 +232,7 @@
 \contentsline {subsection}{Lista degli incantesimi ampliata}{25}{}%
 \contentsline {subsection}{Squarcio della fortuna}{25}{}%
 \contentsline {subsection}{Deflagrazione deflagrante}{25}{}%
-\contentsline {subsection}{(S)fortunato}{25}{}%
+\contentsline {subsection}{(S)fortunato}{26}{}%
 \contentsline {subsection}{Divertimento Extraplanare}{26}{}%
 \contentsline {subsection}{Pandemonio}{26}{}%
 \contentsline {section}{Patrono Ultraterreno: Benefattore Temporale}{26}{}%
