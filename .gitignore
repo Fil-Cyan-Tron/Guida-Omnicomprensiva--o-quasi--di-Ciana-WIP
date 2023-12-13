@@ -1,0 +1,6 @@
+#Ignora i log e i file temporanei
+*.log
+*.aux
+*.out
+*.synctex.gz
+*.toc
