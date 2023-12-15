@@ -5,3 +5,6 @@ pdflatex Guida.tex
 pdflatex Misteri.tex
 pdflatex Misteri.tex
 pdflatex Misteri.tex
+pdflatex DMSecrets.tex
+pdflatex DMSecrets.tex
+pdflatex DMSecrets.tex
