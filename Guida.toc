@@ -343,74 +343,83 @@
 \contentsline {subsection}{Sintetizzatore d'Ebano di Tauriel Halamis}{34}{subsection*.324}%
 \contentsline {subsubsection}{Sintesi assoluta}{34}{subsubsection*.325}%
 \contentsline {subsection}{Scudo della Lealtà di Artorias}{34}{subsection*.326}%
-\contentsline {section}{Oggetti non legati ai personaggi dei giocatori}{34}{section*.327}%
-\contentsline {subsection}{Errori di battitura}{34}{subsection*.328}%
-\contentsline {subsubsection}{Alabarba}{34}{subsubsection*.329}%
-\contentsline {subsection}{Frattura}{34}{subsection*.330}%
-\contentsline {subsubsection}{Squarcio dimensionale}{34}{subsubsection*.331}%
-\contentsline {subsubsection}{Fenditura silenziosa}{34}{subsubsection*.332}%
-\contentsline {subsubsection}{Strappo duraturo}{34}{subsubsection*.333}%
-\contentsline {subsubsection}{Gringott}{34}{subsubsection*.334}%
-\contentsline {subsubsection}{Espansione immobiliare}{34}{subsubsection*.335}%
-\contentsline {subsubsection}{Fendispazio}{35}{subsubsection*.336}%
-\contentsline {subsubsection}{Fendispazio interplanare}{35}{subsubsection*.337}%
-\contentsline {subsection}{Guanti del CleptoMana}{35}{subsection*.338}%
-\contentsline {subsubsection}{Un regalo da molto lontano... ma in che direzione?}{35}{subsubsection*.339}%
-\contentsline {subsubsection}{Ladro di Magia}{35}{subsubsection*.340}%
-\contentsline {subsubsection}{Controincantesimo}{35}{subsubsection*.341}%
-\contentsline {subsubsection}{Pura Cleptoman(i)a}{35}{subsubsection*.342}%
-\contentsline {subsection}{Occhi di Omatara}{35}{subsection*.343}%
-\contentsline {subsubsection}{Sotto lo sguardo della morte}{35}{subsubsection*.344}%
-\contentsline {subsubsection}{L'occhio sinistro}{35}{subsubsection*.345}%
-\contentsline {subsubsection}{L'occhio destro}{35}{subsubsection*.346}%
-\contentsline {subsubsection}{Stereoscopia}{36}{subsubsection*.347}%
+\contentsline {subsection}{Lama della Distruzione (nome placeholder)}{34}{subsection*.327}%
+\contentsline {subsubsection}{Una prima scintilla di magi}{34}{subsubsection*.328}%
+\contentsline {subsubsection}{Rilevatore}{34}{subsubsection*.329}%
+\contentsline {subsubsection}{Punizione del caos}{34}{subsubsection*.330}%
+\contentsline {subsubsection}{Incanlazione magica}{34}{subsubsection*.331}%
+\contentsline {subsubsection}{Colpo rotante}{34}{subsubsection*.332}%
+\contentsline {subsubsection}{Un rifugio sempre a portata di mano}{34}{subsubsection*.333}%
+\contentsline {subsubsection}{Un rifugio sempre a portata di mano}{34}{subsubsection*.334}%
+\contentsline {subsubsection}{Un potente alleato}{34}{subsubsection*.335}%
+\contentsline {section}{Oggetti non legati ai personaggi dei giocatori}{35}{section*.336}%
+\contentsline {subsection}{Errori di battitura}{35}{subsection*.337}%
+\contentsline {subsubsection}{Alabarba}{35}{subsubsection*.338}%
+\contentsline {subsection}{Frattura}{35}{subsection*.339}%
+\contentsline {subsubsection}{Squarcio dimensionale}{35}{subsubsection*.340}%
+\contentsline {subsubsection}{Fenditura silenziosa}{35}{subsubsection*.341}%
+\contentsline {subsubsection}{Strappo duraturo}{35}{subsubsection*.342}%
+\contentsline {subsubsection}{Gringott}{35}{subsubsection*.343}%
+\contentsline {subsubsection}{Espansione immobiliare}{35}{subsubsection*.344}%
+\contentsline {subsubsection}{Fendispazio}{35}{subsubsection*.345}%
+\contentsline {subsubsection}{Fendispazio interplanare}{35}{subsubsection*.346}%
+\contentsline {subsection}{Guanti del CleptoMana}{35}{subsection*.347}%
+\contentsline {subsubsection}{Un regalo da molto lontano... ma in che direzione?}{35}{subsubsection*.348}%
+\contentsline {subsubsection}{Ladro di Magia}{35}{subsubsection*.349}%
+\contentsline {subsubsection}{Controincantesimo}{36}{subsubsection*.350}%
+\contentsline {subsubsection}{Pura Cleptoman(i)a}{36}{subsubsection*.351}%
+\contentsline {subsection}{Occhi di Omatara}{36}{subsection*.352}%
+\contentsline {subsubsection}{Sotto lo sguardo della morte}{36}{subsubsection*.353}%
+\contentsline {subsubsection}{L'occhio sinistro}{36}{subsubsection*.354}%
+\contentsline {subsubsection}{L'occhio destro}{36}{subsubsection*.355}%
+\contentsline {subsubsection}{Stereoscopia}{36}{subsubsection*.356}%
 \contentsline {part}{\numberline {3}Il Mondo di Eovras}{37}{part.3}%
 \contentsline {chapter}{\numberline {17}La Magia e gli Dei}{38}{chapter.17}%
-\contentsline {section}{La Magia a Eovras}{38}{section*.348}%
-\contentsline {paragraph}{Gli studi dei Maghi}{38}{paragraph*.349}%
-\contentsline {paragraph}{Il talento degli Stregoni}{38}{paragraph*.350}%
-\contentsline {paragraph}{L'ispirazione divina dei Chierici}{38}{paragraph*.351}%
-\contentsline {paragraph}{L'intuizione lirica dei Druidi}{38}{paragraph*.352}%
-\contentsline {paragraph}{Il playback degli Warlock}{38}{paragraph*.353}%
-\contentsline {paragraph}{I Bardi ve li spiegate da soli}{38}{paragraph*.354}%
-\contentsline {subsection}{Scuola di Matemagia}{38}{subsection*.355}%
-\contentsline {subsection}{Desiderio}{38}{subsection*.356}%
-\contentsline {subsection}{Resurrezione}{38}{subsection*.357}%
-\contentsline {section}{Il pantheon di Eovras}{38}{section*.358}%
+\contentsline {section}{La Magia a Eovras}{38}{section*.357}%
+\contentsline {paragraph}{Gli studi dei Maghi}{38}{paragraph*.358}%
+\contentsline {paragraph}{Il talento degli Stregoni}{38}{paragraph*.359}%
+\contentsline {paragraph}{L'ispirazione divina dei Chierici}{38}{paragraph*.360}%
+\contentsline {paragraph}{L'intuizione lirica dei Druidi}{38}{paragraph*.361}%
+\contentsline {paragraph}{Il playback degli Warlock}{38}{paragraph*.362}%
+\contentsline {paragraph}{I Bardi ve li spiegate da soli}{38}{paragraph*.363}%
+\contentsline {subsection}{Scuola di Matemagia}{38}{subsection*.364}%
+\contentsline {subsection}{Desiderio}{38}{subsection*.365}%
+\contentsline {subsection}{Resurrezione}{38}{subsection*.366}%
+\contentsline {section}{Il pantheon di Eovras}{38}{section*.367}%
 \contentsline {chapter}{\numberline {18}Foresta di Mythrenwald}{39}{chapter.18}%
-\contentsline {section}{Luoghi}{39}{section*.359}%
-\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{39}{subsection*.360}%
-\contentsline {subsubsection}{Dentro al tronco dell'Albero}{39}{subsubsection*.361}%
-\contentsline {subsubsection}{Sulla chioma}{39}{subsubsection*.362}%
-\contentsline {subsection}{Il borgo di Mythrenberg}{39}{subsection*.363}%
-\contentsline {subsubsection}{La sede del Circolo}{39}{subsubsection*.364}%
-\contentsline {subsubsection}{La biblioteca della corteccia}{39}{subsubsection*.365}%
-\contentsline {subsubsection}{La falegnameria di Y'Keah}{39}{subsubsection*.366}%
-\contentsline {subsection}{I villaggi di Mythrenwald}{39}{subsection*.367}%
-\contentsline {section}{Abitanti}{39}{section*.368}%
-\contentsline {subsection}{Halimath Selevarum}{39}{subsection*.369}%
-\contentsline {subsubsection}{Il cieco con gli occhi aperti}{39}{subsubsection*.370}%
-\contentsline {subsubsection}{Un passato oscuro}{40}{subsubsection*.371}%
-\contentsline {subsection}{I Druidi di Mythrenwald}{40}{subsection*.372}%
-\contentsline {subsubsection}{I principi del Circolo}{40}{subsubsection*.373}%
-\contentsline {paragraph}{Protezione della Foresta}{40}{paragraph*.374}%
-\contentsline {paragraph}{Protezione della vita}{40}{paragraph*.375}%
-\contentsline {paragraph}{Rispetto della morte}{40}{paragraph*.376}%
-\contentsline {paragraph}{Studio della corteccia e del cielo}{40}{paragraph*.377}%
-\contentsline {paragraph}{Accoglienza e ospitalità}{40}{paragraph*.378}%
-\contentsline {subsection}{La struttura del Circolo}{40}{subsection*.379}%
-\contentsline {paragraph}{Il Grande Guardiano}{40}{paragraph*.380}%
-\contentsline {paragraph}{Kur il bibliotecario}{40}{paragraph*.381}%
-\contentsline {paragraph}{Il consiglio degli anziani}{40}{paragraph*.382}%
-\contentsline {paragraph}{L'Assemblea}{40}{paragraph*.383}%
-\contentsline {paragraph}{L'ordine dei viaggiatori}{41}{paragraph*.384}%
-\contentsline {subsubsection}{Y'Keah il carpentiere}{41}{subsubsection*.385}%
-\contentsline {subsection}{Fillianore Halamis}{41}{subsection*.386}%
-\contentsline {subsubsection}{Figlia dell'Abisso}{41}{subsubsection*.387}%
-\contentsline {subsubsection}{L'incontro col Triangolo}{41}{subsubsection*.388}%
-\contentsline {subsection}{Cianar Demellin}{41}{subsection*.389}%
-\contentsline {subsubsection}{Quando Pierino È il lupo}{41}{subsubsection*.390}%
-\contentsline {subsubsection}{Prescelto o sognatore?}{41}{subsubsection*.391}%
+\contentsline {section}{Luoghi}{39}{section*.368}%
+\contentsline {subsection}{Il Grande Albero di Mythrenbaum}{39}{subsection*.369}%
+\contentsline {subsubsection}{Dentro al tronco dell'Albero}{39}{subsubsection*.370}%
+\contentsline {subsubsection}{Sulla chioma}{39}{subsubsection*.371}%
+\contentsline {subsection}{Il borgo di Mythrenberg}{39}{subsection*.372}%
+\contentsline {subsubsection}{La sede del Circolo}{39}{subsubsection*.373}%
+\contentsline {subsubsection}{La biblioteca della corteccia}{39}{subsubsection*.374}%
+\contentsline {subsubsection}{La falegnameria di Y'Keah}{39}{subsubsection*.375}%
+\contentsline {subsection}{I villaggi di Mythrenwald}{39}{subsection*.376}%
+\contentsline {section}{Abitanti}{39}{section*.377}%
+\contentsline {subsection}{Halimath Selevarum}{39}{subsection*.378}%
+\contentsline {subsubsection}{Il cieco con gli occhi aperti}{39}{subsubsection*.379}%
+\contentsline {subsubsection}{Un passato oscuro}{40}{subsubsection*.380}%
+\contentsline {subsection}{I Druidi di Mythrenwald}{40}{subsection*.381}%
+\contentsline {subsubsection}{I principi del Circolo}{40}{subsubsection*.382}%
+\contentsline {paragraph}{Protezione della Foresta}{40}{paragraph*.383}%
+\contentsline {paragraph}{Protezione della vita}{40}{paragraph*.384}%
+\contentsline {paragraph}{Rispetto della morte}{40}{paragraph*.385}%
+\contentsline {paragraph}{Studio della corteccia e del cielo}{40}{paragraph*.386}%
+\contentsline {paragraph}{Accoglienza e ospitalità}{40}{paragraph*.387}%
+\contentsline {subsection}{La struttura del Circolo}{40}{subsection*.388}%
+\contentsline {paragraph}{Il Grande Guardiano}{40}{paragraph*.389}%
+\contentsline {paragraph}{Kur il bibliotecario}{40}{paragraph*.390}%
+\contentsline {paragraph}{Il consiglio degli anziani}{40}{paragraph*.391}%
+\contentsline {paragraph}{L'Assemblea}{40}{paragraph*.392}%
+\contentsline {paragraph}{L'ordine dei viaggiatori}{41}{paragraph*.393}%
+\contentsline {subsubsection}{Y'Keah il carpentiere}{41}{subsubsection*.394}%
+\contentsline {subsection}{Fillianore Halamis}{41}{subsection*.395}%
+\contentsline {subsubsection}{Figlia dell'Abisso}{41}{subsubsection*.396}%
+\contentsline {subsubsection}{L'incontro col Triangolo}{41}{subsubsection*.397}%
+\contentsline {subsection}{Cianar Demellin}{41}{subsection*.398}%
+\contentsline {subsubsection}{Quando Pierino È il lupo}{41}{subsubsection*.399}%
+\contentsline {subsubsection}{Prescelto o sognatore?}{41}{subsubsection*.400}%
 \contentsline {part}{\numberline {4}Appendice}{42}{part.4}%
 \contentsfinish 
 \contentsline {chapter}{\numberline {19}Creature}{43}{chapter.19}%

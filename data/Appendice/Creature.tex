@@ -1,1 +1,72 @@
 \chapter{Creature}
+\begin{DndMonster}[float*=b,width=\textwidth + 8pt]{Anima della Distruzione}
+    \begin{multicols}{2}
+      \DndMonsterType{Folletto medio, legale malvagio}
+  
+      % If you want to use commas in the key values, enclose the values in braces.
+      \DndMonsterBasics[
+          armor-class = {16 (corazza)},
+          hit-points  = {\DndDice{23d8 + 46}},
+          speed       = {9m},
+        ]
+  
+      \DndMonsterAbilityScores[
+          str = 16,
+          dex = 16,
+          con = 14,
+          int = 20,
+          wis = 20,
+          cha = 16,
+        ]
+  
+      \DndMonsterDetails[
+          saving-throws = {Con +7, Int +10, Wis +10},
+          skills = {Furtività +7, Intuizione +10, Percezione +10, Religione +10, Storia +10, Arcano +10},
+          condition-immunities = {Spaventato},
+          senses = {Percezione passiva 20, Scurovisione 18 m},
+          languages = {Elfico, Sottocomune},
+          challenge = 14,
+          %PB: +5
+        ]
+      % Traits
+       \DndMonsterAction{Distinzione di menzogne}
+        L'anima della Distruzione è in grado di capire quando una creatura a portata d'orecchio dice una menzogna in una lingua che essa conosce.
+        
+        \DndMonsterAction{Essenza Magica}
+        L'anima della Distruzione ha vantaggio nei tiri salvezza per non essere affascinata e la magia non può addormentarla.
+
+      \DndMonsterSection{Azioni}
+  
+      \DndMonsterAction{Multiattacco}
+      L'anima della Distruzione compie tre attachi Stocco della Morte
+      %Default values are shown commented out
+      \DndMonsterAttack[
+        name={Stocco della Morte},
+        distance=melee, % valid options are in the set {both,melee,ranged},
+        %type=weapon, %valid options are in the set {weapon,spell}
+        mod=+10,
+        reach={1,5},
+        %range=20/60,
+        targets=un bersaglio,
+        dmg=\DndDice{1d8+5},
+        dmg-type=perforanti,
+        plus-dmg={\DndDice{4d8}},
+        plus-dmg-type=necrotici,
+        %or-dmg=,
+        %or-dmg-when=,
+        extra={Il massimo dei punti ferita del bersaglio viene ridotto di un ammontare pari al danno necrotico subito. Questa riduzione dura fino a quando il bersaglio non termina un riposo lungo. Il bersaglio muore se i suoi punti ferita massimi si azzerano.},
+      ]
+
+      \DndMonsterAction{Incantesimi} L'Anima della Spada lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18):
+      \begin{DndMonsterSpells}
+        \item \textsf{A volontà:} individuazione del magico, messaggio, luci danzanti, taumaturgia.
+        \item \textsf{1/giorno ciascuno:} chiaroveggenza, dissolvi magie, individuazione dei pensiaeri, levitazione \textsf{(solo sé stesso)}, luminescenza, oscurità, silenzio, suggestione, visione del vero.
+      \end{DndMonsterSpells}
+  
+      % Legendary Actions
+      \DndMonsterSection{Azioni Bonus}
+      \DndMonsterAction{Pugnale spettrale (ricarica dopo un riposo breve o lungo)} L'Anima della Distruzione evoca lo spettro di un pugnale fluttuante entro 18 metri di distanza. Essa può effettuare un attacco in mischia con questo incantesimo (+10 al tiro per colpire) contro una creatura entro 1,5 metri di distanza dal pugnale. Se lo colpisce, il bersaglio subisce \DndDice{1d8+5} danni da forza. 
+
+      Il pugnale dura 1 minuto. Come azione bonus nei turni successivi l'Anima della Distruzione può muovere il pugnale di un massimo di 6 metri e ripetere l'attacco contro una creatura entro 1,5 metri di distanza dal pugnale.
+    \end{multicols}
+  \end{DndMonster}
