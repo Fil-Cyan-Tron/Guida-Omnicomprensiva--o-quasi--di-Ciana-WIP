@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.22)  4 MAY 2024 17:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.22)  6 MAY 2024 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1090,24 +1090,24 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 (./lib/languages/spanish.sty) (./lib/languages/french.sty) (./Guida.aux)
 \openout1 = `Guida.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1133,15 +1133,15 @@ e
 ))
 \symgns@font=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/pbk/m/n --> TS1/pbk/b/n on input line 43.
-Package gensymb Info: Math companion symbols declared on input line 43.
-LaTeX Info: Redefining \degree on input line 43.
-LaTeX Info: Redefining \celsius on input line 43.
+(Font)                  TS1/pbk/m/n --> TS1/pbk/b/n on input line 48.
+Package gensymb Info: Math companion symbols declared on input line 48.
+LaTeX Info: Redefining \degree on input line 48.
+LaTeX Info: Redefining \celsius on input line 48.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 43.
-LaTeX Info: Redefining \ohm on input line 43.
-Package gensymb Info: Using \textohm for \ohm on input line 43.
-Package gensymb Info: Using \textmu for \micro on input line 43.
+erthousand on input line 48.
+LaTeX Info: Redefining \ohm on input line 48.
+Package gensymb Info: Using \textohm for \ohm on input line 48.
+Package gensymb Info: Using \textmu for \micro on input line 48.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1177,18 +1177,18 @@ Package gensymb Info: Using \textmu for \micro on input line 43.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 43.
-Package microtype Info: Applying patch `item' on input line 43.
-Package microtype Info: Applying patch `toc' on input line 43.
-Package microtype Info: Applying patch `eqnum' on input line 43.
-Package microtype Info: Applying patch `footnote' on input line 43.
+LaTeX Info: Redefining \microtypecontext on input line 48.
+Package microtype Info: Applying patch `item' on input line 48.
+Package microtype Info: Applying patch `toc' on input line 48.
+Package microtype Info: Applying patch `eqnum' on input line 48.
+Package microtype Info: Applying patch `footnote' on input line 48.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 43.
+LaTeX Info: Redefining \showhyphens on input line 48.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1198,14 +1198,14 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 \c@mv@tabular=\count363
 \c@mv@boldtabular=\count364
-LaTeX Info: Redefining \it@ocap on input line 43.
-LaTeX Info: Redefining \it@ccap on input line 43.
+LaTeX Info: Redefining \it@ocap on input line 48.
+LaTeX Info: Redefining \it@ccap on input line 48.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count365
-Package hyperref Info: Link coloring OFF on input line 43.
+Package hyperref Info: Link coloring OFF on input line 48.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1217,26 +1217,26 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count366
 )
-LaTeX Info: Redefining \ref on input line 43.
-LaTeX Info: Redefining \pageref on input line 43.
-LaTeX Info: Redefining \nameref on input line 43.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
 
 (./Guida.out) (./Guida.out)
 \@outlinefile=\write4
 \openout4 = `Guida.out'.
 
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 48.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <12> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 48.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 48.
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 53.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1245,7 +1245,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1254,34 +1254,34 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 4
-8.
+LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 5
+3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pbk.fd
 File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <12> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 53.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pbk' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
-<img/paper.jpg, id=236, 2559.5625pt x 3312.375pt>
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 53.
+<img/paper.jpg, id=99, 2559.5625pt x 3312.375pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 48.
+Package pdftex.def Info: img/paper.jpg  used on input line 53.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 48.
+Package pdftex.def Info: img/paper.jpg  used on input line 53.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 48.
+Package pdftex.def Info: img/paper.jpg  used on input line 53.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
  [1
 
@@ -1290,116 +1290,96 @@ Package pdftex.def Info: img/paper.jpg  used on input line 48.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/paper.jpg>]
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 49.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 54.
 
 contour: Using 32 copies for `Indice\ttl@gmk{\@mkboth{\MakeUppercase {Indice}}{
-\MakeUppercase {Indice}}}' on input line 49.
+\MakeUppercase {Indice}}}' on input line 54.
 (./Guida.toc
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 4.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 4.
-LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 6.
 
-Overfull \hbox (27.36609pt too wide) in paragraph at lines 80--80
-[]|\T1/pbk/l/sc/14.4 (-20) Parte 2: []Op-zio-ni per i per-so-nag-gi[]|  
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 81
+Overfull \hbox (0.57983pt too wide) detected at line 82
  \T1/pbk/l/sc/12 10
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 97
+Overfull \hbox (0.57983pt too wide) detected at line 98
  \T1/pbk/l/sc/12 11
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 110
+Overfull \hbox (0.57983pt too wide) detected at line 111
  \T1/pbk/l/sc/12 12
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 120
+Overfull \hbox (0.57983pt too wide) detected at line 121
  \T1/pbk/l/sc/12 13
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 126
+Overfull \hbox (0.57983pt too wide) detected at line 127
  \T1/pbk/l/sc/12 14
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
-[]|[]\T1/pbk/l/n/10 (+20) Archetipo La-dre-sco: il Cam-mi-na-to-re del-le 
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 137
+Overfull \hbox (0.57983pt too wide) detected at line 138
  \T1/pbk/l/sc/12 15
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-[]|[]\T1/pbk/l/n/10 (+20) Tradizione Mo-na-sti-ca: Via del-l'Om-bra 
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 160
+Overfull \hbox (0.57983pt too wide) detected at line 161
  \T1/pbk/l/sc/12 17
  []
 
 
-Overfull \hbox (6.64532pt too wide) in paragraph at lines 163--163
-[]|[]\T1/pbk/l/n/10 (-20) Giuramento Di-vi-no: Giu-ra-men-to di Ve-ra-men-te 
- []
-
-
-Overfull \hbox (0.57983pt too wide) detected at line 170
+Overfull \hbox (0.57983pt too wide) detected at line 171
  \T1/pbk/l/sc/12 18
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 222
+Overfull \hbox (0.57983pt too wide) detected at line 223
  \T1/pbk/l/sc/12 23
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 244
+Overfull \hbox (0.57983pt too wide) detected at line 245
  \T1/pbk/l/sc/12 25
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 271
+Overfull \hbox (0.57983pt too wide) detected at line 272
  \T1/pbk/l/sc/12 28
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 284
+Overfull \hbox (0.57983pt too wide) detected at line 285
  \T1/pbk/l/sc/12 29
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 315
+Overfull \hbox (0.57983pt too wide) detected at line 316
  \T1/pbk/l/sc/12 32
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 377
+Overfull \hbox (0.57983pt too wide) detected at line 378
  \T1/pbk/l/sc/12 38
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 389
+Overfull \hbox (0.57983pt too wide) detected at line 390
  \T1/pbk/l/sc/12 39
  []
 
 
-Overfull \hbox (0.57983pt too wide) detected at line 425
+Overfull \hbox (0.57983pt too wide) detected at line 426
  \T1/pbk/l/sc/12 43
  []
 
@@ -1409,50 +1389,49 @@ Overfull \hbox (0.57983pt too wide) detected at line 425
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 49.
+Package pdftex.def Info: img/paper.jpg  used on input line 54.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 49.
+Package pdftex.def Info: img/paper.jpg  used on input line 54.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 49.
+Package pdftex.def Info: img/paper.jpg  used on input line 54.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <7> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
-<img/footerscroll.pdf, id=358, 596.2275pt x 42.15584pt>
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 54.
+<img/footerscroll.pdf, id=153, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 54.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <5> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <5> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 49.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 54.
  [2
 
 
 
  <./img/footerscroll.pdf>]
-contour: Using 32 copies for `Parte\ 1' on input line 53.
-contour: Using 32 copies for `Ipotesi' on input line 53.
-contour: Using 32 copies for `necessarie' on input line 53.
+contour: Using 32 copies for `Ipotesi' on input line 60.
+contour: Using 32 copies for `necessarie' on input line 60.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 53.
+Package pdftex.def Info: img/paper.jpg  used on input line 60.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 53.
+Package pdftex.def Info: img/paper.jpg  used on input line 60.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 53.
+Package pdftex.def Info: img/paper.jpg  used on input line 60.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 53.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 60.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [1
 
@@ -1460,8 +1439,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 53.
 
 
 ] (./data/Ipotesi/Introduzione.tex
-Capitolo 1.
-contour: Using 32 copies for `Capitolo\ 1:' on input line 1.
 contour: Using 32 copies for `Introduzione' on input line 1.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <10> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 5.
@@ -1491,8 +1468,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 
 
 ]
-Capitolo 2.
-contour: Using 32 copies for `Capitolo\ 2:' on input line 1.
 contour: Using 32 copies for `Qualche' on input line 1.
 contour: Using 32 copies for `regola' on input line 1.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <20.74> not available
@@ -1624,8 +1599,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
  [6
 
 ]
-Capitolo 3.
-contour: Using 32 copies for `Capitolo\ 3:' on input line 1.
 contour: Using 32 copies for `Economia' on input line 1.
 contour: Using 32 copies for `delle' on input line 1.
 contour: Using 32 copies for `azioni' on input line 1.
@@ -1660,50 +1633,47 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 51.
 ])
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 61.
+Package pdftex.def Info: img/paper.jpg  used on input line 68.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 61.
+Package pdftex.def Info: img/paper.jpg  used on input line 68.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 61.
+Package pdftex.def Info: img/paper.jpg  used on input line 68.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 61.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 68.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [8
 
 ]
-contour: Using 32 copies for `Parte\ 2' on input line 61.
-contour: Using 32 copies for `Opzioni' on input line 61.
-contour: Using 32 copies for `per' on input line 61.
-contour: Using 32 copies for `i' on input line 61.
-contour: Using 32 copies for `personaggi' on input line 61.
+contour: Using 32 copies for `Opzioni' on input line 68.
+contour: Using 32 copies for `per' on input line 68.
+contour: Using 32 copies for `i' on input line 68.
+contour: Using 32 copies for `personaggi' on input line 68.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 61.
+Package pdftex.def Info: img/paper.jpg  used on input line 68.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 61.
+Package pdftex.def Info: img/paper.jpg  used on input line 68.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 61.
+Package pdftex.def Info: img/paper.jpg  used on input line 68.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 61.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 68.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [9
 
 
 ] (./data/Personaggi/Razze.tex
-Capitolo 4.
-contour: Using 32 copies for `Capitolo\ 4:' on input line 1.
 contour: Using 32 copies for `Razze' on input line 1.
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -1731,8 +1701,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 
 
 ]
-Capitolo 5.
-contour: Using 32 copies for `Capitolo\ 5:' on input line 1.
 contour: Using 32 copies for `Barbaro' on input line 1.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <9> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 4.
@@ -1759,8 +1727,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
  [11
 
 ]
-Capitolo 6.
-contour: Using 32 copies for `Capitolo\ 6:' on input line 1.
 contour: Using 32 copies for `Chierico' on input line 1.
 Missing character: There is no ; in font nullfont!
 (/usr/share/texlive/texmf-dist/tex/latex/gillius/TS1GilliusADFNoTwo-LF.fd))
@@ -1784,8 +1750,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
  [12
 
 ]
-Capitolo 7.
-contour: Using 32 copies for `Capitolo\ 7:' on input line 1.
 contour: Using 32 copies for `Guerriero' on input line 1.
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <10> not available
 (Font)              Font shape `T1/pbk/db/sc' tried instead on input line 5.
@@ -1960,8 +1924,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
  [13
 
 ]
-Capitolo 8.
-contour: Using 32 copies for `Capitolo\ 8:' on input line 1.
 contour: Using 32 copies for `Ladro' on input line 1.
 Missing character: There is no ; in font nullfont!
 Package lettrine.sty Info: Targeted height = 41.41992pt
@@ -1989,8 +1951,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
  [14
 
 ]
-Capitolo 9.
-contour: Using 32 copies for `Capitolo\ 9:' on input line 1.
 contour: Using 32 copies for `Monaco' on input line 1.
 Missing character: There is no ; in font nullfont!
 Package lettrine.sty Info: Targeted height = 41.41992pt
@@ -2063,8 +2023,6 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [16]
-Capitolo 10.
-contour: Using 32 copies for `Capitolo\ 10:' on input line 1.
 contour: Using 32 copies for `Paladino' on input line 1.
 Missing character: There is no ; in font nullfont!
 ) (./data/Personaggi/Sapiente.tex
@@ -2087,8 +2045,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
  [17
 
 ]
-Capitolo 11.
-contour: Using 32 copies for `Capitolo\ 11:' on input line 1.
 contour: Using 32 copies for `Sapiente' on input line 1.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 38.
@@ -2184,8 +2140,6 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [22]
-Capitolo 12.
-contour: Using 32 copies for `Capitolo\ 12:' on input line 1.
 contour: Using 32 copies for `Stregone' on input line 1.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -2235,8 +2189,6 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [24]
-Capitolo 13.
-contour: Using 32 copies for `Capitolo\ 13:' on input line 1.
 contour: Using 32 copies for `Warlock' on input line 1.
 LaTeX Font Info:    Font shape `TS1/pbk/m/it' in size <10> not available
 (Font)              Font shape `TS1/pbk/l/it' tried instead on input line 8.
@@ -2309,8 +2261,6 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [27]
-Capitolo 14.
-contour: Using 32 copies for `Capitolo\ 14:' on input line 1.
 contour: Using 32 copies for `Talenti' on input line 1.
 ) (./data/Personaggi/Incantesimi.tex
 File: img/paper.jpg Graphic file (type jpg)
@@ -2332,8 +2282,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
  [28
 
 ]
-Capitolo 15.
-contour: Using 32 copies for `Capitolo\ 15:' on input line 1.
 contour: Using 32 copies for `Incantesimi' on input line 1.
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -2377,141 +2325,136 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 107.
  [30]) (./data/Personaggi/Oggetti.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 2.
+Package pdftex.def Info: img/paper.jpg  used on input line 1.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 2.
+Package pdftex.def Info: img/paper.jpg  used on input line 1.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 2.
+Package pdftex.def Info: img/paper.jpg  used on input line 1.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 2.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [31
 
 ]
-Capitolo 16.
-contour: Using 32 copies for `Capitolo\ 16:' on input line 2.
-contour: Using 32 copies for `Oggetti' on input line 2.
-contour: Using 32 copies for `magici' on input line 2.
+contour: Using 32 copies for `Oggetti' on input line 1.
+contour: Using 32 copies for `magici' on input line 1.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 37.
+Package pdftex.def Info: img/paper.jpg  used on input line 36.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 37.
+Package pdftex.def Info: img/paper.jpg  used on input line 36.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 37.
+Package pdftex.def Info: img/paper.jpg  used on input line 36.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 37.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 36.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [32
 
 ]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 86.
+Package pdftex.def Info: img/paper.jpg  used on input line 85.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 86.
+Package pdftex.def Info: img/paper.jpg  used on input line 85.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 86.
+Package pdftex.def Info: img/paper.jpg  used on input line 85.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 86.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 85.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [33]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 131.
+Package pdftex.def Info: img/paper.jpg  used on input line 130.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 131.
+Package pdftex.def Info: img/paper.jpg  used on input line 130.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 131.
+Package pdftex.def Info: img/paper.jpg  used on input line 130.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 131.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 130.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [34]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 175.
+Package pdftex.def Info: img/paper.jpg  used on input line 174.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 175.
+Package pdftex.def Info: img/paper.jpg  used on input line 174.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 175.
+Package pdftex.def Info: img/paper.jpg  used on input line 174.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 175.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 174.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [35])
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 99.
+Package pdftex.def Info: img/paper.jpg  used on input line 106.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 99.
+Package pdftex.def Info: img/paper.jpg  used on input line 106.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 99.
+Package pdftex.def Info: img/paper.jpg  used on input line 106.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 99.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 106.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [36]
-contour: Using 32 copies for `Parte\ 3' on input line 99.
-contour: Using 32 copies for `Il' on input line 99.
-contour: Using 32 copies for `Mondo' on input line 99.
-contour: Using 32 copies for `di' on input line 99.
-contour: Using 32 copies for `Eovras' on input line 99.
+contour: Using 32 copies for `Il' on input line 106.
+contour: Using 32 copies for `Mondo' on input line 106.
+contour: Using 32 copies for `di' on input line 106.
+contour: Using 32 copies for `Eovras' on input line 106.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 99.
+Package pdftex.def Info: img/paper.jpg  used on input line 106.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 99.
+Package pdftex.def Info: img/paper.jpg  used on input line 106.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 99.
+Package pdftex.def Info: img/paper.jpg  used on input line 106.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 99.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 106.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [37
 
 
 ] (./data/Eovras/Magia.tex
-Capitolo 17.
-contour: Using 32 copies for `Capitolo\ 17:' on input line 1.
 contour: Using 32 copies for `La' on input line 1.
 contour: Using 32 copies for `Magia' on input line 1.
 contour: Using 32 copies for `e' on input line 1.
@@ -2547,8 +2490,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 
 
 ]
-Capitolo 18.
-contour: Using 32 copies for `Capitolo\ 18:' on input line 1.
 contour: Using 32 copies for `Foresta' on input line 1.
 contour: Using 32 copies for `di' on input line 1.
 contour: Using 32 copies for `Mythrenwald' on input line 1.
@@ -2595,45 +2536,42 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 78.
  [40])
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 105.
+Package pdftex.def Info: img/paper.jpg  used on input line 112.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 105.
+Package pdftex.def Info: img/paper.jpg  used on input line 112.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 105.
+Package pdftex.def Info: img/paper.jpg  used on input line 112.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 105.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 112.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [41]
-contour: Using 32 copies for `Parte\ 4' on input line 105.
-contour: Using 32 copies for `Appendice' on input line 105.
+contour: Using 32 copies for `Appendice' on input line 112.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 105.
+Package pdftex.def Info: img/paper.jpg  used on input line 112.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 105.
+Package pdftex.def Info: img/paper.jpg  used on input line 112.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 105.
+Package pdftex.def Info: img/paper.jpg  used on input line 112.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 105.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 112.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [42
 
 
 ] (./data/Appendice/Creature.tex
-Capitolo 19.
-contour: Using 32 copies for `Capitolo\ 19:' on input line 1.
 contour: Using 32 copies for `Creature' on input line 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
@@ -2805,19 +2743,19 @@ See the caption package documentation for explanation.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 109.
+Package pdftex.def Info: img/paper.jpg  used on input line 116.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 109.
+Package pdftex.def Info: img/paper.jpg  used on input line 116.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 109.
+Package pdftex.def Info: img/paper.jpg  used on input line 116.
 (pdftex.def)             Requested size: 614.30756pt x 794.93571pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 109.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 116.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [43
 
@@ -2825,14 +2763,14 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 109.
 
 ] (./Guida.aux)
 Package rerunfilecheck Info: File `Guida.out' has not changed.
-(rerunfilecheck)             Checksum: C356F9AD0F9BF7E201EA8EE0EE20713B;9591.
+(rerunfilecheck)             Checksum: 74ABCFC7B117D9557F1195FD286278CB;2592.
  ) 
 Here is how much of TeX's memory you used:
- 35449 strings out of 478287
- 685971 string characters out of 5849289
+ 35409 strings out of 478287
+ 685553 string characters out of 5849289
  1429925 words of memory out of 5000000
- 51777 multiletter control sequences out of 15000+600000
- 612560 words of font info for 517 fonts, out of 8000000 for 9000
+ 51742 multiletter control sequences out of 15000+600000
+ 612175 words of font info for 513 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  119i,18n,122p,1387b,1130s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
@@ -2863,10 +2801,10 @@ ts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ub
 kd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Guida.pdf (45 pages, 751986 bytes).
+Output written on Guida.pdf (45 pages, 739547 bytes).
 PDF statistics:
- 1161 PDF objects out of 1200 (max. 8388607)
- 992 compressed objects within 10 object streams
+ 987 PDF objects out of 1000 (max. 8388607)
+ 853 compressed objects within 9 object streams
  470 named destinations out of 1000 (max. 500000)
- 154591 words of extra memory for PDF output out of 184870 (max. 10000000)
+ 154319 words of extra memory for PDF output out of 184870 (max. 10000000)
 

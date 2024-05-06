@@ -40,6 +40,11 @@
 \author{Ciana, ovviamente}
 \date{}
 
+\newcommand*{\nchapter}[1]{
+    \chapter*{#1}
+    \addcontentsline{toc}{chapter}{#1}
+}
+
 \begin{document}
 
 \frontmatter
@@ -48,9 +53,11 @@
 
 \tableofcontents
 
+\addtocontents{toc}{\protect\setcounter{tocdepth}{0}}
+
 \mainmatter
 
-\part{Ipotesi necessarie}
+\part*{Ipotesi necessarie}
 
 \input{data/Ipotesi/Introduzione.tex}
 
@@ -58,7 +65,7 @@
 
 \input{data/Ipotesi/Azioni.tex}
 
-\part{Opzioni per i personaggi}
+\part*{Opzioni per i personaggi}
 
 \input{data/Personaggi/Razze.tex}
 
@@ -96,13 +103,13 @@
 
 \input{data/Personaggi/Oggetti.tex}
 
-\part{Il Mondo di Eovras}
+\part*{Il Mondo di Eovras}
 
 \input{data/Eovras/Magia.tex}
 
 \input{data/Eovras/Mythrenwald.tex}
 
-\part{Appendice}
+\part*{Appendice}
 
 \input{data/Appendice/Creature.tex}
 
