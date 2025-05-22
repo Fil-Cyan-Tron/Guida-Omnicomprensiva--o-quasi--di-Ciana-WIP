@@ -1,0 +1,115 @@
+\documentclass[letterpaper,twocolumn,openany,nodeprecatedcode]{dndbook}
+
+% Use babel or polyglossia to automatically redefine macros for terms
+% Armor Class, Level, etc...
+% Default output is in English; captions are located in lib/dndstrings.sty.
+% If no captions exist for a language, English will be used.
+%1. To load a language with babel:
+%	\usepackage[<lang>]{babel}
+%2. To load a language with polyglossia:
+%	\usepackage{polyglossia}
+%	\setdefaultlanguage{<lang>}
+\usepackage[italian]{babel}
+%\usepackage[italian]{babel}
+% For further options (multilanguage documents, hypenations, language environments...)
+% please refer to babel/polyglossia's documentation.
+
+\usepackage[utf8]{inputenc}
+\usepackage[singlelinecheck=false]{caption}
+\usepackage{lipsum}
+\usepackage{listings}
+\usepackage{shortvrb}
+\usepackage{stfloats}
+
+\captionsetup[table]{labelformat=empty,font={sf,sc,bf,},skip=0pt}
+
+\MakeShortVerb{|}
+
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+  breaklines=true,
+}
+
+\title{The Dark \LaTeX{} \\
+\large An Example of the dndbook Class}
+\author{The rpgTeX Team}
+\date{2020/04/21}
+
+\begin{document}
+
+\chapter*{Cassandra Akatosh}
+
+\begin{DndReadAloud}
+  \it
+  Alto o basso,\\
+  Magro o grasso:\\
+  Resta subito di sasso.\\
+\end{DndReadAloud}
+
+\DndDropCapLine{D}{}iventare un Ofita non è doloroso, ma ha degli effetti curiosi sull'organismo di umani ed elfi: uno di questi è il rapido e irrimediabile lisciarsi dei capelli e il tingersi di nero di questi e degli iridi, qualunque fosse il loro colore originale. Per questo, è sorprendente imbattersi in un'Ofita riccia, con gli occhi verdi e un singolo ribelle ricciolo rosso sulla fronte.\\
+In effetti la matriarca Uriel del clan degli Akatosh è sempre stata turbata (se non preoccupata) dalla resilienza del cespuglio di capelli di fuoco e dello sguardo di smeraldo di quella che sembrava la classica orfanella trovata tra rimasugli e cadaveri di una carovana di mezzelfi assaltata dai predoni, ma col tempo anche gli altri membri della tribù si sono abituati al suo insolito look.\\
+
+\section{Bracciali del Gorgone}
+\textit{Oggetto meraviglioso (artefatto), richiede sintonia con un Ofita}\\
+La reliquia più sacra degli Ofiti, persa durante la Grande Disinfestazione e presunta distrutta. Si tratta di due bracciali di [metallo simil Ebano] ornati da bassorilievi di un serpente che si avviluppa intorno ad essi; quando il loro potere viene utilizzato, i bassorilievi sembrano muoversi.
+
+\subsection{Vita nell'ombra}
+Anche prima delle persecuzioni che hanno portato alla Grande Disinfestazione, gli Ofiti sono sempre stati trattati con diffidenza dalle civiltà degli elfi e degli umani.\\
+A partire dal 1° livello dell'utilizzatore, finchè questi bracciali sono indossati permettono di nascondere i tratti da Ofita del possessore, facendolo apparire come un normale elfo dei boschi come se fosse sotto l'effetto dell'incantesimo \textit{Cammuffare Sè Stesso}.
+
+\subsection{Marchio del Serpente}
+A partire dal 1° livello dell'utilizzatore, questi bracciali permettono di lanciare a volontà l'incantesimo \textit{Scritta Celeste} facendo comparire nel cielo un serpente di nuvole.
+
+\subsection{Zanne del serpente}
+A partire dal 4° livello dell'utilizzatore, questi bracciali forniscono un bonus di +1 ai tiri per colpire e ai danni ai colpi senz'armi del possessore.\\
+Questo bonus cresce a +2 al 12° livello e a +3 al 16° livello.
+
+\subsection{Muta}
+Per gli Ofiti il Dalamadur simboleggia il tempo non solo nella sua capacità di divorare ogni cosa, ma anche per il processo di rinnovamento tipico dei serpenti, la muta.\\
+A partire dal 4° livello dell'utilizzatore, durante un riposo lungo questi può fare una muta, curando gli effetti superficiali non magici di un combattimento (ad esempio graffi, cicatrici e lividi).\\
+Effetti più profondi (ad esempio amputazioni o ferite più profonde) possono richiedere più mute per essere curati, a discrezione del DM.
+
+\subsection{Muta migliorata}
+A partire dal 8° livello dell'utilizzatore, questi può decidere di alterare alcune sue caratteristiche fisiche (ad esempio genere o altezza) durante una muta.
+
+\subsection{Sguardo pietrificante}
+A partire dal 12° livello dell'utilizzatore, questi può lanciare l'incantesimo \textit{Carne in Pietra} come azione bonus contro un bersaglio che sia in grado di guardare negli occhi pronunciando le opportune parole magiche.\\
+Questo privilegio può essere usato un numero di volte pari al bonus di competenza dell'utilizzatore per riposo lungo.
+
+\subsection{Miasma illusorio}
+A partire dal 16° livello dell'utilizzatore, questi può lanciare l'incantesimo \textit{Drago Illusorio} di tipo Veleno per evocare un'ombra del Dalamadur.\\
+Questo privilegio può essere usato un numero di volte pari al bonus di competenza dell'utilizzatore per riposo lungo.
+
+\subsection{Il divoratore del mondo}
+A partire dal 19° livello dell'utilizzatore, al più una volta al giorno, questi può usare un'azione per scatenare un'eclissi di sole o di luna (in base all'ora del giorno) ed evocare il vero Dalamadur, richiedendo il suo \textit{Intervento Divino} (senza tirare il dado percentuale).\\
+La natura dell'intervento e il tempo necessario per poterlo chiedere nuovamente sono determinati dal DM.\\
+Se il Dalamadur non dovesse manifestare la sua forma fisica, lo farebbe attraverso l'ambiente circostante all'utilizzatore (ad esempio le nuvole, l'acqua o la sabbia).
+
+\section{Tradizione monastica: via della Vipera Profeta}
+
+I monaci Ofiti, tenendo fede al pacifismo della loro tradizione, hanno sempre mantenuto uno stile di combattimento basato sulla difesa, detto \textit{stile della Vipera}. Sulla base di questo, Cassandra ha trovato il modo di integrare le sue premonizioni per rendere il suo contrattacco più efficace.
+
+\subsection{Profezia}
+A partire dal 3° livello, il Monaco ottiene competenza nell'abilità Intuizione; se la possiede già o la ottiene con altri mezzi, invece di ottenere competenza ottiene maestria.
+
+\subsection{Riflessi}
+A partire dal 3° livello, il Monaco ottiene una reazione aggiuntiva per round (un singolo effetto può scatenare una singola reazione).\\
+Ne ottiene un'altra all'11° e un'altra ancora al 17°, per un totale di 4 reazioni per round.
+
+\subsection{Arti marziali migliorate}
+A partire dal 6° livello, quando una creatura che può vedere compie un attacco da mischia contro il Monaco, questi può usare la sua reazione e un punto ki per lanciare il proprio Dado da Monaco e aggiungere il suo risultato alla propria Classe Armatura contro quell'attacco. Se l'attacco manca, il Monaco può contrattaccare con un tiro per colpire come parte della stessa reazione.
+
+\subsection{}
+
+\subsection{Doom-driven warrior}
+Come culmine della propria abilità, il Monaco ha una conoscenza così profonda dei fili del destino da poter dirigere il flusso del fato a suo piacimento intorno a sè.\\
+A partire dal 17° livello, il Monaco può spendere 4 punti ki per lanciare uno dei seguenti incantesimi con le opportune modifiche:\begin{itemize}
+    \item \textit{Time Ravage} ma come effetto su un colpo senz'armi;\\
+    \item \textit{Fatale} ma attingendo ai momenti più traumatici della vita passata o futura dei bersagli;\\
+    \item \textit{Previsione} ma solo su sè stesso;\\
+    \item \textit{Fermare il Tempo};
+\end{itemize}
+
+
+\end{document}
