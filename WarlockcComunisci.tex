@@ -1,0 +1,77 @@
+\documentclass[letterpaper,twocolumn,openany,nodeprecatedcode]{dndbook}
+
+% Use babel or polyglossia to automatically redefine macros for terms
+% Armor Class, Level, etc...
+% Default output is in English; captions are located in lib/dndstrings.sty.
+% If no captions exist for a language, English will be used.
+%1. To load a language with babel:
+%	\usepackage[<lang>]{babel}
+%2. To load a language with polyglossia:
+%	\usepackage{polyglossia}
+%	\setdefaultlanguage{<lang>}
+\usepackage[italian]{babel}
+%\usepackage[italian]{babel}
+% For further options (multilanguage documents, hypenations, language environments...)
+% please refer to babel/polyglossia's documentation.
+
+\usepackage[utf8]{inputenc}
+\usepackage[singlelinecheck=false]{caption}
+\usepackage{kantlipsum}
+\usepackage{listings}
+\usepackage{shortvrb}
+\usepackage{stfloats}
+\usepackage{hyperref}
+\usepackage{amsfonts}
+
+\captionsetup[table]{labelformat=empty,font={sf,sc,bf,},skip=0pt}
+
+\MakeShortVerb{|}
+
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+  breaklines=true,
+}
+
+\begin{document}
+
+\chapter*{Warlock}
+
+\section{Patrono Ultraterreno: Spazio Proiettivo}
+
+\begin{DndReadAloud}
+  \it
+  "E quando l'ho visto, ragazzi, ho esclamato 'Ma questa è Geometria Pura!'" \\ \begin{flushright} (O'skarr, Zar di Riski) \end{flushright}
+\end{DndReadAloud}
+
+\DndDropCapLine{G}{}irano voci su una certa entità... Un oggetto legato alla stessa natura dei piani dove ci muoviamo... coloro che ne hanno ricevuto l'intuizione lo descrivono come un universo assurdo, dove tutte le linee si incontrano in modi inaspettati, dove spazi infinitamente lontani sono a portata di "disomogeneizzazione"... roba da brividi!
+
+\subsection{Lista degli incantesimi ampliata}
+
+La conoscenza della Geometria Proiettiva permette al Warlock di poter scegliere i seguenti incantesimi in aggiunta a quelli della lista di incantesimi per Warlock.
+\begin{DndTable}{XX}
+  Livello dell'incantesimo  & Incantesimi \\
+  1°  &  Caduta Morbida, Colpo Intrappolante\\
+  2°  &  Levitazione, Zona di Verità\\
+  3°  &  Glifo di Interdizione, Lentezza\\
+  4°  &  Divinazione, Sfera Elastica di Otiluke\\
+  5°  &  Cerchio di Teletrasporto, Legame Planare\\
+\end{DndTable}
+
+\subsection{Forma lineare associata}
+A partire dal 1° livello, una volta per riposo lungo, il Warlock può indicare una creatura che sia in grado di vedere. Con un'azione può azzerare il bonus del tiro per colpire di quella creatura fino all'inizio del proprio prossimo turno.
+
+\subsection{Omogeneizzazione}
+A partire dal 6° livello, un numero di volte pari al suo bonus di competenza per riposo lungo, quando una creatura è a terra con 0 punti ferita, il Warlock può usare la sua azione e toccarla per trasferirla in un semipiano temporaneo. \\ 
+Finchè la creatura si trova nel semipiano, il Warlock ha a sua disposizione uno slot incantesimo aggiuntivo. Quando il Warlock inizia un riposo breve o usa questo privilegio su un'altra creatura, la creatura intrappolata viene liberata e diventa stabile.
+
+\subsection{Proiezione}
+A partire dal 10° livello, un numero di volte pari al suo bonus di competenza per riposo lungo, il Warlock può usare la sua azione per proiettare la sua immagine su una superficie solida che sia in grado di vedere. \\ 
+Per non più di 1 minuto, la posizione del Warlock diventa quella della sua immagine. Fintanto che si trova su una superficie, il Warlock può muoversi liberamentein ogni direzione lungo la stessa, al doppio della sua velocità di movimento, ma non può effettuare azioni che coinvolgano il mondo esterno ad eccezione del parlare. \\ 
+Dopo 1 minuto, il Warlock esce dalla superficie e appare nello spazio libero più vicino a dove si trovava sulla superficie. Questo effetto termina in anticipo se la superficie dove si trova il Warlock viene distrutta o se egli usa la sua azione per uscirne.
+
+\subsection{Chiusura Proiettiva di Bézout}
+A partire dal 14° livello, una volta per riposo breve, il Warlock può usare la sua azione bonus per generare un'aura di Geometria Pura nel raggio di 36 metri intorno a sè. \\ 
+Fino alla fine del prossimo turno del Warlock, tutti gli attacchi a distanza che richiedono un tiro per colpire effettuati da creature dentro l'aura contro altre creature dentro l'aura vanno automaticamente a segno senza effettuare il tiro per colpire.
+
+\end{document}
